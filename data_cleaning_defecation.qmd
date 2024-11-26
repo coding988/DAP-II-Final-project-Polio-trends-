@@ -1,0 +1,34 @@
+---
+title: "Data Cleaning"
+format: html
+---
+
+
+### Loading the Dattaframe
+```{python}
+#Loading the Dataframe
+import pandas as pd
+df = pd.read_csv("/Users/afreenwala/Downloads/Python Final Project/Defecation_Raw Data/API_SH.STA.ODFC.ZS_DS2_en_csv_v2_8972.csv")
+print(df.head()) 
+```
+
+### Cleaning File
+```{python}
+# Reshape the DataFrame from wide to long format
+df_long = pd.melt(
+    df,
+    id_vars=['Country Name', 'Country Code', 'Indicator Code'],  # Columns to keep as is
+    value_vars=[str(year) for year in range(2000, 2024)],        # Year columns to unpivot
+    var_name='Year',                                             # Name of the new "Year" column
+    value_name='Defecation Rate'                                 # Name of the new data column
+)
+
+# Display the resulting DataFrame
+print(df_long.head())
+df_long.to_csv("/Users/afreenwala/Downloads/Python Final Project/Defecation_Raw Data/reshaped_data.csv", index=False)
+```
+
+
+
+
+
