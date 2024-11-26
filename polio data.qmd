@@ -1,0 +1,73 @@
+---
+title: "Untitled"
+format: html
+---
+
+
+```{python}
+import pandas as pd
+file_path = "C:\\Users\\arifm\\OneDrive\\Documents\\GitHub\\DAP-II-Final-project-Polio-trends-\\polio cases data_mahnoor.csv"
+polio_data = pd.read_csv (file_path)
+```
+
+
+
+
+```{python}
+polio_data.head()
+```
+
+
+```{python}
+columns_to_keep = ['IndicatorCode', 'Indicator', 'SpatialDimValueCode', 'Location', 'Period', 'Value']
+polio_data_cleaned = polio_data[columns_to_keep]
+```
+
+
+```{python}
+polio_data_cleaned.head()
+```
+
+
+```{python}
+# Rename the columns in the DataFrame
+polio_data_cleaned = polio_data_cleaned.rename(columns={
+    'Value': 'reported_cases',
+    'SpatialDimValueCode': 'country_code',
+    'Location': 'country_name',
+    'Period': 'year'
+    'IndicatorCode : indicator_code'
+})
+
+# Display the first few rows of the cleaned DataFrame
+print("Renamed Columns:")
+print(polio_data_cleaned.head())
+
+```
+
+```{python}
+polio_data_cleaned.head()
+```
+
+
+```{python}
+output_file_path = "C:\\Users\\arifm\\OneDrive\\Documents\\GitHub\\DAP-II-Final-project-Polio-trends-"  
+polio_data_cleaned.to_csv(output_file_path, index=False)
+
+```
+
+
+```{python}
+# Filter for years between 2000 and 2022
+filtered_data = polio_data_cleaned[
+    (polio_data_cleaned['year'] >= 2000) & 
+    (polio_data_cleaned['year'] <= 2022)
+]
+
+# Further filter for positive polio cases
+positive_cases_data = filtered_data[filtered_data['reported_cases'] > 0]
+
+# Display the filtered data
+print("Countries with positive cases from 2000 to 2022:")
+print(positive_cases_data[['country_code', 'country_name', 'year', 'reported_cases']].head())
+```
