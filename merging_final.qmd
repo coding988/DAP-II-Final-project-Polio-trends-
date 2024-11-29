@@ -1,0 +1,121 @@
+---
+title: "Untitled"
+format: html
+---
+
+```{python}
+import pandas as pd
+
+
+# File paths
+immunisation_data = r"C:\Users\arifm\OneDrive\Documents\GitHub\DAP-II-Final-project-Polio-trends-\immunisation_data_long.csv"
+polio_data = r"C:\Users\arifm\OneDrive\Documents\GitHub\DAP-II-Final-project-Polio-trends-\polio_data_cleaned.csv"
+def_data = r"C:\Users\arifm\OneDrive\Documents\GitHub\DAP-II-Final-project-Polio-trends-\cleaned_def_data.csv"
+
+# Load datasets
+df1_immunisation = pd.read_csv(immunisation_data)
+df2_polio = pd.read_csv(polio_data)
+df3_def = pd.read_csv(def_data)
+
+# Merge datasets on 'country_code'
+merged_df = pd.merge(df1_immunisation, df2_polio , on='country_code', how='inner')
+merged_df = pd.merge(merged_df, df3_def, on='country_code', how='inner')
+```
+
+
+
+```{python}
+
+# List of countries to filter by
+countries_to_include = [
+    "Afghanistan", "Pakistan", "India",
+    "Malawi", "Nigeria", "Kenya", "Mozambique", 
+    "South Sudan", "Zimbabwe"
+]
+
+# Ensure 'country_name', 'Year', and 'IndicatorCode' columns are present
+# Filter the merged dataset for the specified countries, years between 2000 and 2018, 
+# and indicator code 'VACCINEPREVENTABLE_WILDPOLIO'
+filtered_data_polio = merged_data_polio[
+    (merged_data_polio['country_name'].isin(countries_to_include)) &  # Filter by countries
+    (merged_data_polio['Year'] >= 2000) &  # Filter by year range
+    (merged_data_polio['Year'] <= 2018) &  # Filter by year range
+    (merged_data_polio['IndicatorCode'] == 'VACCINEPREVENTABLE_WILDPOLIO')  # Filter by indicator code
+]
+
+# Display the first few rows of the filtered dataset
+print(filtered_data_polio.head())
+
+# Optionally, check the number of rows to ensure filtering was successful
+print(f"Number of rows in the filtered dataset: {len(filtered_data_polio)}")
+
+# Save the filtered dataset to a CSV file
+filtered_data_polio.to_csv('filtered_data_polio_vaccinepreventable.csv', index=False)
+
+# Confirm the file has been saved
+print("Filtered dataset saved as 'filtered_data_polio_vaccinepreventable.csv'")
+
+```
+
+
+```{python}
+
+```
+
+```{python}
+#PLOT IDEAS**
+
+import altair as alt
+import pandas as pd
+
+# Assume 'df' contains 'Country', 'Immunization Rate', 'Polio Cases', 'Open Defecation Rate'
+scatter_plot = alt.Chart(df).mark_circle().encode(
+    x=alt.X('Immunization Rate:Q', title='Immunization Rate (%)'),
+    y=alt.Y('Polio Cases:Q', title='Number of Polio Cases'),
+    size=alt.Size('Open Defecation Rate:Q', title='Open Defecation Rate (%)'),
+    color=alt.Color('Region:N', legend=alt.Legend(title='Region')),
+    tooltip=['Country:N', 'Polio Cases:Q', 'Immunization Rate:Q', 'Open Defecation Rate:Q']
+).properties(
+    title='Polio Cases vs. Immunization Rate (Size: Open Defecation Rate)',
+    width=700,
+    height=400
+)
+
+```
+
+
+
+```{python}
+##
+4. Heatmap for Two Indicators
+Variables:
+
+X-axis: Immunization Rate (Binned)
+Y-axis: Polio Cases (Binned)
+Color: Open Defecation Rate (Average in Bin)
+Insight: Identify clusters or hotspots where certain combinations of polio cases and immunization rates are prevalent
+
+heatmap = alt.Chart(df).mark_rect().encode(
+    x=alt.X('bin(Immunization Rate):O', title='Immunization Rate (%)'),
+    y=alt.Y('bin(Polio Cases):O', title='Polio Cases'),
+    color=alt.Color('mean(Open Defecation Rate):Q', scale=alt.Scale(scheme='viridis')),
+    tooltip=['mean(Open Defecation Rate):Q']
+).properties(title='Heatmap of Immunization and Polio Cases (Color: Open Defecation Rate)')
+
+```
+
+
+```{python}
+#Bubble Chart with Faceting
+bubble_chart = alt.Chart(df).mark_circle().encode(
+    x='Immunization Rate:Q',
+    y='Open Defecation Rate:Q',
+    size='Polio Cases:Q',
+    color='Region:N',
+    tooltip=['Country:N', 'Polio Cases:Q', 'Open Defecation Rate:Q']
+).facet(
+    facet='Region:N',
+    columns=3  # Adjust based on number of regions
+).properties(title='Polio Cases by Immunization and Open Defecation Rates')
+
+```
