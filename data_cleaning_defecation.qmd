@@ -4,6 +4,8 @@ format: html
 ---
 
 
+
+#### Part I : Defecation data
 ### Loading the Dattaframe
 ```{python}
 #Loading the Dataframe
@@ -14,20 +16,76 @@ print(df.head())
 
 ### Cleaning File
 ```{python}
-# Reshape the DataFrame from wide to long format
+# Reshape the DataFrame from wide to long format, for years 2000 to 2020
 df_long = pd.melt(
     df,
     id_vars=['Country Name', 'Country Code', 'Indicator Code'],  # Columns to keep as is
-    value_vars=[str(year) for year in range(2000, 2024)],        # Year columns to unpivot
+    value_vars=[str(year) for year in range(2000, 2021)],        # Year columns to unpivot (2000 to 2020)
     var_name='Year',                                             # Name of the new "Year" column
     value_name='Defecation Rate'                                 # Name of the new data column
 )
 
 # Display the resulting DataFrame
 print(df_long.head())
-df_long.to_csv("/Users/afreenwala/Downloads/Python Final Project/Defecation_Raw Data/reshaped_data.csv", index=False)
+
+# Save the reshaped data to CSV
+df_long.to_csv("/Users/afreenwala/Downloads/Python Final Project/Defecation_Raw Data/cleaned_def_data.csv", index=False)
 ```
 
+
+#### Part II : Polio cases  data
+### Loading the Dattaframe
+```{python}
+#loading the raw data
+df_2 = pd.read_csv("/Users/afreenwala/Downloads/Python Final Project/polio_cases.csv")
+print(df_2.head())
+```
+
+### Taking columns we need 
+```{python}
+# Select and rename the columns
+df_2_cleaned = df_2[['Location', 'SpatialDimValueCode', 'Period', 'FactValueNumeric']].copy()
+
+# Rename the columns
+df_2_cleaned.columns = ['Country Name', 'Country Code', 'Year', 'Polio Cases']
+
+# Filter the data for the years 2000 to 2020
+df_2_cleaned = df_2_cleaned[df_2_cleaned['Year'].between(2000, 2020)]
+
+# Display the resulting DataFrame
+print(df_2_cleaned.head())
+
+# Save the cleaned data to CSV
+df_2_cleaned.to_csv("/Users/afreenwala/Downloads/Python Final Project/clean_polio_data.csv", index=False)
+```
+
+
+
+#### Part 3
+### Loading the Dattaframe
+```{python}
+df_3 = pd.read_csv("/Users/afreenwala/Downloads/Python Final Project/immu_rate.csv")
+print(df_2.head())
+```
+
+```{python}
+import pandas as pd
+# Reshape the DataFrame so that 'Year' is a column and the observations are in 'Immunisation Rate'
+df_long = df_3.melt(id_vars=['country', 'iso3'], var_name='Year', value_name='Immunisation Rate')
+
+# Rename the columns as requested
+df_long.columns = ['Country Name', 'Country Code', 'Year', 'Immunisation Rate']
+
+# Display the first few rows of the reshaped DataFrame
+print(df_long.head())
+
+# Export the reshaped DataFrame to a new CSV file
+output_path = "/Users/afreenwala/Downloads/Python Final Project/clean_immu_rate_long.csv"
+df_long.to_csv(output_path, index=False)
+
+# Confirm export
+print(f"Data exported to CSV successfully at: {output_path}")
+```
 
 
 
