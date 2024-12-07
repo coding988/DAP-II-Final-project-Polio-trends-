@@ -1,0 +1,4681 @@
+country_name,country_code,vaccine,year,immunisation_percentage
+Afghanistan,AFG,POL3,2000,24
+Albania,ALB,POL3,2000,97
+Algeria,DZA,POL3,2000,86
+Andorra,AND,POL3,2000,95
+Angola,AGO,POL3,2000,21
+Antigua and Barbuda,ATG,POL3,2000,96
+Argentina,ARG,POL3,2000,88
+Armenia,ARM,POL3,2000,96
+Australia,AUS,POL3,2000,90
+Austria,AUT,POL3,2000,71
+Azerbaijan,AZE,POL3,2000,75
+Bahamas,BHS,POL3,2000,91
+Bahrain,BHR,POL3,2000,97
+Bangladesh,BGD,POL3,2000,83
+Barbados,BRB,POL3,2000,86
+Belarus,BLR,POL3,2000,99
+Belgium,BEL,POL3,2000,96
+Belize,BLZ,POL3,2000,91
+Benin,BEN,POL3,2000,78
+Bhutan,BTN,POL3,2000,98
+Bolivia (Plurinational State of),BOL,POL3,2000,74
+Bosnia and Herzegovina,BIH,POL3,2000,87
+Botswana,BWA,POL3,2000,97
+Brazil,BRA,POL3,2000,99
+Brunei Darussalam,BRN,POL3,2000,99
+Bulgaria,BGR,POL3,2000,94
+Burkina Faso,BFA,POL3,2000,45
+Burundi,BDI,POL3,2000,71
+Cabo Verde,CPV,POL3,2000,90
+Cambodia,KHM,POL3,2000,62
+Cameroon,CMR,POL3,2000,57
+Canada,CAN,POL3,2000,88
+Central African Republic,CAF,POL3,2000,38
+Chad,TCD,POL3,2000,30
+Chile,CHL,POL3,2000,91
+China,CHN,POL3,2000,86
+Colombia,COL,POL3,2000,82
+Comoros,COM,POL3,2000,70
+Congo,COG,POL3,2000,31
+Cook Islands,COK,POL3,2000,92
+Costa Rica,CRI,POL3,2000,80
+Cote d'Ivoire,CIV,POL3,2000,66
+Croatia,HRV,POL3,2000,94
+Cuba,CUB,POL3,2000,98
+Cyprus,CYP,POL3,2000,97
+Czechia,CZE,POL3,2000,98
+Democratic People's Republic of Korea,PRK,POL3,2000,93
+Democratic Republic of the Congo,COD,POL3,2000,42
+Denmark,DNK,POL3,2000,97
+Djibouti,DJI,POL3,2000,46
+Dominica,DMA,POL3,2000,99
+Dominican Republic,DOM,POL3,2000,71
+Ecuador,ECU,POL3,2000,83
+Egypt,EGY,POL3,2000,98
+El Salvador,SLV,POL3,2000,98
+Equatorial Guinea,GNQ,POL3,2000,41
+Eritrea,ERI,POL3,2000,82
+Estonia,EST,POL3,2000,93
+Eswatini,SWZ,POL3,2000,87
+Ethiopia,ETH,POL3,2000,55
+Fiji,FJI,POL3,2000,91
+Finland,FIN,POL3,2000,96
+France,FRA,POL3,2000,98
+Gabon,GAB,POL3,2000,44
+Gambia,GMB,POL3,2000,84
+Georgia,GEO,POL3,2000,81
+Germany,DEU,POL3,2000,94
+Ghana,GHA,POL3,2000,88
+Greece,GRC,POL3,2000,89
+Grenada,GRD,POL3,2000,97
+Guatemala,GTM,POL3,2000,80
+Guinea,GIN,POL3,2000,47
+Guinea-Bissau,GNB,POL3,2000,52
+Guyana,GUY,POL3,2000,79
+Haiti,HTI,POL3,2000,50
+Honduras,HND,POL3,2000,88
+Hungary,HUN,POL3,2000,99
+Iceland,ISL,POL3,2000,98
+India,IND,POL3,2000,57
+Indonesia,IDN,POL3,2000,72
+Iran (Islamic Republic of),IRN,POL3,2000,99
+Iraq,IRQ,POL3,2000,83
+Ireland,IRL,POL3,2000,86
+Israel,ISR,POL3,2000,93
+Italy,ITA,POL3,2000,97
+Jamaica,JAM,POL3,2000,95
+Japan,JPN,POL3,2000,98
+Jordan,JOR,POL3,2000,94
+Kazakhstan,KAZ,POL3,2000,96
+Kenya,KEN,POL3,2000,80
+Kiribati,KIR,POL3,2000,90
+Kuwait,KWT,POL3,2000,94
+Kyrgyzstan,KGZ,POL3,2000,99
+Lao People's Democratic Republic,LAO,POL3,2000,57
+Latvia,LVA,POL3,2000,96
+Lebanon,LBN,POL3,2000,83
+Lesotho,LSO,POL3,2000,82
+Liberia,LBR,POL3,2000,56
+Libya,LBY,POL3,2000,94
+Lithuania,LTU,POL3,2000,92
+Luxembourg,LUX,POL3,2000,99
+Madagascar,MDG,POL3,2000,58
+Malawi,MWI,POL3,2000,73
+Malaysia,MYS,POL3,2000,98
+Maldives,MDV,POL3,2000,98
+Mali,MLI,POL3,2000,53
+Malta,MLT,POL3,2000,94
+Marshall Islands,MHL,POL3,2000,36
+Mauritania,MRT,POL3,2000,58
+Mauritius,MUS,POL3,2000,88
+Mexico,MEX,POL3,2000,97
+Micronesia (Federated States of),FSM,POL3,2000,85
+Monaco,MCO,POL3,2000,99
+Mongolia,MNG,POL3,2000,94
+Montenegro,MNE,POL3,2000,
+Morocco,MAR,POL3,2000,95
+Mozambique,MOZ,POL3,2000,69
+Myanmar,MMR,POL3,2000,88
+Namibia,NAM,POL3,2000,80
+Nauru,NRU,POL3,2000,27
+Nepal,NPL,POL3,2000,74
+Netherlands (Kingdom of the),NLD,POL3,2000,97
+New Zealand,NZL,POL3,2000,82
+Nicaragua,NIC,POL3,2000,85
+Niger,NER,POL3,2000,41
+Nigeria,NGA,POL3,2000,31
+Niue,NIU,POL3,2000,99
+North Macedonia,MKD,POL3,2000,96
+Norway,NOR,POL3,2000,91
+Oman,OMN,POL3,2000,99
+Pakistan,PAK,POL3,2000,61
+Palau,PLW,POL3,2000,96
+Panama,PAN,POL3,2000,99
+Papua New Guinea,PNG,POL3,2000,51
+Paraguay,PRY,POL3,2000,86
+Peru,PER,POL3,2000,93
+Philippines,PHL,POL3,2000,74
+Poland,POL,POL3,2000,98
+Portugal,PRT,POL3,2000,96
+Qatar,QAT,POL3,2000,91
+Republic of Korea,KOR,POL3,2000,99
+Republic of Moldova,MDA,POL3,2000,97
+Romania,ROU,POL3,2000,99
+Russian Federation,RUS,POL3,2000,97
+Rwanda,RWA,POL3,2000,90
+Saint Kitts and Nevis,KNA,POL3,2000,99
+Saint Lucia,LCA,POL3,2000,70
+Saint Vincent and the Grenadines,VCT,POL3,2000,99
+Samoa,WSM,POL3,2000,98
+San Marino,SMR,POL3,2000,96
+Sao Tome and Principe,STP,POL3,2000,87
+Saudi Arabia,SAU,POL3,2000,95
+Senegal,SEN,POL3,2000,49
+Serbia,SRB,POL3,2000,98
+Seychelles,SYC,POL3,2000,98
+Sierra Leone,SLE,POL3,2000,46
+Singapore,SGP,POL3,2000,98
+Slovakia,SVK,POL3,2000,98
+Slovenia,SVN,POL3,2000,93
+Solomon Islands,SLB,POL3,2000,88
+Somalia,SOM,POL3,2000,37
+South Africa,ZAF,POL3,2000,71
+South Sudan,SSD,POL3,2000,
+Spain,ESP,POL3,2000,95
+Sri Lanka,LKA,POL3,2000,99
+State of Palestine,PSE,POL3,2000,93
+Sudan,SDN,POL3,2000,62
+Suriname,SUR,POL3,2000,70
+Sweden,SWE,POL3,2000,99
+Switzerland,CHE,POL3,2000,95
+Syrian Arab Republic,SYR,POL3,2000,86
+Tajikistan,TJK,POL3,2000,86
+Thailand,THA,POL3,2000,97
+Timor-Leste,TLS,POL3,2000,
+Togo,TGO,POL3,2000,63
+Tonga,TON,POL3,2000,95
+Trinidad and Tobago,TTO,POL3,2000,90
+Tunisia,TUN,POL3,2000,97
+Turkiye,TUR,POL3,2000,85
+Turkmenistan,TKM,POL3,2000,98
+Tuvalu,TUV,POL3,2000,82
+Uganda,UGA,POL3,2000,55
+Ukraine,UKR,POL3,2000,99
+United Arab Emirates,ARE,POL3,2000,94
+United Kingdom,GBR,POL3,2000,91
+United Republic of Tanzania,TZA,POL3,2000,64
+United States,USA,POL3,2000,90
+Uruguay,URY,POL3,2000,92
+Uzbekistan,UZB,POL3,2000,99
+Vanuatu,VUT,POL3,2000,67
+Venezuela (Bolivarian Republic of),VEN,POL3,2000,86
+Viet Nam,VNM,POL3,2000,96
+Yemen,YEM,POL3,2000,74
+Zambia,ZMB,POL3,2000,85
+Zimbabwe,ZWE,POL3,2000,78
+Afghanistan,AFG,POL3,2001,35
+Albania,ALB,POL3,2001,97
+Algeria,DZA,POL3,2001,89
+Andorra,AND,POL3,2001,95
+Angola,AGO,POL3,2001,28
+Antigua and Barbuda,ATG,POL3,2001,99
+Argentina,ARG,POL3,2001,85
+Armenia,ARM,POL3,2001,97
+Australia,AUS,POL3,2001,91
+Austria,AUT,POL3,2001,83
+Azerbaijan,AZE,POL3,2001,77
+Bahamas,BHS,POL3,2001,98
+Bahrain,BHR,POL3,2001,99
+Bangladesh,BGD,POL3,2001,85
+Barbados,BRB,POL3,2001,93
+Belarus,BLR,POL3,2001,99
+Belgium,BEL,POL3,2001,96
+Belize,BLZ,POL3,2001,96
+Benin,BEN,POL3,2001,77
+Bhutan,BTN,POL3,2001,88
+Bolivia (Plurinational State of),BOL,POL3,2001,71
+Bosnia and Herzegovina,BIH,POL3,2001,92
+Botswana,BWA,POL3,2001,97
+Brazil,BRA,POL3,2001,99
+Brunei Darussalam,BRN,POL3,2001,99
+Bulgaria,BGR,POL3,2001,94
+Burkina Faso,BFA,POL3,2001,62
+Burundi,BDI,POL3,2001,72
+Cabo Verde,CPV,POL3,2001,91
+Cambodia,KHM,POL3,2001,59
+Cameroon,CMR,POL3,2001,61
+Canada,CAN,POL3,2001,88
+Central African Republic,CAF,POL3,2001,40
+Chad,TCD,POL3,2001,26
+Chile,CHL,POL3,2001,96
+China,CHN,POL3,2001,86
+Colombia,COL,POL3,2001,83
+Comoros,COM,POL3,2001,70
+Congo,COG,POL3,2001,32
+Cook Islands,COK,POL3,2001,90
+Costa Rica,CRI,POL3,2001,92
+Cote d'Ivoire,CIV,POL3,2001,70
+Croatia,HRV,POL3,2001,94
+Cuba,CUB,POL3,2001,99
+Cyprus,CYP,POL3,2001,97
+Czechia,CZE,POL3,2001,97
+Democratic People's Republic of Korea,PRK,POL3,2001,98
+Democratic Republic of the Congo,COD,POL3,2001,30
+Denmark,DNK,POL3,2001,97
+Djibouti,DJI,POL3,2001,49
+Dominica,DMA,POL3,2001,99
+Dominican Republic,DOM,POL3,2001,71
+Ecuador,ECU,POL3,2001,90
+Egypt,EGY,POL3,2001,99
+El Salvador,SLV,POL3,2001,94
+Equatorial Guinea,GNQ,POL3,2001,43
+Eritrea,ERI,POL3,2001,89
+Estonia,EST,POL3,2001,94
+Eswatini,SWZ,POL3,2001,87
+Ethiopia,ETH,POL3,2001,55
+Fiji,FJI,POL3,2001,92
+Finland,FIN,POL3,2001,95
+France,FRA,POL3,2001,98
+Gabon,GAB,POL3,2001,44
+Gambia,GMB,POL3,2001,85
+Georgia,GEO,POL3,2001,83
+Germany,DEU,POL3,2001,96
+Ghana,GHA,POL3,2001,81
+Greece,GRC,POL3,2001,90
+Grenada,GRD,POL3,2001,96
+Guatemala,GTM,POL3,2001,78
+Guinea,GIN,POL3,2001,52
+Guinea-Bissau,GNB,POL3,2001,56
+Guyana,GUY,POL3,2001,90
+Haiti,HTI,POL3,2001,52
+Honduras,HND,POL3,2001,99
+Hungary,HUN,POL3,2001,99
+Iceland,ISL,POL3,2001,92
+India,IND,POL3,2001,58
+Indonesia,IDN,POL3,2001,77
+Iran (Islamic Republic of),IRN,POL3,2001,95
+Iraq,IRQ,POL3,2001,80
+Ireland,IRL,POL3,2001,84
+Israel,ISR,POL3,2001,93
+Italy,ITA,POL3,2001,96
+Jamaica,JAM,POL3,2001,99
+Japan,JPN,POL3,2001,81
+Jordan,JOR,POL3,2001,97
+Kazakhstan,KAZ,POL3,2001,95
+Kenya,KEN,POL3,2001,77
+Kiribati,KIR,POL3,2001,88
+Kuwait,KWT,POL3,2001,99
+Kyrgyzstan,KGZ,POL3,2001,99
+Lao People's Democratic Republic,LAO,POL3,2001,55
+Latvia,LVA,POL3,2001,97
+Lebanon,LBN,POL3,2001,80
+Lesotho,LSO,POL3,2001,78
+Liberia,LBR,POL3,2001,54
+Libya,LBY,POL3,2001,94
+Lithuania,LTU,POL3,2001,97
+Luxembourg,LUX,POL3,2001,99
+Madagascar,MDG,POL3,2001,60
+Malawi,MWI,POL3,2001,86
+Malaysia,MYS,POL3,2001,95
+Maldives,MDV,POL3,2001,97
+Mali,MLI,POL3,2001,56
+Malta,MLT,POL3,2001,95
+Marshall Islands,MHL,POL3,2001,56
+Mauritania,MRT,POL3,2001,75
+Mauritius,MUS,POL3,2001,93
+Mexico,MEX,POL3,2001,97
+Micronesia (Federated States of),FSM,POL3,2001,79
+Monaco,MCO,POL3,2001,99
+Mongolia,MNG,POL3,2001,95
+Montenegro,MNE,POL3,2001,
+Morocco,MAR,POL3,2001,93
+Mozambique,MOZ,POL3,2001,72
+Myanmar,MMR,POL3,2001,77
+Namibia,NAM,POL3,2001,79
+Nauru,NRU,POL3,2001,99
+Nepal,NPL,POL3,2001,73
+Netherlands (Kingdom of the),NLD,POL3,2001,97
+New Zealand,NZL,POL3,2001,82
+Nicaragua,NIC,POL3,2001,89
+Niger,NER,POL3,2001,42
+Nigeria,NGA,POL3,2001,36
+Niue,NIU,POL3,2001,99
+North Macedonia,MKD,POL3,2001,91
+Norway,NOR,POL3,2001,91
+Oman,OMN,POL3,2001,99
+Pakistan,PAK,POL3,2001,63
+Palau,PLW,POL3,2001,98
+Panama,PAN,POL3,2001,95
+Papua New Guinea,PNG,POL3,2001,52
+Paraguay,PRY,POL3,2001,90
+Peru,PER,POL3,2001,90
+Philippines,PHL,POL3,2001,76
+Poland,POL,POL3,2001,98
+Portugal,PRT,POL3,2001,96
+Qatar,QAT,POL3,2001,93
+Republic of Korea,KOR,POL3,2001,99
+Republic of Moldova,MDA,POL3,2001,98
+Romania,ROU,POL3,2001,99
+Russian Federation,RUS,POL3,2001,97
+Rwanda,RWA,POL3,2001,76
+Saint Kitts and Nevis,KNA,POL3,2001,99
+Saint Lucia,LCA,POL3,2001,99
+Saint Vincent and the Grenadines,VCT,POL3,2001,99
+Samoa,WSM,POL3,2001,88
+San Marino,SMR,POL3,2001,95
+Sao Tome and Principe,STP,POL3,2001,90
+Saudi Arabia,SAU,POL3,2001,97
+Senegal,SEN,POL3,2001,49
+Serbia,SRB,POL3,2001,93
+Seychelles,SYC,POL3,2001,96
+Sierra Leone,SLE,POL3,2001,38
+Singapore,SGP,POL3,2001,95
+Slovakia,SVK,POL3,2001,99
+Slovenia,SVN,POL3,2001,93
+Solomon Islands,SLB,POL3,2001,88
+Somalia,SOM,POL3,2001,33
+South Africa,ZAF,POL3,2001,71
+South Sudan,SSD,POL3,2001,
+Spain,ESP,POL3,2001,95
+Sri Lanka,LKA,POL3,2001,98
+State of Palestine,PSE,POL3,2001,97
+Sudan,SDN,POL3,2001,66
+Suriname,SUR,POL3,2001,65
+Sweden,SWE,POL3,2001,99
+Switzerland,CHE,POL3,2001,95
+Syrian Arab Republic,SYR,POL3,2001,83
+Tajikistan,TJK,POL3,2001,84
+Thailand,THA,POL3,2001,97
+Timor-Leste,TLS,POL3,2001,
+Togo,TGO,POL3,2001,51
+Tonga,TON,POL3,2001,95
+Trinidad and Tobago,TTO,POL3,2001,91
+Tunisia,TUN,POL3,2001,98
+Turkiye,TUR,POL3,2001,88
+Turkmenistan,TKM,POL3,2001,94
+Tuvalu,TUV,POL3,2001,96
+Uganda,UGA,POL3,2001,56
+Ukraine,UKR,POL3,2001,99
+United Arab Emirates,ARE,POL3,2001,94
+United Kingdom,GBR,POL3,2001,91
+United Republic of Tanzania,TZA,POL3,2001,65
+United States,USA,POL3,2001,89
+Uruguay,URY,POL3,2001,94
+Uzbekistan,UZB,POL3,2001,99
+Vanuatu,VUT,POL3,2001,67
+Venezuela (Bolivarian Republic of),VEN,POL3,2001,87
+Viet Nam,VNM,POL3,2001,96
+Yemen,YEM,POL3,2001,73
+Zambia,ZMB,POL3,2001,86
+Zimbabwe,ZWE,POL3,2001,76
+Afghanistan,AFG,POL3,2002,36
+Albania,ALB,POL3,2002,98
+Algeria,DZA,POL3,2002,86
+Andorra,AND,POL3,2002,95
+Angola,AGO,POL3,2002,22
+Antigua and Barbuda,ATG,POL3,2002,93
+Argentina,ARG,POL3,2002,94
+Armenia,ARM,POL3,2002,96
+Australia,AUS,POL3,2002,92
+Austria,AUT,POL3,2002,82
+Azerbaijan,AZE,POL3,2002,80
+Bahamas,BHS,POL3,2002,93
+Bahrain,BHR,POL3,2002,98
+Bangladesh,BGD,POL3,2002,83
+Barbados,BRB,POL3,2002,86
+Belarus,BLR,POL3,2002,99
+Belgium,BEL,POL3,2002,96
+Belize,BLZ,POL3,2002,93
+Benin,BEN,POL3,2002,76
+Bhutan,BTN,POL3,2002,89
+Bolivia (Plurinational State of),BOL,POL3,2002,76
+Bosnia and Herzegovina,BIH,POL3,2002,86
+Botswana,BWA,POL3,2002,97
+Brazil,BRA,POL3,2002,99
+Brunei Darussalam,BRN,POL3,2002,99
+Bulgaria,BGR,POL3,2002,94
+Burkina Faso,BFA,POL3,2002,69
+Burundi,BDI,POL3,2002,74
+Cabo Verde,CPV,POL3,2002,92
+Cambodia,KHM,POL3,2002,54
+Cameroon,CMR,POL3,2002,66
+Canada,CAN,POL3,2002,88
+Central African Republic,CAF,POL3,2002,42
+Chad,TCD,POL3,2002,31
+Chile,CHL,POL3,2002,97
+China,CHN,POL3,2002,86
+Colombia,COL,POL3,2002,83
+Comoros,COM,POL3,2002,98
+Congo,COG,POL3,2002,41
+Cook Islands,COK,POL3,2002,97
+Costa Rica,CRI,POL3,2002,94
+Cote d'Ivoire,CIV,POL3,2002,70
+Croatia,HRV,POL3,2002,95
+Cuba,CUB,POL3,2002,98
+Cyprus,CYP,POL3,2002,97
+Czechia,CZE,POL3,2002,97
+Democratic People's Republic of Korea,PRK,POL3,2002,99
+Democratic Republic of the Congo,COD,POL3,2002,40
+Denmark,DNK,POL3,2002,98
+Djibouti,DJI,POL3,2002,62
+Dominica,DMA,POL3,2002,98
+Dominican Republic,DOM,POL3,2002,74
+Ecuador,ECU,POL3,2002,88
+Egypt,EGY,POL3,2002,97
+El Salvador,SLV,POL3,2002,81
+Equatorial Guinea,GNQ,POL3,2002,45
+Eritrea,ERI,POL3,2002,92
+Estonia,EST,POL3,2002,94
+Eswatini,SWZ,POL3,2002,87
+Ethiopia,ETH,POL3,2002,55
+Fiji,FJI,POL3,2002,94
+Finland,FIN,POL3,2002,95
+France,FRA,POL3,2002,97
+Gabon,GAB,POL3,2002,44
+Gambia,GMB,POL3,2002,86
+Georgia,GEO,POL3,2002,89
+Germany,DEU,POL3,2002,97
+Ghana,GHA,POL3,2002,80
+Greece,GRC,POL3,2002,92
+Grenada,GRD,POL3,2002,98
+Guatemala,GTM,POL3,2002,82
+Guinea,GIN,POL3,2002,56
+Guinea-Bissau,GNB,POL3,2002,60
+Guyana,GUY,POL3,2002,93
+Haiti,HTI,POL3,2002,54
+Honduras,HND,POL3,2002,95
+Hungary,HUN,POL3,2002,98
+Iceland,ISL,POL3,2002,95
+India,IND,POL3,2002,58
+Indonesia,IDN,POL3,2002,80
+Iran (Islamic Republic of),IRN,POL3,2002,99
+Iraq,IRQ,POL3,2002,76
+Ireland,IRL,POL3,2002,83
+Israel,ISR,POL3,2002,91
+Italy,ITA,POL3,2002,96
+Jamaica,JAM,POL3,2002,99
+Japan,JPN,POL3,2002,89
+Jordan,JOR,POL3,2002,95
+Kazakhstan,KAZ,POL3,2002,95
+Kenya,KEN,POL3,2002,83
+Kiribati,KIR,POL3,2002,96
+Kuwait,KWT,POL3,2002,99
+Kyrgyzstan,KGZ,POL3,2002,99
+Lao People's Democratic Republic,LAO,POL3,2002,55
+Latvia,LVA,POL3,2002,98
+Lebanon,LBN,POL3,2002,77
+Lesotho,LSO,POL3,2002,84
+Liberia,LBR,POL3,2002,51
+Libya,LBY,POL3,2002,93
+Lithuania,LTU,POL3,2002,97
+Luxembourg,LUX,POL3,2002,99
+Madagascar,MDG,POL3,2002,61
+Malawi,MWI,POL3,2002,79
+Malaysia,MYS,POL3,2002,94
+Maldives,MDV,POL3,2002,98
+Mali,MLI,POL3,2002,65
+Malta,MLT,POL3,2002,95
+Marshall Islands,MHL,POL3,2002,80
+Mauritania,MRT,POL3,2002,91
+Mauritius,MUS,POL3,2002,88
+Mexico,MEX,POL3,2002,98
+Micronesia (Federated States of),FSM,POL3,2002,84
+Monaco,MCO,POL3,2002,99
+Mongolia,MNG,POL3,2002,98
+Montenegro,MNE,POL3,2002,
+Morocco,MAR,POL3,2002,94
+Mozambique,MOZ,POL3,2002,76
+Myanmar,MMR,POL3,2002,84
+Namibia,NAM,POL3,2002,78
+Nauru,NRU,POL3,2002,59
+Nepal,NPL,POL3,2002,72
+Netherlands (Kingdom of the),NLD,POL3,2002,97
+New Zealand,NZL,POL3,2002,84
+Nicaragua,NIC,POL3,2002,85
+Niger,NER,POL3,2002,43
+Nigeria,NGA,POL3,2002,40
+Niue,NIU,POL3,2002,99
+North Macedonia,MKD,POL3,2002,97
+Norway,NOR,POL3,2002,93
+Oman,OMN,POL3,2002,99
+Pakistan,PAK,POL3,2002,64
+Palau,PLW,POL3,2002,99
+Panama,PAN,POL3,2002,99
+Papua New Guinea,PNG,POL3,2002,54
+Paraguay,PRY,POL3,2002,87
+Peru,PER,POL3,2002,95
+Philippines,PHL,POL3,2002,77
+Poland,POL,POL3,2002,98
+Portugal,PRT,POL3,2002,96
+Qatar,QAT,POL3,2002,96
+Republic of Korea,KOR,POL3,2002,99
+Republic of Moldova,MDA,POL3,2002,98
+Romania,ROU,POL3,2002,98
+Russian Federation,RUS,POL3,2002,97
+Rwanda,RWA,POL3,2002,85
+Saint Kitts and Nevis,KNA,POL3,2002,97
+Saint Lucia,LCA,POL3,2002,90
+Saint Vincent and the Grenadines,VCT,POL3,2002,99
+Samoa,WSM,POL3,2002,91
+San Marino,SMR,POL3,2002,95
+Sao Tome and Principe,STP,POL3,2002,92
+Saudi Arabia,SAU,POL3,2002,95
+Senegal,SEN,POL3,2002,60
+Serbia,SRB,POL3,2002,95
+Seychelles,SYC,POL3,2002,99
+Sierra Leone,SLE,POL3,2002,54
+Singapore,SGP,POL3,2002,94
+Slovakia,SVK,POL3,2002,98
+Slovenia,SVN,POL3,2002,93
+Solomon Islands,SLB,POL3,2002,78
+Somalia,SOM,POL3,2002,40
+South Africa,ZAF,POL3,2002,70
+South Sudan,SSD,POL3,2002,
+Spain,ESP,POL3,2002,98
+Sri Lanka,LKA,POL3,2002,98
+State of Palestine,PSE,POL3,2002,97
+Sudan,SDN,POL3,2002,60
+Suriname,SUR,POL3,2002,74
+Sweden,SWE,POL3,2002,99
+Switzerland,CHE,POL3,2002,95
+Syrian Arab Republic,SYR,POL3,2002,86
+Tajikistan,TJK,POL3,2002,84
+Thailand,THA,POL3,2002,97
+Timor-Leste,TLS,POL3,2002,38
+Togo,TGO,POL3,2002,58
+Tonga,TON,POL3,2002,90
+Trinidad and Tobago,TTO,POL3,2002,96
+Tunisia,TUN,POL3,2002,96
+Turkiye,TUR,POL3,2002,78
+Turkmenistan,TKM,POL3,2002,99
+Tuvalu,TUV,POL3,2002,98
+Uganda,UGA,POL3,2002,57
+Ukraine,UKR,POL3,2002,99
+United Arab Emirates,ARE,POL3,2002,94
+United Kingdom,GBR,POL3,2002,91
+United Republic of Tanzania,TZA,POL3,2002,91
+United States,USA,POL3,2002,90
+Uruguay,URY,POL3,2002,93
+Uzbekistan,UZB,POL3,2002,99
+Vanuatu,VUT,POL3,2002,67
+Venezuela (Bolivarian Republic of),VEN,POL3,2002,81
+Viet Nam,VNM,POL3,2002,92
+Yemen,YEM,POL3,2002,64
+Zambia,ZMB,POL3,2002,85
+Zimbabwe,ZWE,POL3,2002,73
+Afghanistan,AFG,POL3,2003,41
+Albania,ALB,POL3,2003,97
+Algeria,DZA,POL3,2003,87
+Andorra,AND,POL3,2003,99
+Angola,AGO,POL3,2003,21
+Antigua and Barbuda,ATG,POL3,2003,99
+Argentina,ARG,POL3,2003,95
+Armenia,ARM,POL3,2003,96
+Australia,AUS,POL3,2003,92
+Austria,AUT,POL3,2003,84
+Azerbaijan,AZE,POL3,2003,79
+Bahamas,BHS,POL3,2003,93
+Bahrain,BHR,POL3,2003,97
+Bangladesh,BGD,POL3,2003,90
+Barbados,BRB,POL3,2003,90
+Belarus,BLR,POL3,2003,53
+Belgium,BEL,POL3,2003,96
+Belize,BLZ,POL3,2003,95
+Benin,BEN,POL3,2003,75
+Bhutan,BTN,POL3,2003,96
+Bolivia (Plurinational State of),BOL,POL3,2003,82
+Bosnia and Herzegovina,BIH,POL3,2003,87
+Botswana,BWA,POL3,2003,96
+Brazil,BRA,POL3,2003,99
+Brunei Darussalam,BRN,POL3,2003,99
+Bulgaria,BGR,POL3,2003,96
+Burkina Faso,BFA,POL3,2003,83
+Burundi,BDI,POL3,2003,75
+Cabo Verde,CPV,POL3,2003,93
+Cambodia,KHM,POL3,2003,69
+Cameroon,CMR,POL3,2003,72
+Canada,CAN,POL3,2003,88
+Central African Republic,CAF,POL3,2003,44
+Chad,TCD,POL3,2003,36
+Chile,CHL,POL3,2003,96
+China,CHN,POL3,2003,87
+Colombia,COL,POL3,2003,92
+Comoros,COM,POL3,2003,80
+Congo,COG,POL3,2003,50
+Cook Islands,COK,POL3,2003,95
+Costa Rica,CRI,POL3,2003,88
+Cote d'Ivoire,CIV,POL3,2003,68
+Croatia,HRV,POL3,2003,95
+Cuba,CUB,POL3,2003,98
+Cyprus,CYP,POL3,2003,97
+Czechia,CZE,POL3,2003,97
+Democratic People's Republic of Korea,PRK,POL3,2003,99
+Democratic Republic of the Congo,COD,POL3,2003,47
+Denmark,DNK,POL3,2003,96
+Djibouti,DJI,POL3,2003,68
+Dominica,DMA,POL3,2003,99
+Dominican Republic,DOM,POL3,2003,65
+Ecuador,ECU,POL3,2003,97
+Egypt,EGY,POL3,2003,98
+El Salvador,SLV,POL3,2003,93
+Equatorial Guinea,GNQ,POL3,2003,47
+Eritrea,ERI,POL3,2003,95
+Estonia,EST,POL3,2003,95
+Eswatini,SWZ,POL3,2003,87
+Ethiopia,ETH,POL3,2003,55
+Fiji,FJI,POL3,2003,95
+Finland,FIN,POL3,2003,96
+France,FRA,POL3,2003,96
+Gabon,GAB,POL3,2003,44
+Gambia,GMB,POL3,2003,87
+Georgia,GEO,POL3,2003,74
+Germany,DEU,POL3,2003,96
+Ghana,GHA,POL3,2003,80
+Greece,GRC,POL3,2003,93
+Grenada,GRD,POL3,2003,98
+Guatemala,GTM,POL3,2003,84
+Guinea,GIN,POL3,2003,61
+Guinea-Bissau,GNB,POL3,2003,65
+Guyana,GUY,POL3,2003,91
+Haiti,HTI,POL3,2003,56
+Honduras,HND,POL3,2003,92
+Hungary,HUN,POL3,2003,99
+Iceland,ISL,POL3,2003,97
+India,IND,POL3,2003,57
+Indonesia,IDN,POL3,2003,80
+Iran (Islamic Republic of),IRN,POL3,2003,99
+Iraq,IRQ,POL3,2003,73
+Ireland,IRL,POL3,2003,86
+Israel,ISR,POL3,2003,93
+Italy,ITA,POL3,2003,97
+Jamaica,JAM,POL3,2003,99
+Japan,JPN,POL3,2003,97
+Jordan,JOR,POL3,2003,97
+Kazakhstan,KAZ,POL3,2003,99
+Kenya,KEN,POL3,2003,75
+Kiribati,KIR,POL3,2003,79
+Kuwait,KWT,POL3,2003,99
+Kyrgyzstan,KGZ,POL3,2003,98
+Lao People's Democratic Republic,LAO,POL3,2003,52
+Latvia,LVA,POL3,2003,98
+Lebanon,LBN,POL3,2003,74
+Lesotho,LSO,POL3,2003,90
+Liberia,LBR,POL3,2003,49
+Libya,LBY,POL3,2003,95
+Lithuania,LTU,POL3,2003,91
+Luxembourg,LUX,POL3,2003,99
+Madagascar,MDG,POL3,2003,65
+Malawi,MWI,POL3,2003,85
+Malaysia,MYS,POL3,2003,96
+Maldives,MDV,POL3,2003,98
+Mali,MLI,POL3,2003,67
+Malta,MLT,POL3,2003,94
+Marshall Islands,MHL,POL3,2003,80
+Mauritania,MRT,POL3,2003,75
+Mauritius,MUS,POL3,2003,99
+Mexico,MEX,POL3,2003,98
+Micronesia (Federated States of),FSM,POL3,2003,88
+Monaco,MCO,POL3,2003,99
+Mongolia,MNG,POL3,2003,98
+Montenegro,MNE,POL3,2003,
+Morocco,MAR,POL3,2003,91
+Mozambique,MOZ,POL3,2003,67
+Myanmar,MMR,POL3,2003,86
+Namibia,NAM,POL3,2003,82
+Nauru,NRU,POL3,2003,66
+Nepal,NPL,POL3,2003,76
+Netherlands (Kingdom of the),NLD,POL3,2003,98
+New Zealand,NZL,POL3,2003,86
+Nicaragua,NIC,POL3,2003,86
+Niger,NER,POL3,2003,44
+Nigeria,NGA,POL3,2003,42
+Niue,NIU,POL3,2003,95
+North Macedonia,MKD,POL3,2003,96
+Norway,NOR,POL3,2003,92
+Oman,OMN,POL3,2003,99
+Pakistan,PAK,POL3,2003,66
+Palau,PLW,POL3,2003,99
+Panama,PAN,POL3,2003,95
+Papua New Guinea,PNG,POL3,2003,62
+Paraguay,PRY,POL3,2003,86
+Peru,PER,POL3,2003,95
+Philippines,PHL,POL3,2003,85
+Poland,POL,POL3,2003,98
+Portugal,PRT,POL3,2003,96
+Qatar,QAT,POL3,2003,93
+Republic of Korea,KOR,POL3,2003,94
+Republic of Moldova,MDA,POL3,2003,98
+Romania,ROU,POL3,2003,97
+Russian Federation,RUS,POL3,2003,97
+Rwanda,RWA,POL3,2003,96
+Saint Kitts and Nevis,KNA,POL3,2003,99
+Saint Lucia,LCA,POL3,2003,91
+Saint Vincent and the Grenadines,VCT,POL3,2003,99
+Samoa,WSM,POL3,2003,90
+San Marino,SMR,POL3,2003,94
+Sao Tome and Principe,STP,POL3,2003,94
+Saudi Arabia,SAU,POL3,2003,95
+Senegal,SEN,POL3,2003,73
+Serbia,SRB,POL3,2003,89
+Seychelles,SYC,POL3,2003,99
+Sierra Leone,SLE,POL3,2003,66
+Singapore,SGP,POL3,2003,96
+Slovakia,SVK,POL3,2003,98
+Slovenia,SVN,POL3,2003,95
+Solomon Islands,SLB,POL3,2003,84
+Somalia,SOM,POL3,2003,40
+South Africa,ZAF,POL3,2003,70
+South Sudan,SSD,POL3,2003,
+Spain,ESP,POL3,2003,99
+Sri Lanka,LKA,POL3,2003,98
+State of Palestine,PSE,POL3,2003,98
+Sudan,SDN,POL3,2003,69
+Suriname,SUR,POL3,2003,74
+Sweden,SWE,POL3,2003,99
+Switzerland,CHE,POL3,2003,95
+Syrian Arab Republic,SYR,POL3,2003,85
+Tajikistan,TJK,POL3,2003,82
+Thailand,THA,POL3,2003,98
+Timor-Leste,TLS,POL3,2003,55
+Togo,TGO,POL3,2003,72
+Tonga,TON,POL3,2003,98
+Trinidad and Tobago,TTO,POL3,2003,91
+Tunisia,TUN,POL3,2003,95
+Turkiye,TUR,POL3,2003,69
+Turkmenistan,TKM,POL3,2003,66
+Tuvalu,TUV,POL3,2003,93
+Uganda,UGA,POL3,2003,57
+Ukraine,UKR,POL3,2003,99
+United Arab Emirates,ARE,POL3,2003,94
+United Kingdom,GBR,POL3,2003,91
+United Republic of Tanzania,TZA,POL3,2003,97
+United States,USA,POL3,2003,91
+Uruguay,URY,POL3,2003,91
+Uzbekistan,UZB,POL3,2003,99
+Vanuatu,VUT,POL3,2003,67
+Venezuela (Bolivarian Republic of),VEN,POL3,2003,86
+Viet Nam,VNM,POL3,2003,96
+Yemen,YEM,POL3,2003,61
+Zambia,ZMB,POL3,2003,85
+Zimbabwe,ZWE,POL3,2003,70
+Afghanistan,AFG,POL3,2004,50
+Albania,ALB,POL3,2004,98
+Algeria,DZA,POL3,2004,86
+Andorra,AND,POL3,2004,99
+Angola,AGO,POL3,2004,18
+Antigua and Barbuda,ATG,POL3,2004,97
+Argentina,ARG,POL3,2004,91
+Armenia,ARM,POL3,2004,93
+Australia,AUS,POL3,2004,92
+Austria,AUT,POL3,2004,83
+Azerbaijan,AZE,POL3,2004,78
+Bahamas,BHS,POL3,2004,92
+Bahrain,BHR,POL3,2004,98
+Bangladesh,BGD,POL3,2004,88
+Barbados,BRB,POL3,2004,93
+Belarus,BLR,POL3,2004,99
+Belgium,BEL,POL3,2004,96
+Belize,BLZ,POL3,2004,97
+Benin,BEN,POL3,2004,74
+Bhutan,BTN,POL3,2004,90
+Bolivia (Plurinational State of),BOL,POL3,2004,84
+Bosnia and Herzegovina,BIH,POL3,2004,87
+Botswana,BWA,POL3,2004,96
+Brazil,BRA,POL3,2004,99
+Brunei Darussalam,BRN,POL3,2004,92
+Bulgaria,BGR,POL3,2004,94
+Burkina Faso,BFA,POL3,2004,83
+Burundi,BDI,POL3,2004,76
+Cabo Verde,CPV,POL3,2004,94
+Cambodia,KHM,POL3,2004,86
+Cameroon,CMR,POL3,2004,72
+Canada,CAN,POL3,2004,91
+Central African Republic,CAF,POL3,2004,45
+Chad,TCD,POL3,2004,32
+Chile,CHL,POL3,2004,94
+China,CHN,POL3,2004,87
+Colombia,COL,POL3,2004,89
+Comoros,COM,POL3,2004,73
+Congo,COG,POL3,2004,67
+Cook Islands,COK,POL3,2004,99
+Costa Rica,CRI,POL3,2004,90
+Cote d'Ivoire,CIV,POL3,2004,76
+Croatia,HRV,POL3,2004,96
+Cuba,CUB,POL3,2004,98
+Cyprus,CYP,POL3,2004,98
+Czechia,CZE,POL3,2004,96
+Democratic People's Republic of Korea,PRK,POL3,2004,99
+Democratic Republic of the Congo,COD,POL3,2004,52
+Denmark,DNK,POL3,2004,95
+Djibouti,DJI,POL3,2004,64
+Dominica,DMA,POL3,2004,99
+Dominican Republic,DOM,POL3,2004,66
+Ecuador,ECU,POL3,2004,90
+Egypt,EGY,POL3,2004,97
+El Salvador,SLV,POL3,2004,90
+Equatorial Guinea,GNQ,POL3,2004,49
+Eritrea,ERI,POL3,2004,98
+Estonia,EST,POL3,2004,95
+Eswatini,SWZ,POL3,2004,88
+Ethiopia,ETH,POL3,2004,54
+Fiji,FJI,POL3,2004,96
+Finland,FIN,POL3,2004,96
+France,FRA,POL3,2004,99
+Gabon,GAB,POL3,2004,44
+Gambia,GMB,POL3,2004,88
+Georgia,GEO,POL3,2004,66
+Germany,DEU,POL3,2004,96
+Ghana,GHA,POL3,2004,81
+Greece,GRC,POL3,2004,95
+Grenada,GRD,POL3,2004,84
+Guatemala,GTM,POL3,2004,88
+Guinea,GIN,POL3,2004,65
+Guinea-Bissau,GNB,POL3,2004,69
+Guyana,GUY,POL3,2004,91
+Haiti,HTI,POL3,2004,58
+Honduras,HND,POL3,2004,94
+Hungary,HUN,POL3,2004,99
+Iceland,ISL,POL3,2004,99
+India,IND,POL3,2004,58
+Indonesia,IDN,POL3,2004,79
+Iran (Islamic Republic of),IRN,POL3,2004,98
+Iraq,IRQ,POL3,2004,69
+Ireland,IRL,POL3,2004,89
+Israel,ISR,POL3,2004,95
+Italy,ITA,POL3,2004,97
+Jamaica,JAM,POL3,2004,97
+Japan,JPN,POL3,2004,97
+Jordan,JOR,POL3,2004,95
+Kazakhstan,KAZ,POL3,2004,99
+Kenya,KEN,POL3,2004,73
+Kiribati,KIR,POL3,2004,61
+Kuwait,KWT,POL3,2004,98
+Kyrgyzstan,KGZ,POL3,2004,98
+Lao People's Democratic Republic,LAO,POL3,2004,46
+Latvia,LVA,POL3,2004,99
+Lebanon,LBN,POL3,2004,76
+Lesotho,LSO,POL3,2004,89
+Liberia,LBR,POL3,2004,47
+Libya,LBY,POL3,2004,97
+Lithuania,LTU,POL3,2004,90
+Luxembourg,LUX,POL3,2004,99
+Madagascar,MDG,POL3,2004,74
+Malawi,MWI,POL3,2004,94
+Malaysia,MYS,POL3,2004,95
+Maldives,MDV,POL3,2004,96
+Mali,MLI,POL3,2004,70
+Malta,MLT,POL3,2004,89
+Marshall Islands,MHL,POL3,2004,68
+Mauritania,MRT,POL3,2004,68
+Mauritius,MUS,POL3,2004,98
+Mexico,MEX,POL3,2004,98
+Micronesia (Federated States of),FSM,POL3,2004,82
+Monaco,MCO,POL3,2004,99
+Mongolia,MNG,POL3,2004,99
+Montenegro,MNE,POL3,2004,
+Morocco,MAR,POL3,2004,97
+Mozambique,MOZ,POL3,2004,69
+Myanmar,MMR,POL3,2004,92
+Namibia,NAM,POL3,2004,81
+Nauru,NRU,POL3,2004,73
+Nepal,NPL,POL3,2004,80
+Netherlands (Kingdom of the),NLD,POL3,2004,98
+New Zealand,NZL,POL3,2004,87
+Nicaragua,NIC,POL3,2004,80
+Niger,NER,POL3,2004,45
+Nigeria,NGA,POL3,2004,43
+Niue,NIU,POL3,2004,99
+North Macedonia,MKD,POL3,2004,95
+Norway,NOR,POL3,2004,92
+Oman,OMN,POL3,2004,99
+Pakistan,PAK,POL3,2004,67
+Palau,PLW,POL3,2004,98
+Panama,PAN,POL3,2004,92
+Papua New Guinea,PNG,POL3,2004,59
+Paraguay,PRY,POL3,2004,92
+Peru,PER,POL3,2004,81
+Philippines,PHL,POL3,2004,85
+Poland,POL,POL3,2004,99
+Portugal,PRT,POL3,2004,95
+Qatar,QAT,POL3,2004,95
+Republic of Korea,KOR,POL3,2004,90
+Republic of Moldova,MDA,POL3,2004,98
+Romania,ROU,POL3,2004,97
+Russian Federation,RUS,POL3,2004,98
+Rwanda,RWA,POL3,2004,89
+Saint Kitts and Nevis,KNA,POL3,2004,96
+Saint Lucia,LCA,POL3,2004,91
+Saint Vincent and the Grenadines,VCT,POL3,2004,99
+Samoa,WSM,POL3,2004,35
+San Marino,SMR,POL3,2004,94
+Sao Tome and Principe,STP,POL3,2004,99
+Saudi Arabia,SAU,POL3,2004,96
+Senegal,SEN,POL3,2004,87
+Serbia,SRB,POL3,2004,96
+Seychelles,SYC,POL3,2004,99
+Sierra Leone,SLE,POL3,2004,69
+Singapore,SGP,POL3,2004,95
+Slovakia,SVK,POL3,2004,99
+Slovenia,SVN,POL3,2004,94
+Solomon Islands,SLB,POL3,2004,89
+Somalia,SOM,POL3,2004,30
+South Africa,ZAF,POL3,2004,73
+South Sudan,SSD,POL3,2004,
+Spain,ESP,POL3,2004,97
+Sri Lanka,LKA,POL3,2004,97
+State of Palestine,PSE,POL3,2004,96
+Sudan,SDN,POL3,2004,74
+Suriname,SUR,POL3,2004,84
+Sweden,SWE,POL3,2004,99
+Switzerland,CHE,POL3,2004,95
+Syrian Arab Republic,SYR,POL3,2004,84
+Tajikistan,TJK,POL3,2004,82
+Thailand,THA,POL3,2004,98
+Timor-Leste,TLS,POL3,2004,57
+Togo,TGO,POL3,2004,71
+Tonga,TON,POL3,2004,99
+Trinidad and Tobago,TTO,POL3,2004,94
+Tunisia,TUN,POL3,2004,97
+Turkiye,TUR,POL3,2004,85
+Turkmenistan,TKM,POL3,2004,98
+Tuvalu,TUV,POL3,2004,98
+Uganda,UGA,POL3,2004,58
+Ukraine,UKR,POL3,2004,99
+United Arab Emirates,ARE,POL3,2004,94
+United Kingdom,GBR,POL3,2004,92
+United Republic of Tanzania,TZA,POL3,2004,95
+United States,USA,POL3,2004,92
+Uruguay,URY,POL3,2004,95
+Uzbekistan,UZB,POL3,2004,99
+Vanuatu,VUT,POL3,2004,67
+Venezuela (Bolivarian Republic of),VEN,POL3,2004,83
+Viet Nam,VNM,POL3,2004,96
+Yemen,YEM,POL3,2004,72
+Zambia,ZMB,POL3,2004,84
+Zimbabwe,ZWE,POL3,2004,67
+Afghanistan,AFG,POL3,2005,58
+Albania,ALB,POL3,2005,97
+Algeria,DZA,POL3,2005,88
+Andorra,AND,POL3,2005,98
+Angola,AGO,POL3,2005,14
+Antigua and Barbuda,ATG,POL3,2005,98
+Argentina,ARG,POL3,2005,95
+Armenia,ARM,POL3,2005,92
+Australia,AUS,POL3,2005,92
+Austria,AUT,POL3,2005,86
+Azerbaijan,AZE,POL3,2005,79
+Bahamas,BHS,POL3,2005,93
+Bahrain,BHR,POL3,2005,98
+Bangladesh,BGD,POL3,2005,94
+Barbados,BRB,POL3,2005,91
+Belarus,BLR,POL3,2005,98
+Belgium,BEL,POL3,2005,97
+Belize,BLZ,POL3,2005,96
+Benin,BEN,POL3,2005,73
+Bhutan,BTN,POL3,2005,95
+Bolivia (Plurinational State of),BOL,POL3,2005,84
+Bosnia and Herzegovina,BIH,POL3,2005,95
+Botswana,BWA,POL3,2005,96
+Brazil,BRA,POL3,2005,99
+Brunei Darussalam,BRN,POL3,2005,93
+Bulgaria,BGR,POL3,2005,97
+Burkina Faso,BFA,POL3,2005,94
+Burundi,BDI,POL3,2005,82
+Cabo Verde,CPV,POL3,2005,95
+Cambodia,KHM,POL3,2005,82
+Cameroon,CMR,POL3,2005,79
+Canada,CAN,POL3,2005,93
+Central African Republic,CAF,POL3,2005,47
+Chad,TCD,POL3,2005,37
+Chile,CHL,POL3,2005,92
+China,CHN,POL3,2005,87
+Colombia,COL,POL3,2005,93
+Comoros,COM,POL3,2005,67
+Congo,COG,POL3,2005,62
+Cook Islands,COK,POL3,2005,99
+Costa Rica,CRI,POL3,2005,91
+Cote d'Ivoire,CIV,POL3,2005,87
+Croatia,HRV,POL3,2005,96
+Cuba,CUB,POL3,2005,99
+Cyprus,CYP,POL3,2005,98
+Czechia,CZE,POL3,2005,96
+Democratic People's Republic of Korea,PRK,POL3,2005,97
+Democratic Republic of the Congo,COD,POL3,2005,60
+Denmark,DNK,POL3,2005,93
+Djibouti,DJI,POL3,2005,71
+Dominica,DMA,POL3,2005,98
+Dominican Republic,DOM,POL3,2005,86
+Ecuador,ECU,POL3,2005,89
+Egypt,EGY,POL3,2005,98
+El Salvador,SLV,POL3,2005,89
+Equatorial Guinea,GNQ,POL3,2005,51
+Eritrea,ERI,POL3,2005,96
+Estonia,EST,POL3,2005,96
+Eswatini,SWZ,POL3,2005,88
+Ethiopia,ETH,POL3,2005,56
+Fiji,FJI,POL3,2005,97
+Finland,FIN,POL3,2005,97
+France,FRA,POL3,2005,98
+Gabon,GAB,POL3,2005,44
+Gambia,GMB,POL3,2005,94
+Georgia,GEO,POL3,2005,82
+Germany,DEU,POL3,2005,95
+Ghana,GHA,POL3,2005,85
+Greece,GRC,POL3,2005,96
+Grenada,GRD,POL3,2005,99
+Guatemala,GTM,POL3,2005,87
+Guinea,GIN,POL3,2005,59
+Guinea-Bissau,GNB,POL3,2005,73
+Guyana,GUY,POL3,2005,93
+Haiti,HTI,POL3,2005,60
+Honduras,HND,POL3,2005,98
+Hungary,HUN,POL3,2005,99
+Iceland,ISL,POL3,2005,95
+India,IND,POL3,2005,65
+Indonesia,IDN,POL3,2005,79
+Iran (Islamic Republic of),IRN,POL3,2005,95
+Iraq,IRQ,POL3,2005,69
+Ireland,IRL,POL3,2005,90
+Israel,ISR,POL3,2005,95
+Italy,ITA,POL3,2005,97
+Jamaica,JAM,POL3,2005,99
+Japan,JPN,POL3,2005,95
+Jordan,JOR,POL3,2005,95
+Kazakhstan,KAZ,POL3,2005,99
+Kenya,KEN,POL3,2005,70
+Kiribati,KIR,POL3,2005,74
+Kuwait,KWT,POL3,2005,99
+Kyrgyzstan,KGZ,POL3,2005,98
+Lao People's Democratic Republic,LAO,POL3,2005,50
+Latvia,LVA,POL3,2005,99
+Lebanon,LBN,POL3,2005,78
+Lesotho,LSO,POL3,2005,88
+Liberia,LBR,POL3,2005,66
+Libya,LBY,POL3,2005,98
+Lithuania,LTU,POL3,2005,93
+Luxembourg,LUX,POL3,2005,99
+Madagascar,MDG,POL3,2005,80
+Malawi,MWI,POL3,2005,94
+Malaysia,MYS,POL3,2005,96
+Maldives,MDV,POL3,2005,98
+Mali,MLI,POL3,2005,78
+Malta,MLT,POL3,2005,94
+Marshall Islands,MHL,POL3,2005,88
+Mauritania,MRT,POL3,2005,71
+Mauritius,MUS,POL3,2005,97
+Mexico,MEX,POL3,2005,98
+Micronesia (Federated States of),FSM,POL3,2005,94
+Monaco,MCO,POL3,2005,99
+Mongolia,MNG,POL3,2005,99
+Montenegro,MNE,POL3,2005,
+Morocco,MAR,POL3,2005,98
+Mozambique,MOZ,POL3,2005,71
+Myanmar,MMR,POL3,2005,86
+Namibia,NAM,POL3,2005,86
+Nauru,NRU,POL3,2005,80
+Nepal,NPL,POL3,2005,78
+Netherlands (Kingdom of the),NLD,POL3,2005,96
+New Zealand,NZL,POL3,2005,89
+Nicaragua,NIC,POL3,2005,87
+Niger,NER,POL3,2005,46
+Nigeria,NGA,POL3,2005,45
+Niue,NIU,POL3,2005,86
+North Macedonia,MKD,POL3,2005,98
+Norway,NOR,POL3,2005,91
+Oman,OMN,POL3,2005,99
+Pakistan,PAK,POL3,2005,63
+Palau,PLW,POL3,2005,98
+Panama,PAN,POL3,2005,88
+Papua New Guinea,PNG,POL3,2005,61
+Paraguay,PRY,POL3,2005,96
+Peru,PER,POL3,2005,66
+Philippines,PHL,POL3,2005,90
+Poland,POL,POL3,2005,99
+Portugal,PRT,POL3,2005,93
+Qatar,QAT,POL3,2005,98
+Republic of Korea,KOR,POL3,2005,96
+Republic of Moldova,MDA,POL3,2005,99
+Romania,ROU,POL3,2005,97
+Russian Federation,RUS,POL3,2005,98
+Rwanda,RWA,POL3,2005,95
+Saint Kitts and Nevis,KNA,POL3,2005,99
+Saint Lucia,LCA,POL3,2005,95
+Saint Vincent and the Grenadines,VCT,POL3,2005,93
+Samoa,WSM,POL3,2005,66
+San Marino,SMR,POL3,2005,94
+Sao Tome and Principe,STP,POL3,2005,97
+Saudi Arabia,SAU,POL3,2005,96
+Senegal,SEN,POL3,2005,84
+Serbia,SRB,POL3,2005,98
+Seychelles,SYC,POL3,2005,99
+Sierra Leone,SLE,POL3,2005,67
+Singapore,SGP,POL3,2005,96
+Slovakia,SVK,POL3,2005,99
+Slovenia,SVN,POL3,2005,95
+Solomon Islands,SLB,POL3,2005,90
+Somalia,SOM,POL3,2005,35
+South Africa,ZAF,POL3,2005,75
+South Sudan,SSD,POL3,2005,
+Spain,ESP,POL3,2005,96
+Sri Lanka,LKA,POL3,2005,99
+State of Palestine,PSE,POL3,2005,99
+Sudan,SDN,POL3,2005,78
+Suriname,SUR,POL3,2005,84
+Sweden,SWE,POL3,2005,98
+Switzerland,CHE,POL3,2005,94
+Syrian Arab Republic,SYR,POL3,2005,83
+Tajikistan,TJK,POL3,2005,79
+Thailand,THA,POL3,2005,98
+Timor-Leste,TLS,POL3,2005,55
+Togo,TGO,POL3,2005,80
+Tonga,TON,POL3,2005,99
+Trinidad and Tobago,TTO,POL3,2005,95
+Tunisia,TUN,POL3,2005,98
+Turkiye,TUR,POL3,2005,90
+Turkmenistan,TKM,POL3,2005,99
+Tuvalu,TUV,POL3,2005,99
+Uganda,UGA,POL3,2005,59
+Ukraine,UKR,POL3,2005,95
+United Arab Emirates,ARE,POL3,2005,94
+United Kingdom,GBR,POL3,2005,91
+United Republic of Tanzania,TZA,POL3,2005,91
+United States,USA,POL3,2005,92
+Uruguay,URY,POL3,2005,96
+Uzbekistan,UZB,POL3,2005,99
+Vanuatu,VUT,POL3,2005,67
+Venezuela (Bolivarian Republic of),VEN,POL3,2005,80
+Viet Nam,VNM,POL3,2005,94
+Yemen,YEM,POL3,2005,80
+Zambia,ZMB,POL3,2005,84
+Zimbabwe,ZWE,POL3,2005,69
+Afghanistan,AFG,POL3,2006,58
+Albania,ALB,POL3,2006,97
+Algeria,DZA,POL3,2006,95
+Andorra,AND,POL3,2006,93
+Angola,AGO,POL3,2006,8
+Antigua and Barbuda,ATG,POL3,2006,99
+Argentina,ARG,POL3,2006,92
+Armenia,ARM,POL3,2006,87
+Australia,AUS,POL3,2006,92
+Austria,AUT,POL3,2006,83
+Azerbaijan,AZE,POL3,2006,80
+Bahamas,BHS,POL3,2006,94
+Bahrain,BHR,POL3,2006,98
+Bangladesh,BGD,POL3,2006,95
+Barbados,BRB,POL3,2006,85
+Belarus,BLR,POL3,2006,97
+Belgium,BEL,POL3,2006,99
+Belize,BLZ,POL3,2006,98
+Benin,BEN,POL3,2006,76
+Bhutan,BTN,POL3,2006,96
+Bolivia (Plurinational State of),BOL,POL3,2006,82
+Bosnia and Herzegovina,BIH,POL3,2006,91
+Botswana,BWA,POL3,2006,96
+Brazil,BRA,POL3,2006,99
+Brunei Darussalam,BRN,POL3,2006,94
+Bulgaria,BGR,POL3,2006,96
+Burkina Faso,BFA,POL3,2006,94
+Burundi,BDI,POL3,2006,88
+Cabo Verde,CPV,POL3,2006,97
+Cambodia,KHM,POL3,2006,80
+Cameroon,CMR,POL3,2006,78
+Canada,CAN,POL3,2006,95
+Central African Republic,CAF,POL3,2006,47
+Chad,TCD,POL3,2006,50
+Chile,CHL,POL3,2006,94
+China,CHN,POL3,2006,94
+Colombia,COL,POL3,2006,94
+Comoros,COM,POL3,2006,69
+Congo,COG,POL3,2006,73
+Cook Islands,COK,POL3,2006,99
+Costa Rica,CRI,POL3,2006,89
+Cote d'Ivoire,CIV,POL3,2006,76
+Croatia,HRV,POL3,2006,96
+Cuba,CUB,POL3,2006,99
+Cyprus,CYP,POL3,2006,97
+Czechia,CZE,POL3,2006,98
+Democratic People's Republic of Korea,PRK,POL3,2006,98
+Democratic Republic of the Congo,COD,POL3,2006,62
+Denmark,DNK,POL3,2006,93
+Djibouti,DJI,POL3,2006,72
+Dominica,DMA,POL3,2006,96
+Dominican Republic,DOM,POL3,2006,88
+Ecuador,ECU,POL3,2006,92
+Egypt,EGY,POL3,2006,98
+El Salvador,SLV,POL3,2006,96
+Equatorial Guinea,GNQ,POL3,2006,53
+Eritrea,ERI,POL3,2006,94
+Estonia,EST,POL3,2006,95
+Eswatini,SWZ,POL3,2006,88
+Ethiopia,ETH,POL3,2006,59
+Fiji,FJI,POL3,2006,98
+Finland,FIN,POL3,2006,97
+France,FRA,POL3,2006,99
+Gabon,GAB,POL3,2006,44
+Gambia,GMB,POL3,2006,94
+Georgia,GEO,POL3,2006,89
+Germany,DEU,POL3,2006,94
+Ghana,GHA,POL3,2006,84
+Greece,GRC,POL3,2006,98
+Grenada,GRD,POL3,2006,91
+Guatemala,GTM,POL3,2006,90
+Guinea,GIN,POL3,2006,53
+Guinea-Bissau,GNB,POL3,2006,74
+Guyana,GUY,POL3,2006,92
+Haiti,HTI,POL3,2006,61
+Honduras,HND,POL3,2006,94
+Hungary,HUN,POL3,2006,99
+Iceland,ISL,POL3,2006,97
+India,IND,POL3,2006,66
+Indonesia,IDN,POL3,2006,78
+Iran (Islamic Republic of),IRN,POL3,2006,99
+Iraq,IRQ,POL3,2006,63
+Ireland,IRL,POL3,2006,91
+Israel,ISR,POL3,2006,94
+Italy,ITA,POL3,2006,97
+Jamaica,JAM,POL3,2006,99
+Japan,JPN,POL3,2006,95
+Jordan,JOR,POL3,2006,98
+Kazakhstan,KAZ,POL3,2006,99
+Kenya,KEN,POL3,2006,77
+Kiribati,KIR,POL3,2006,86
+Kuwait,KWT,POL3,2006,99
+Kyrgyzstan,KGZ,POL3,2006,93
+Lao People's Democratic Republic,LAO,POL3,2006,56
+Latvia,LVA,POL3,2006,96
+Lebanon,LBN,POL3,2006,80
+Lesotho,LSO,POL3,2006,88
+Liberia,LBR,POL3,2006,66
+Libya,LBY,POL3,2006,98
+Lithuania,LTU,POL3,2006,94
+Luxembourg,LUX,POL3,2006,99
+Madagascar,MDG,POL3,2006,83
+Malawi,MWI,POL3,2006,99
+Malaysia,MYS,POL3,2006,95
+Maldives,MDV,POL3,2006,98
+Mali,MLI,POL3,2006,79
+Malta,MLT,POL3,2006,83
+Marshall Islands,MHL,POL3,2006,95
+Mauritania,MRT,POL3,2006,68
+Mauritius,MUS,POL3,2006,98
+Mexico,MEX,POL3,2006,98
+Micronesia (Federated States of),FSM,POL3,2006,81
+Monaco,MCO,POL3,2006,99
+Mongolia,MNG,POL3,2006,98
+Montenegro,MNE,POL3,2006,90
+Morocco,MAR,POL3,2006,97
+Mozambique,MOZ,POL3,2006,73
+Myanmar,MMR,POL3,2006,82
+Namibia,NAM,POL3,2006,74
+Nauru,NRU,POL3,2006,90
+Nepal,NPL,POL3,2006,91
+Netherlands (Kingdom of the),NLD,POL3,2006,96
+New Zealand,NZL,POL3,2006,89
+Nicaragua,NIC,POL3,2006,88
+Niger,NER,POL3,2006,52
+Nigeria,NGA,POL3,2006,46
+Niue,NIU,POL3,2006,99
+North Macedonia,MKD,POL3,2006,92
+Norway,NOR,POL3,2006,94
+Oman,OMN,POL3,2006,98
+Pakistan,PAK,POL3,2006,58
+Palau,PLW,POL3,2006,98
+Panama,PAN,POL3,2006,98
+Papua New Guinea,PNG,POL3,2006,65
+Paraguay,PRY,POL3,2006,98
+Peru,PER,POL3,2006,94
+Philippines,PHL,POL3,2006,88
+Poland,POL,POL3,2006,99
+Portugal,PRT,POL3,2006,97
+Qatar,QAT,POL3,2006,95
+Republic of Korea,KOR,POL3,2006,98
+Republic of Moldova,MDA,POL3,2006,98
+Romania,ROU,POL3,2006,97
+Russian Federation,RUS,POL3,2006,98
+Rwanda,RWA,POL3,2006,99
+Saint Kitts and Nevis,KNA,POL3,2006,99
+Saint Lucia,LCA,POL3,2006,85
+Saint Vincent and the Grenadines,VCT,POL3,2006,99
+Samoa,WSM,POL3,2006,49
+San Marino,SMR,POL3,2006,91
+Sao Tome and Principe,STP,POL3,2006,97
+Saudi Arabia,SAU,POL3,2006,96
+Senegal,SEN,POL3,2006,89
+Serbia,SRB,POL3,2006,97
+Seychelles,SYC,POL3,2006,99
+Sierra Leone,SLE,POL3,2006,65
+Singapore,SGP,POL3,2006,95
+Slovakia,SVK,POL3,2006,99
+Slovenia,SVN,POL3,2006,97
+Solomon Islands,SLB,POL3,2006,99
+Somalia,SOM,POL3,2006,26
+South Africa,ZAF,POL3,2006,79
+South Sudan,SSD,POL3,2006,
+Spain,ESP,POL3,2006,98
+Sri Lanka,LKA,POL3,2006,98
+State of Palestine,PSE,POL3,2006,97
+Sudan,SDN,POL3,2006,77
+Suriname,SUR,POL3,2006,84
+Sweden,SWE,POL3,2006,98
+Switzerland,CHE,POL3,2006,94
+Syrian Arab Republic,SYR,POL3,2006,83
+Tajikistan,TJK,POL3,2006,76
+Thailand,THA,POL3,2006,98
+Timor-Leste,TLS,POL3,2006,62
+Togo,TGO,POL3,2006,85
+Tonga,TON,POL3,2006,99
+Trinidad and Tobago,TTO,POL3,2006,89
+Tunisia,TUN,POL3,2006,99
+Turkiye,TUR,POL3,2006,90
+Turkmenistan,TKM,POL3,2006,98
+Tuvalu,TUV,POL3,2006,97
+Uganda,UGA,POL3,2006,62
+Ukraine,UKR,POL3,2006,99
+United Arab Emirates,ARE,POL3,2006,94
+United Kingdom,GBR,POL3,2006,92
+United Republic of Tanzania,TZA,POL3,2006,91
+United States,USA,POL3,2006,93
+Uruguay,URY,POL3,2006,95
+Uzbekistan,UZB,POL3,2006,94
+Vanuatu,VUT,POL3,2006,67
+Venezuela (Bolivarian Republic of),VEN,POL3,2006,73
+Viet Nam,VNM,POL3,2006,94
+Yemen,YEM,POL3,2006,78
+Zambia,ZMB,POL3,2006,83
+Zimbabwe,ZWE,POL3,2006,71
+Afghanistan,AFG,POL3,2007,63
+Albania,ALB,POL3,2007,99
+Algeria,DZA,POL3,2007,95
+Andorra,AND,POL3,2007,96
+Angola,AGO,POL3,2007,43
+Antigua and Barbuda,ATG,POL3,2007,98
+Argentina,ARG,POL3,2007,92
+Armenia,ARM,POL3,2007,90
+Australia,AUS,POL3,2007,92
+Austria,AUT,POL3,2007,85
+Azerbaijan,AZE,POL3,2007,81
+Bahamas,BHS,POL3,2007,95
+Bahrain,BHR,POL3,2007,97
+Bangladesh,BGD,POL3,2007,96
+Barbados,BRB,POL3,2007,93
+Belarus,BLR,POL3,2007,90
+Belgium,BEL,POL3,2007,99
+Belize,BLZ,POL3,2007,97
+Benin,BEN,POL3,2007,82
+Bhutan,BTN,POL3,2007,93
+Bolivia (Plurinational State of),BOL,POL3,2007,85
+Bosnia and Herzegovina,BIH,POL3,2007,95
+Botswana,BWA,POL3,2007,96
+Brazil,BRA,POL3,2007,99
+Brunei Darussalam,BRN,POL3,2007,95
+Bulgaria,BGR,POL3,2007,95
+Burkina Faso,BFA,POL3,2007,93
+Burundi,BDI,POL3,2007,93
+Cabo Verde,CPV,POL3,2007,98
+Cambodia,KHM,POL3,2007,82
+Cameroon,CMR,POL3,2007,81
+Canada,CAN,POL3,2007,99
+Central African Republic,CAF,POL3,2007,46
+Chad,TCD,POL3,2007,40
+Chile,CHL,POL3,2007,95
+China,CHN,POL3,2007,94
+Colombia,COL,POL3,2007,93
+Comoros,COM,POL3,2007,75
+Congo,COG,POL3,2007,71
+Cook Islands,COK,POL3,2007,99
+Costa Rica,CRI,POL3,2007,89
+Cote d'Ivoire,CIV,POL3,2007,75
+Croatia,HRV,POL3,2007,96
+Cuba,CUB,POL3,2007,99
+Cyprus,CYP,POL3,2007,97
+Czechia,CZE,POL3,2007,99
+Democratic People's Republic of Korea,PRK,POL3,2007,99
+Democratic Republic of the Congo,COD,POL3,2007,64
+Denmark,DNK,POL3,2007,87
+Djibouti,DJI,POL3,2007,88
+Dominica,DMA,POL3,2007,93
+Dominican Republic,DOM,POL3,2007,86
+Ecuador,ECU,POL3,2007,95
+Egypt,EGY,POL3,2007,98
+El Salvador,SLV,POL3,2007,99
+Equatorial Guinea,GNQ,POL3,2007,55
+Eritrea,ERI,POL3,2007,95
+Estonia,EST,POL3,2007,95
+Eswatini,SWZ,POL3,2007,88
+Ethiopia,ETH,POL3,2007,61
+Fiji,FJI,POL3,2007,99
+Finland,FIN,POL3,2007,97
+France,FRA,POL3,2007,99
+Gabon,GAB,POL3,2007,78
+Gambia,GMB,POL3,2007,94
+Georgia,GEO,POL3,2007,88
+Germany,DEU,POL3,2007,95
+Ghana,GHA,POL3,2007,94
+Greece,GRC,POL3,2007,99
+Grenada,GRD,POL3,2007,96
+Guatemala,GTM,POL3,2007,85
+Guinea,GIN,POL3,2007,46
+Guinea-Bissau,GNB,POL3,2007,76
+Guyana,GUY,POL3,2007,94
+Haiti,HTI,POL3,2007,62
+Honduras,HND,POL3,2007,94
+Hungary,HUN,POL3,2007,99
+Iceland,ISL,POL3,2007,97
+India,IND,POL3,2007,67
+Indonesia,IDN,POL3,2007,77
+Iran (Islamic Republic of),IRN,POL3,2007,98
+Iraq,IRQ,POL3,2007,74
+Ireland,IRL,POL3,2007,92
+Israel,ISR,POL3,2007,95
+Italy,ITA,POL3,2007,97
+Jamaica,JAM,POL3,2007,94
+Japan,JPN,POL3,2007,97
+Jordan,JOR,POL3,2007,98
+Kazakhstan,KAZ,POL3,2007,94
+Kenya,KEN,POL3,2007,76
+Kiribati,KIR,POL3,2007,93
+Kuwait,KWT,POL3,2007,99
+Kyrgyzstan,KGZ,POL3,2007,94
+Lao People's Democratic Republic,LAO,POL3,2007,46
+Latvia,LVA,POL3,2007,94
+Lebanon,LBN,POL3,2007,82
+Lesotho,LSO,POL3,2007,87
+Liberia,LBR,POL3,2007,67
+Libya,LBY,POL3,2007,98
+Lithuania,LTU,POL3,2007,95
+Luxembourg,LUX,POL3,2007,96
+Madagascar,MDG,POL3,2007,83
+Malawi,MWI,POL3,2007,88
+Malaysia,MYS,POL3,2007,97
+Maldives,MDV,POL3,2007,98
+Mali,MLI,POL3,2007,76
+Malta,MLT,POL3,2007,76
+Marshall Islands,MHL,POL3,2007,91
+Mauritania,MRT,POL3,2007,75
+Mauritius,MUS,POL3,2007,96
+Mexico,MEX,POL3,2007,98
+Micronesia (Federated States of),FSM,POL3,2007,79
+Monaco,MCO,POL3,2007,99
+Mongolia,MNG,POL3,2007,99
+Montenegro,MNE,POL3,2007,92
+Morocco,MAR,POL3,2007,95
+Mozambique,MOZ,POL3,2007,75
+Myanmar,MMR,POL3,2007,84
+Namibia,NAM,POL3,2007,81
+Nauru,NRU,POL3,2007,99
+Nepal,NPL,POL3,2007,82
+Netherlands (Kingdom of the),NLD,POL3,2007,97
+New Zealand,NZL,POL3,2007,88
+Nicaragua,NIC,POL3,2007,93
+Niger,NER,POL3,2007,57
+Nigeria,NGA,POL3,2007,54
+Niue,NIU,POL3,2007,99
+North Macedonia,MKD,POL3,2007,96
+Norway,NOR,POL3,2007,93
+Oman,OMN,POL3,2007,97
+Pakistan,PAK,POL3,2007,54
+Palau,PLW,POL3,2007,94
+Panama,PAN,POL3,2007,84
+Papua New Guinea,PNG,POL3,2007,68
+Paraguay,PRY,POL3,2007,95
+Peru,PER,POL3,2007,93
+Philippines,PHL,POL3,2007,87
+Poland,POL,POL3,2007,99
+Portugal,PRT,POL3,2007,96
+Qatar,QAT,POL3,2007,97
+Republic of Korea,KOR,POL3,2007,91
+Republic of Moldova,MDA,POL3,2007,93
+Romania,ROU,POL3,2007,96
+Russian Federation,RUS,POL3,2007,98
+Rwanda,RWA,POL3,2007,98
+Saint Kitts and Nevis,KNA,POL3,2007,99
+Saint Lucia,LCA,POL3,2007,99
+Saint Vincent and the Grenadines,VCT,POL3,2007,99
+Samoa,WSM,POL3,2007,63
+San Marino,SMR,POL3,2007,90
+Sao Tome and Principe,STP,POL3,2007,98
+Saudi Arabia,SAU,POL3,2007,96
+Senegal,SEN,POL3,2007,93
+Serbia,SRB,POL3,2007,93
+Seychelles,SYC,POL3,2007,99
+Sierra Leone,SLE,POL3,2007,63
+Singapore,SGP,POL3,2007,97
+Slovakia,SVK,POL3,2007,99
+Slovenia,SVN,POL3,2007,97
+Solomon Islands,SLB,POL3,2007,89
+Somalia,SOM,POL3,2007,40
+South Africa,ZAF,POL3,2007,79
+South Sudan,SSD,POL3,2007,
+Spain,ESP,POL3,2007,96
+Sri Lanka,LKA,POL3,2007,98
+State of Palestine,PSE,POL3,2007,99
+Sudan,SDN,POL3,2007,84
+Suriname,SUR,POL3,2007,84
+Sweden,SWE,POL3,2007,98
+Switzerland,CHE,POL3,2007,94
+Syrian Arab Republic,SYR,POL3,2007,83
+Tajikistan,TJK,POL3,2007,85
+Thailand,THA,POL3,2007,98
+Timor-Leste,TLS,POL3,2007,70
+Togo,TGO,POL3,2007,72
+Tonga,TON,POL3,2007,99
+Trinidad and Tobago,TTO,POL3,2007,90
+Tunisia,TUN,POL3,2007,98
+Turkiye,TUR,POL3,2007,96
+Turkmenistan,TKM,POL3,2007,98
+Tuvalu,TUV,POL3,2007,97
+Uganda,UGA,POL3,2007,70
+Ukraine,UKR,POL3,2007,98
+United Arab Emirates,ARE,POL3,2007,94
+United Kingdom,GBR,POL3,2007,92
+United Republic of Tanzania,TZA,POL3,2007,88
+United States,USA,POL3,2007,93
+Uruguay,URY,POL3,2007,94
+Uzbekistan,UZB,POL3,2007,98
+Vanuatu,VUT,POL3,2007,69
+Venezuela (Bolivarian Republic of),VEN,POL3,2007,67
+Viet Nam,VNM,POL3,2007,92
+Yemen,YEM,POL3,2007,79
+Zambia,ZMB,POL3,2007,77
+Zimbabwe,ZWE,POL3,2007,73
+Afghanistan,AFG,POL3,2008,64
+Albania,ALB,POL3,2008,99
+Algeria,DZA,POL3,2008,92
+Andorra,AND,POL3,2008,99
+Angola,AGO,POL3,2008,36
+Antigua and Barbuda,ATG,POL3,2008,99
+Argentina,ARG,POL3,2008,94
+Armenia,ARM,POL3,2008,91
+Australia,AUS,POL3,2008,92
+Austria,AUT,POL3,2008,83
+Azerbaijan,AZE,POL3,2008,85
+Bahamas,BHS,POL3,2008,93
+Bahrain,BHR,POL3,2008,97
+Bangladesh,BGD,POL3,2008,96
+Barbados,BRB,POL3,2008,85
+Belarus,BLR,POL3,2008,98
+Belgium,BEL,POL3,2008,99
+Belize,BLZ,POL3,2008,94
+Benin,BEN,POL3,2008,77
+Bhutan,BTN,POL3,2008,96
+Bolivia (Plurinational State of),BOL,POL3,2008,87
+Bosnia and Herzegovina,BIH,POL3,2008,92
+Botswana,BWA,POL3,2008,96
+Brazil,BRA,POL3,2008,99
+Brunei Darussalam,BRN,POL3,2008,97
+Bulgaria,BGR,POL3,2008,96
+Burkina Faso,BFA,POL3,2008,92
+Burundi,BDI,POL3,2008,89
+Cabo Verde,CPV,POL3,2008,99
+Cambodia,KHM,POL3,2008,91
+Cameroon,CMR,POL3,2008,82
+Canada,CAN,POL3,2008,96
+Central African Republic,CAF,POL3,2008,46
+Chad,TCD,POL3,2008,30
+Chile,CHL,POL3,2008,95
+China,CHN,POL3,2008,99
+Colombia,COL,POL3,2008,92
+Comoros,COM,POL3,2008,81
+Congo,COG,POL3,2008,77
+Cook Islands,COK,POL3,2008,99
+Costa Rica,CRI,POL3,2008,89
+Cote d'Ivoire,CIV,POL3,2008,58
+Croatia,HRV,POL3,2008,96
+Cuba,CUB,POL3,2008,99
+Cyprus,CYP,POL3,2008,97
+Czechia,CZE,POL3,2008,99
+Democratic People's Republic of Korea,PRK,POL3,2008,98
+Democratic Republic of the Congo,COD,POL3,2008,67
+Denmark,DNK,POL3,2008,88
+Djibouti,DJI,POL3,2008,89
+Dominica,DMA,POL3,2008,95
+Dominican Republic,DOM,POL3,2008,86
+Ecuador,ECU,POL3,2008,94
+Egypt,EGY,POL3,2008,97
+El Salvador,SLV,POL3,2008,98
+Equatorial Guinea,GNQ,POL3,2008,57
+Eritrea,ERI,POL3,2008,95
+Estonia,EST,POL3,2008,95
+Eswatini,SWZ,POL3,2008,89
+Ethiopia,ETH,POL3,2008,63
+Fiji,FJI,POL3,2008,98
+Finland,FIN,POL3,2008,97
+France,FRA,POL3,2008,99
+Gabon,GAB,POL3,2008,81
+Gambia,GMB,POL3,2008,96
+Georgia,GEO,POL3,2008,90
+Germany,DEU,POL3,2008,95
+Ghana,GHA,POL3,2008,92
+Greece,GRC,POL3,2008,99
+Grenada,GRD,POL3,2008,99
+Guatemala,GTM,POL3,2008,96
+Guinea,GIN,POL3,2008,59
+Guinea-Bissau,GNB,POL3,2008,77
+Guyana,GUY,POL3,2008,93
+Haiti,HTI,POL3,2008,64
+Honduras,HND,POL3,2008,93
+Hungary,HUN,POL3,2008,99
+Iceland,ISL,POL3,2008,98
+India,IND,POL3,2008,69
+Indonesia,IDN,POL3,2008,83
+Iran (Islamic Republic of),IRN,POL3,2008,99
+Iraq,IRQ,POL3,2008,71
+Ireland,IRL,POL3,2008,93
+Israel,ISR,POL3,2008,94
+Italy,ITA,POL3,2008,96
+Jamaica,JAM,POL3,2008,91
+Japan,JPN,POL3,2008,98
+Jordan,JOR,POL3,2008,98
+Kazakhstan,KAZ,POL3,2008,99
+Kenya,KEN,POL3,2008,88
+Kiribati,KIR,POL3,2008,74
+Kuwait,KWT,POL3,2008,99
+Kyrgyzstan,KGZ,POL3,2008,95
+Lao People's Democratic Republic,LAO,POL3,2008,60
+Latvia,LVA,POL3,2008,94
+Lebanon,LBN,POL3,2008,84
+Lesotho,LSO,POL3,2008,86
+Liberia,LBR,POL3,2008,79
+Libya,LBY,POL3,2008,98
+Lithuania,LTU,POL3,2008,96
+Luxembourg,LUX,POL3,2008,96
+Madagascar,MDG,POL3,2008,77
+Malawi,MWI,POL3,2008,92
+Malaysia,MYS,POL3,2008,97
+Maldives,MDV,POL3,2008,98
+Mali,MLI,POL3,2008,74
+Malta,MLT,POL3,2008,72
+Marshall Islands,MHL,POL3,2008,96
+Mauritania,MRT,POL3,2008,73
+Mauritius,MUS,POL3,2008,99
+Mexico,MEX,POL3,2008,96
+Micronesia (Federated States of),FSM,POL3,2008,88
+Monaco,MCO,POL3,2008,99
+Mongolia,MNG,POL3,2008,95
+Montenegro,MNE,POL3,2008,95
+Morocco,MAR,POL3,2008,99
+Mozambique,MOZ,POL3,2008,74
+Myanmar,MMR,POL3,2008,85
+Namibia,NAM,POL3,2008,83
+Nauru,NRU,POL3,2008,99
+Nepal,NPL,POL3,2008,82
+Netherlands (Kingdom of the),NLD,POL3,2008,97
+New Zealand,NZL,POL3,2008,89
+Nicaragua,NIC,POL3,2008,97
+Niger,NER,POL3,2008,68
+Nigeria,NGA,POL3,2008,60
+Niue,NIU,POL3,2008,99
+North Macedonia,MKD,POL3,2008,96
+Norway,NOR,POL3,2008,94
+Oman,OMN,POL3,2008,97
+Pakistan,PAK,POL3,2008,53
+Palau,PLW,POL3,2008,92
+Panama,PAN,POL3,2008,86
+Papua New Guinea,PNG,POL3,2008,69
+Paraguay,PRY,POL3,2008,85
+Peru,PER,POL3,2008,93
+Philippines,PHL,POL3,2008,87
+Poland,POL,POL3,2008,96
+Portugal,PRT,POL3,2008,97
+Qatar,QAT,POL3,2008,98
+Republic of Korea,KOR,POL3,2008,92
+Republic of Moldova,MDA,POL3,2008,96
+Romania,ROU,POL3,2008,95
+Russian Federation,RUS,POL3,2008,98
+Rwanda,RWA,POL3,2008,97
+Saint Kitts and Nevis,KNA,POL3,2008,98
+Saint Lucia,LCA,POL3,2008,96
+Saint Vincent and the Grenadines,VCT,POL3,2008,99
+Samoa,WSM,POL3,2008,69
+San Marino,SMR,POL3,2008,90
+Sao Tome and Principe,STP,POL3,2008,99
+Saudi Arabia,SAU,POL3,2008,98
+Senegal,SEN,POL3,2008,87
+Serbia,SRB,POL3,2008,95
+Seychelles,SYC,POL3,2008,99
+Sierra Leone,SLE,POL3,2008,75
+Singapore,SGP,POL3,2008,97
+Slovakia,SVK,POL3,2008,99
+Slovenia,SVN,POL3,2008,97
+Solomon Islands,SLB,POL3,2008,88
+Somalia,SOM,POL3,2008,40
+South Africa,ZAF,POL3,2008,77
+South Sudan,SSD,POL3,2008,
+Spain,ESP,POL3,2008,97
+Sri Lanka,LKA,POL3,2008,98
+State of Palestine,PSE,POL3,2008,97
+Sudan,SDN,POL3,2008,85
+Suriname,SUR,POL3,2008,85
+Sweden,SWE,POL3,2008,98
+Switzerland,CHE,POL3,2008,96
+Syrian Arab Republic,SYR,POL3,2008,83
+Tajikistan,TJK,POL3,2008,87
+Thailand,THA,POL3,2008,99
+Timor-Leste,TLS,POL3,2008,79
+Togo,TGO,POL3,2008,80
+Tonga,TON,POL3,2008,99
+Trinidad and Tobago,TTO,POL3,2008,91
+Tunisia,TUN,POL3,2008,99
+Turkiye,TUR,POL3,2008,96
+Turkmenistan,TKM,POL3,2008,96
+Tuvalu,TUV,POL3,2008,99
+Uganda,UGA,POL3,2008,69
+Ukraine,UKR,POL3,2008,91
+United Arab Emirates,ARE,POL3,2008,94
+United Kingdom,GBR,POL3,2008,92
+United Republic of Tanzania,TZA,POL3,2008,89
+United States,USA,POL3,2008,94
+Uruguay,URY,POL3,2008,94
+Uzbekistan,UZB,POL3,2008,98
+Vanuatu,VUT,POL3,2008,70
+Venezuela (Bolivarian Republic of),VEN,POL3,2008,76
+Viet Nam,VNM,POL3,2008,93
+Yemen,YEM,POL3,2008,78
+Zambia,ZMB,POL3,2008,90
+Zimbabwe,ZWE,POL3,2008,75
+Afghanistan,AFG,POL3,2009,63
+Albania,ALB,POL3,2009,98
+Algeria,DZA,POL3,2009,94
+Andorra,AND,POL3,2009,99
+Angola,AGO,POL3,2009,36
+Antigua and Barbuda,ATG,POL3,2009,98
+Argentina,ARG,POL3,2009,97
+Armenia,ARM,POL3,2009,94
+Australia,AUS,POL3,2009,92
+Austria,AUT,POL3,2009,83
+Azerbaijan,AZE,POL3,2009,84
+Bahamas,BHS,POL3,2009,97
+Bahrain,BHR,POL3,2009,97
+Bangladesh,BGD,POL3,2009,97
+Barbados,BRB,POL3,2009,93
+Belarus,BLR,POL3,2009,98
+Belgium,BEL,POL3,2009,98
+Belize,BLZ,POL3,2009,98
+Benin,BEN,POL3,2009,80
+Bhutan,BTN,POL3,2009,93
+Bolivia (Plurinational State of),BOL,POL3,2009,92
+Bosnia and Herzegovina,BIH,POL3,2009,90
+Botswana,BWA,POL3,2009,96
+Brazil,BRA,POL3,2009,99
+Brunei Darussalam,BRN,POL3,2009,99
+Bulgaria,BGR,POL3,2009,94
+Burkina Faso,BFA,POL3,2009,91
+Burundi,BDI,POL3,2009,96
+Cabo Verde,CPV,POL3,2009,99
+Cambodia,KHM,POL3,2009,95
+Cameroon,CMR,POL3,2009,79
+Canada,CAN,POL3,2009,93
+Central African Republic,CAF,POL3,2009,45
+Chad,TCD,POL3,2009,34
+Chile,CHL,POL3,2009,94
+China,CHN,POL3,2009,99
+Colombia,COL,POL3,2009,92
+Comoros,COM,POL3,2009,84
+Congo,COG,POL3,2009,76
+Cook Islands,COK,POL3,2009,82
+Costa Rica,CRI,POL3,2009,80
+Cote d'Ivoire,CIV,POL3,2009,77
+Croatia,HRV,POL3,2009,96
+Cuba,CUB,POL3,2009,99
+Cyprus,CYP,POL3,2009,99
+Czechia,CZE,POL3,2009,99
+Democratic People's Republic of Korea,PRK,POL3,2009,98
+Democratic Republic of the Congo,COD,POL3,2009,69
+Denmark,DNK,POL3,2009,89
+Djibouti,DJI,POL3,2009,89
+Dominica,DMA,POL3,2009,99
+Dominican Republic,DOM,POL3,2009,85
+Ecuador,ECU,POL3,2009,91
+Egypt,EGY,POL3,2009,97
+El Salvador,SLV,POL3,2009,91
+Equatorial Guinea,GNQ,POL3,2009,59
+Eritrea,ERI,POL3,2009,95
+Estonia,EST,POL3,2009,95
+Eswatini,SWZ,POL3,2009,89
+Ethiopia,ETH,POL3,2009,65
+Fiji,FJI,POL3,2009,99
+Finland,FIN,POL3,2009,99
+France,FRA,POL3,2009,98
+Gabon,GAB,POL3,2009,74
+Gambia,GMB,POL3,2009,97
+Georgia,GEO,POL3,2009,93
+Germany,DEU,POL3,2009,95
+Ghana,GHA,POL3,2009,94
+Greece,GRC,POL3,2009,99
+Grenada,GRD,POL3,2009,99
+Guatemala,GTM,POL3,2009,92
+Guinea,GIN,POL3,2009,60
+Guinea-Bissau,GNB,POL3,2009,78
+Guyana,GUY,POL3,2009,97
+Haiti,HTI,POL3,2009,65
+Honduras,HND,POL3,2009,97
+Hungary,HUN,POL3,2009,99
+Iceland,ISL,POL3,2009,96
+India,IND,POL3,2009,73
+Indonesia,IDN,POL3,2009,85
+Iran (Islamic Republic of),IRN,POL3,2009,99
+Iraq,IRQ,POL3,2009,78
+Ireland,IRL,POL3,2009,94
+Israel,ISR,POL3,2009,96
+Italy,ITA,POL3,2009,96
+Jamaica,JAM,POL3,2009,90
+Japan,JPN,POL3,2009,99
+Jordan,JOR,POL3,2009,98
+Kazakhstan,KAZ,POL3,2009,99
+Kenya,KEN,POL3,2009,89
+Kiribati,KIR,POL3,2009,84
+Kuwait,KWT,POL3,2009,99
+Kyrgyzstan,KGZ,POL3,2009,96
+Lao People's Democratic Republic,LAO,POL3,2009,67
+Latvia,LVA,POL3,2009,94
+Lebanon,LBN,POL3,2009,83
+Lesotho,LSO,POL3,2009,89
+Liberia,LBR,POL3,2009,84
+Libya,LBY,POL3,2009,98
+Lithuania,LTU,POL3,2009,98
+Luxembourg,LUX,POL3,2009,96
+Madagascar,MDG,POL3,2009,76
+Malawi,MWI,POL3,2009,93
+Malaysia,MYS,POL3,2009,97
+Maldives,MDV,POL3,2009,98
+Mali,MLI,POL3,2009,77
+Malta,MLT,POL3,2009,73
+Marshall Islands,MHL,POL3,2009,99
+Mauritania,MRT,POL3,2009,63
+Mauritius,MUS,POL3,2009,99
+Mexico,MEX,POL3,2009,95
+Micronesia (Federated States of),FSM,POL3,2009,81
+Monaco,MCO,POL3,2009,99
+Mongolia,MNG,POL3,2009,96
+Montenegro,MNE,POL3,2009,91
+Morocco,MAR,POL3,2009,99
+Mozambique,MOZ,POL3,2009,74
+Myanmar,MMR,POL3,2009,90
+Namibia,NAM,POL3,2009,83
+Nauru,NRU,POL3,2009,99
+Nepal,NPL,POL3,2009,93
+Netherlands (Kingdom of the),NLD,POL3,2009,97
+New Zealand,NZL,POL3,2009,92
+Nicaragua,NIC,POL3,2009,99
+Niger,NER,POL3,2009,71
+Nigeria,NGA,POL3,2009,66
+Niue,NIU,POL3,2009,99
+North Macedonia,MKD,POL3,2009,96
+Norway,NOR,POL3,2009,94
+Oman,OMN,POL3,2009,96
+Pakistan,PAK,POL3,2009,52
+Palau,PLW,POL3,2009,48
+Panama,PAN,POL3,2009,85
+Papua New Guinea,PNG,POL3,2009,70
+Paraguay,PRY,POL3,2009,82
+Peru,PER,POL3,2009,92
+Philippines,PHL,POL3,2009,87
+Poland,POL,POL3,2009,96
+Portugal,PRT,POL3,2009,96
+Qatar,QAT,POL3,2009,98
+Republic of Korea,KOR,POL3,2009,95
+Republic of Moldova,MDA,POL3,2009,87
+Romania,ROU,POL3,2009,95
+Russian Federation,RUS,POL3,2009,98
+Rwanda,RWA,POL3,2009,93
+Saint Kitts and Nevis,KNA,POL3,2009,95
+Saint Lucia,LCA,POL3,2009,95
+Saint Vincent and the Grenadines,VCT,POL3,2009,99
+Samoa,WSM,POL3,2009,61
+San Marino,SMR,POL3,2009,90
+Sao Tome and Principe,STP,POL3,2009,99
+Saudi Arabia,SAU,POL3,2009,98
+Senegal,SEN,POL3,2009,83
+Serbia,SRB,POL3,2009,97
+Seychelles,SYC,POL3,2009,99
+Sierra Leone,SLE,POL3,2009,81
+Singapore,SGP,POL3,2009,97
+Slovakia,SVK,POL3,2009,99
+Slovenia,SVN,POL3,2009,96
+Solomon Islands,SLB,POL3,2009,90
+Somalia,SOM,POL3,2009,41
+South Africa,ZAF,POL3,2009,75
+South Sudan,SSD,POL3,2009,
+Spain,ESP,POL3,2009,96
+Sri Lanka,LKA,POL3,2009,97
+State of Palestine,PSE,POL3,2009,98
+Sudan,SDN,POL3,2009,81
+Suriname,SUR,POL3,2009,85
+Sweden,SWE,POL3,2009,98
+Switzerland,CHE,POL3,2009,96
+Syrian Arab Republic,SYR,POL3,2009,83
+Tajikistan,TJK,POL3,2009,93
+Thailand,THA,POL3,2009,99
+Timor-Leste,TLS,POL3,2009,78
+Togo,TGO,POL3,2009,78
+Tonga,TON,POL3,2009,99
+Trinidad and Tobago,TTO,POL3,2009,90
+Tunisia,TUN,POL3,2009,99
+Turkiye,TUR,POL3,2009,96
+Turkmenistan,TKM,POL3,2009,97
+Tuvalu,TUV,POL3,2009,85
+Uganda,UGA,POL3,2009,78
+Ukraine,UKR,POL3,2009,74
+United Arab Emirates,ARE,POL3,2009,94
+United Kingdom,GBR,POL3,2009,93
+United Republic of Tanzania,TZA,POL3,2009,88
+United States,USA,POL3,2009,93
+Uruguay,URY,POL3,2009,95
+Uzbekistan,UZB,POL3,2009,99
+Vanuatu,VUT,POL3,2009,72
+Venezuela (Bolivarian Republic of),VEN,POL3,2009,75
+Viet Nam,VNM,POL3,2009,97
+Yemen,YEM,POL3,2009,76
+Zambia,ZMB,POL3,2009,93
+Zimbabwe,ZWE,POL3,2009,69
+Afghanistan,AFG,POL3,2010,66
+Albania,ALB,POL3,2010,99
+Algeria,DZA,POL3,2010,95
+Andorra,AND,POL3,2010,99
+Angola,AGO,POL3,2010,56
+Antigua and Barbuda,ATG,POL3,2010,99
+Argentina,ARG,POL3,2010,95
+Armenia,ARM,POL3,2010,96
+Australia,AUS,POL3,2010,92
+Austria,AUT,POL3,2010,86
+Azerbaijan,AZE,POL3,2010,85
+Bahamas,BHS,POL3,2010,97
+Bahrain,BHR,POL3,2010,99
+Bangladesh,BGD,POL3,2010,94
+Barbados,BRB,POL3,2010,90
+Belarus,BLR,POL3,2010,99
+Belgium,BEL,POL3,2010,98
+Belize,BLZ,POL3,2010,96
+Benin,BEN,POL3,2010,77
+Bhutan,BTN,POL3,2010,92
+Bolivia (Plurinational State of),BOL,POL3,2010,90
+Bosnia and Herzegovina,BIH,POL3,2010,90
+Botswana,BWA,POL3,2010,96
+Brazil,BRA,POL3,2010,99
+Brunei Darussalam,BRN,POL3,2010,99
+Bulgaria,BGR,POL3,2010,94
+Burkina Faso,BFA,POL3,2010,90
+Burundi,BDI,POL3,2010,94
+Cabo Verde,CPV,POL3,2010,99
+Cambodia,KHM,POL3,2010,90
+Cameroon,CMR,POL3,2010,83
+Canada,CAN,POL3,2010,90
+Central African Republic,CAF,POL3,2010,46
+Chad,TCD,POL3,2010,44
+Chile,CHL,POL3,2010,92
+China,CHN,POL3,2010,99
+Colombia,COL,POL3,2010,88
+Comoros,COM,POL3,2010,82
+Congo,COG,POL3,2010,72
+Cook Islands,COK,POL3,2010,99
+Costa Rica,CRI,POL3,2010,93
+Cote d'Ivoire,CIV,POL3,2010,75
+Croatia,HRV,POL3,2010,97
+Cuba,CUB,POL3,2010,99
+Cyprus,CYP,POL3,2010,99
+Czechia,CZE,POL3,2010,99
+Democratic People's Republic of Korea,PRK,POL3,2010,99
+Democratic Republic of the Congo,COD,POL3,2010,68
+Denmark,DNK,POL3,2010,90
+Djibouti,DJI,POL3,2010,88
+Dominica,DMA,POL3,2010,99
+Dominican Republic,DOM,POL3,2010,85
+Ecuador,ECU,POL3,2010,88
+Egypt,EGY,POL3,2010,97
+El Salvador,SLV,POL3,2010,89
+Equatorial Guinea,GNQ,POL3,2010,61
+Eritrea,ERI,POL3,2010,95
+Estonia,EST,POL3,2010,94
+Eswatini,SWZ,POL3,2010,89
+Ethiopia,ETH,POL3,2010,69
+Fiji,FJI,POL3,2010,98
+Finland,FIN,POL3,2010,99
+France,FRA,POL3,2010,99
+Gabon,GAB,POL3,2010,68
+Gambia,GMB,POL3,2010,97
+Georgia,GEO,POL3,2010,88
+Germany,DEU,POL3,2010,94
+Ghana,GHA,POL3,2010,94
+Greece,GRC,POL3,2010,99
+Grenada,GRD,POL3,2010,94
+Guatemala,GTM,POL3,2010,94
+Guinea,GIN,POL3,2010,62
+Guinea-Bissau,GNB,POL3,2010,82
+Guyana,GUY,POL3,2010,95
+Haiti,HTI,POL3,2010,66
+Honduras,HND,POL3,2010,97
+Hungary,HUN,POL3,2010,99
+Iceland,ISL,POL3,2010,96
+India,IND,POL3,2010,76
+Indonesia,IDN,POL3,2010,82
+Iran (Islamic Republic of),IRN,POL3,2010,99
+Iraq,IRQ,POL3,2010,74
+Ireland,IRL,POL3,2010,94
+Israel,ISR,POL3,2010,95
+Italy,ITA,POL3,2010,96
+Jamaica,JAM,POL3,2010,94
+Japan,JPN,POL3,2010,98
+Jordan,JOR,POL3,2010,98
+Kazakhstan,KAZ,POL3,2010,98
+Kenya,KEN,POL3,2010,90
+Kiribati,KIR,POL3,2010,95
+Kuwait,KWT,POL3,2010,98
+Kyrgyzstan,KGZ,POL3,2010,88
+Lao People's Democratic Republic,LAO,POL3,2010,76
+Latvia,LVA,POL3,2010,92
+Lebanon,LBN,POL3,2010,83
+Lesotho,LSO,POL3,2010,92
+Liberia,LBR,POL3,2010,71
+Libya,LBY,POL3,2010,98
+Lithuania,LTU,POL3,2010,95
+Luxembourg,LUX,POL3,2010,96
+Madagascar,MDG,POL3,2010,70
+Malawi,MWI,POL3,2010,86
+Malaysia,MYS,POL3,2010,96
+Maldives,MDV,POL3,2010,97
+Mali,MLI,POL3,2010,77
+Malta,MLT,POL3,2010,76
+Marshall Islands,MHL,POL3,2010,95
+Mauritania,MRT,POL3,2010,52
+Mauritius,MUS,POL3,2010,99
+Mexico,MEX,POL3,2010,95
+Micronesia (Federated States of),FSM,POL3,2010,85
+Monaco,MCO,POL3,2010,99
+Mongolia,MNG,POL3,2010,96
+Montenegro,MNE,POL3,2010,93
+Morocco,MAR,POL3,2010,99
+Mozambique,MOZ,POL3,2010,73
+Myanmar,MMR,POL3,2010,90
+Namibia,NAM,POL3,2010,83
+Nauru,NRU,POL3,2010,99
+Nepal,NPL,POL3,2010,83
+Netherlands (Kingdom of the),NLD,POL3,2010,97
+New Zealand,NZL,POL3,2010,93
+Nicaragua,NIC,POL3,2010,99
+Niger,NER,POL3,2010,75
+Nigeria,NGA,POL3,2010,54
+Niue,NIU,POL3,2010,99
+North Macedonia,MKD,POL3,2010,95
+Norway,NOR,POL3,2010,93
+Oman,OMN,POL3,2010,99
+Pakistan,PAK,POL3,2010,52
+Palau,PLW,POL3,2010,68
+Panama,PAN,POL3,2010,95
+Papua New Guinea,PNG,POL3,2010,61
+Paraguay,PRY,POL3,2010,89
+Peru,PER,POL3,2010,92
+Philippines,PHL,POL3,2010,88
+Poland,POL,POL3,2010,96
+Portugal,PRT,POL3,2010,97
+Qatar,QAT,POL3,2010,98
+Republic of Korea,KOR,POL3,2010,95
+Republic of Moldova,MDA,POL3,2010,97
+Romania,ROU,POL3,2010,94
+Russian Federation,RUS,POL3,2010,98
+Rwanda,RWA,POL3,2010,93
+Saint Kitts and Nevis,KNA,POL3,2010,91
+Saint Lucia,LCA,POL3,2010,97
+Saint Vincent and the Grenadines,VCT,POL3,2010,99
+Samoa,WSM,POL3,2010,74
+San Marino,SMR,POL3,2010,89
+Sao Tome and Principe,STP,POL3,2010,98
+Saudi Arabia,SAU,POL3,2010,98
+Senegal,SEN,POL3,2010,76
+Serbia,SRB,POL3,2010,91
+Seychelles,SYC,POL3,2010,99
+Sierra Leone,SLE,POL3,2010,84
+Singapore,SGP,POL3,2010,96
+Slovakia,SVK,POL3,2010,99
+Slovenia,SVN,POL3,2010,96
+Solomon Islands,SLB,POL3,2010,84
+Somalia,SOM,POL3,2010,49
+South Africa,ZAF,POL3,2010,72
+South Sudan,SSD,POL3,2010,
+Spain,ESP,POL3,2010,97
+Sri Lanka,LKA,POL3,2010,99
+State of Palestine,PSE,POL3,2010,99
+Sudan,SDN,POL3,2010,90
+Suriname,SUR,POL3,2010,94
+Sweden,SWE,POL3,2010,98
+Switzerland,CHE,POL3,2010,96
+Syrian Arab Republic,SYR,POL3,2010,83
+Tajikistan,TJK,POL3,2010,95
+Thailand,THA,POL3,2010,99
+Timor-Leste,TLS,POL3,2010,72
+Togo,TGO,POL3,2010,83
+Tonga,TON,POL3,2010,99
+Trinidad and Tobago,TTO,POL3,2010,91
+Tunisia,TUN,POL3,2010,98
+Turkiye,TUR,POL3,2010,97
+Turkmenistan,TKM,POL3,2010,96
+Tuvalu,TUV,POL3,2010,89
+Uganda,UGA,POL3,2010,79
+Ukraine,UKR,POL3,2010,57
+United Arab Emirates,ARE,POL3,2010,94
+United Kingdom,GBR,POL3,2010,94
+United Republic of Tanzania,TZA,POL3,2010,94
+United States,USA,POL3,2010,93
+Uruguay,URY,POL3,2010,95
+Uzbekistan,UZB,POL3,2010,99
+Vanuatu,VUT,POL3,2010,74
+Venezuela (Bolivarian Republic of),VEN,POL3,2010,74
+Viet Nam,VNM,POL3,2010,94
+Yemen,YEM,POL3,2010,77
+Zambia,ZMB,POL3,2010,80
+Zimbabwe,ZWE,POL3,2010,89
+Afghanistan,AFG,POL3,2011,68
+Albania,ALB,POL3,2011,99
+Algeria,DZA,POL3,2011,95
+Andorra,AND,POL3,2011,99
+Angola,AGO,POL3,2011,50
+Antigua and Barbuda,ATG,POL3,2011,99
+Argentina,ARG,POL3,2011,93
+Armenia,ARM,POL3,2011,96
+Australia,AUS,POL3,2011,92
+Austria,AUT,POL3,2011,89
+Azerbaijan,AZE,POL3,2011,91
+Bahamas,BHS,POL3,2011,97
+Bahrain,BHR,POL3,2011,99
+Bangladesh,BGD,POL3,2011,96
+Barbados,BRB,POL3,2011,91
+Belarus,BLR,POL3,2011,98
+Belgium,BEL,POL3,2011,98
+Belize,BLZ,POL3,2011,95
+Benin,BEN,POL3,2011,77
+Bhutan,BTN,POL3,2011,95
+Bolivia (Plurinational State of),BOL,POL3,2011,95
+Bosnia and Herzegovina,BIH,POL3,2011,89
+Botswana,BWA,POL3,2011,96
+Brazil,BRA,POL3,2011,98
+Brunei Darussalam,BRN,POL3,2011,96
+Bulgaria,BGR,POL3,2011,95
+Burkina Faso,BFA,POL3,2011,90
+Burundi,BDI,POL3,2011,95
+Cabo Verde,CPV,POL3,2011,90
+Cambodia,KHM,POL3,2011,91
+Cameroon,CMR,POL3,2011,80
+Canada,CAN,POL3,2011,87
+Central African Republic,CAF,POL3,2011,47
+Chad,TCD,POL3,2011,40
+Chile,CHL,POL3,2011,93
+China,CHN,POL3,2011,99
+Colombia,COL,POL3,2011,85
+Comoros,COM,POL3,2011,85
+Congo,COG,POL3,2011,72
+Cook Islands,COK,POL3,2011,93
+Costa Rica,CRI,POL3,2011,82
+Cote d'Ivoire,CIV,POL3,2011,58
+Croatia,HRV,POL3,2011,96
+Cuba,CUB,POL3,2011,99
+Cyprus,CYP,POL3,2011,98
+Czechia,CZE,POL3,2011,99
+Democratic People's Republic of Korea,PRK,POL3,2011,99
+Democratic Republic of the Congo,COD,POL3,2011,65
+Denmark,DNK,POL3,2011,91
+Djibouti,DJI,POL3,2011,87
+Dominica,DMA,POL3,2011,98
+Dominican Republic,DOM,POL3,2011,84
+Ecuador,ECU,POL3,2011,85
+Egypt,EGY,POL3,2011,96
+El Salvador,SLV,POL3,2011,90
+Equatorial Guinea,GNQ,POL3,2011,60
+Eritrea,ERI,POL3,2011,94
+Estonia,EST,POL3,2011,93
+Eswatini,SWZ,POL3,2011,85
+Ethiopia,ETH,POL3,2011,70
+Fiji,FJI,POL3,2011,99
+Finland,FIN,POL3,2011,99
+France,FRA,POL3,2011,99
+Gabon,GAB,POL3,2011,75
+Gambia,GMB,POL3,2011,95
+Georgia,GEO,POL3,2011,88
+Germany,DEU,POL3,2011,94
+Ghana,GHA,POL3,2011,91
+Greece,GRC,POL3,2011,99
+Grenada,GRD,POL3,2011,95
+Guatemala,GTM,POL3,2011,88
+Guinea,GIN,POL3,2011,63
+Guinea-Bissau,GNB,POL3,2011,85
+Guyana,GUY,POL3,2011,93
+Haiti,HTI,POL3,2011,67
+Honduras,HND,POL3,2011,97
+Hungary,HUN,POL3,2011,99
+Iceland,ISL,POL3,2011,95
+India,IND,POL3,2011,79
+Indonesia,IDN,POL3,2011,81
+Iran (Islamic Republic of),IRN,POL3,2011,99
+Iraq,IRQ,POL3,2011,82
+Ireland,IRL,POL3,2011,95
+Israel,ISR,POL3,2011,94
+Italy,ITA,POL3,2011,96
+Jamaica,JAM,POL3,2011,93
+Japan,JPN,POL3,2011,96
+Jordan,JOR,POL3,2011,98
+Kazakhstan,KAZ,POL3,2011,99
+Kenya,KEN,POL3,2011,97
+Kiribati,KIR,POL3,2011,95
+Kuwait,KWT,POL3,2011,99
+Kyrgyzstan,KGZ,POL3,2011,94
+Lao People's Democratic Republic,LAO,POL3,2011,78
+Latvia,LVA,POL3,2011,92
+Lebanon,LBN,POL3,2011,82
+Lesotho,LSO,POL3,2011,95
+Liberia,LBR,POL3,2011,77
+Libya,LBY,POL3,2011,98
+Lithuania,LTU,POL3,2011,92
+Luxembourg,LUX,POL3,2011,96
+Madagascar,MDG,POL3,2011,73
+Malawi,MWI,POL3,2011,97
+Malaysia,MYS,POL3,2011,96
+Maldives,MDV,POL3,2011,96
+Mali,MLI,POL3,2011,72
+Malta,MLT,POL3,2011,96
+Marshall Islands,MHL,POL3,2011,88
+Mauritania,MRT,POL3,2011,73
+Mauritius,MUS,POL3,2011,98
+Mexico,MEX,POL3,2011,97
+Micronesia (Federated States of),FSM,POL3,2011,83
+Monaco,MCO,POL3,2011,99
+Mongolia,MNG,POL3,2011,99
+Montenegro,MNE,POL3,2011,95
+Morocco,MAR,POL3,2011,98
+Mozambique,MOZ,POL3,2011,76
+Myanmar,MMR,POL3,2011,90
+Namibia,NAM,POL3,2011,85
+Nauru,NRU,POL3,2011,99
+Nepal,NPL,POL3,2011,92
+Netherlands (Kingdom of the),NLD,POL3,2011,97
+New Zealand,NZL,POL3,2011,95
+Nicaragua,NIC,POL3,2011,99
+Niger,NER,POL3,2011,40
+Nigeria,NGA,POL3,2011,48
+Niue,NIU,POL3,2011,99
+North Macedonia,MKD,POL3,2011,97
+Norway,NOR,POL3,2011,94
+Oman,OMN,POL3,2011,99
+Pakistan,PAK,POL3,2011,63
+Palau,PLW,POL3,2011,98
+Panama,PAN,POL3,2011,91
+Papua New Guinea,PNG,POL3,2011,55
+Paraguay,PRY,POL3,2011,89
+Peru,PER,POL3,2011,91
+Philippines,PHL,POL3,2011,88
+Poland,POL,POL3,2011,96
+Portugal,PRT,POL3,2011,97
+Qatar,QAT,POL3,2011,92
+Republic of Korea,KOR,POL3,2011,98
+Republic of Moldova,MDA,POL3,2011,96
+Romania,ROU,POL3,2011,89
+Russian Federation,RUS,POL3,2011,97
+Rwanda,RWA,POL3,2011,93
+Saint Kitts and Nevis,KNA,POL3,2011,99
+Saint Lucia,LCA,POL3,2011,99
+Saint Vincent and the Grenadines,VCT,POL3,2011,96
+Samoa,WSM,POL3,2011,79
+San Marino,SMR,POL3,2011,92
+Sao Tome and Principe,STP,POL3,2011,96
+Saudi Arabia,SAU,POL3,2011,98
+Senegal,SEN,POL3,2011,89
+Serbia,SRB,POL3,2011,94
+Seychelles,SYC,POL3,2011,99
+Sierra Leone,SLE,POL3,2011,88
+Singapore,SGP,POL3,2011,96
+Slovakia,SVK,POL3,2011,99
+Slovenia,SVN,POL3,2011,96
+Solomon Islands,SLB,POL3,2011,97
+Somalia,SOM,POL3,2011,49
+South Africa,ZAF,POL3,2011,71
+South Sudan,SSD,POL3,2011,66
+Spain,ESP,POL3,2011,97
+Sri Lanka,LKA,POL3,2011,99
+State of Palestine,PSE,POL3,2011,99
+Sudan,SDN,POL3,2011,93
+Suriname,SUR,POL3,2011,83
+Sweden,SWE,POL3,2011,98
+Switzerland,CHE,POL3,2011,96
+Syrian Arab Republic,SYR,POL3,2011,60
+Tajikistan,TJK,POL3,2011,97
+Thailand,THA,POL3,2011,99
+Timor-Leste,TLS,POL3,2011,66
+Togo,TGO,POL3,2011,85
+Tonga,TON,POL3,2011,99
+Trinidad and Tobago,TTO,POL3,2011,91
+Tunisia,TUN,POL3,2011,98
+Turkiye,TUR,POL3,2011,97
+Turkmenistan,TKM,POL3,2011,97
+Tuvalu,TUV,POL3,2011,96
+Uganda,UGA,POL3,2011,79
+Ukraine,UKR,POL3,2011,54
+United Arab Emirates,ARE,POL3,2011,95
+United Kingdom,GBR,POL3,2011,95
+United Republic of Tanzania,TZA,POL3,2011,88
+United States,USA,POL3,2011,94
+Uruguay,URY,POL3,2011,95
+Uzbekistan,UZB,POL3,2011,99
+Vanuatu,VUT,POL3,2011,75
+Venezuela (Bolivarian Republic of),VEN,POL3,2011,78
+Viet Nam,VNM,POL3,2011,96
+Yemen,YEM,POL3,2011,69
+Zambia,ZMB,POL3,2011,83
+Zimbabwe,ZWE,POL3,2011,93
+Afghanistan,AFG,POL3,2012,66
+Albania,ALB,POL3,2012,99
+Algeria,DZA,POL3,2012,95
+Andorra,AND,POL3,2012,99
+Angola,AGO,POL3,2012,54
+Antigua and Barbuda,ATG,POL3,2012,97
+Argentina,ARG,POL3,2012,90
+Armenia,ARM,POL3,2012,96
+Australia,AUS,POL3,2012,92
+Austria,AUT,POL3,2012,92
+Azerbaijan,AZE,POL3,2012,92
+Bahamas,BHS,POL3,2012,99
+Bahrain,BHR,POL3,2012,99
+Bangladesh,BGD,POL3,2012,94
+Barbados,BRB,POL3,2012,88
+Belarus,BLR,POL3,2012,98
+Belgium,BEL,POL3,2012,99
+Belize,BLZ,POL3,2012,98
+Benin,BEN,POL3,2012,80
+Bhutan,BTN,POL3,2012,97
+Bolivia (Plurinational State of),BOL,POL3,2012,93
+Bosnia and Herzegovina,BIH,POL3,2012,87
+Botswana,BWA,POL3,2012,96
+Brazil,BRA,POL3,2012,96
+Brunei Darussalam,BRN,POL3,2012,92
+Bulgaria,BGR,POL3,2012,95
+Burkina Faso,BFA,POL3,2012,90
+Burundi,BDI,POL3,2012,96
+Cabo Verde,CPV,POL3,2012,94
+Cambodia,KHM,POL3,2012,90
+Cameroon,CMR,POL3,2012,78
+Canada,CAN,POL3,2012,91
+Central African Republic,CAF,POL3,2012,47
+Chad,TCD,POL3,2012,51
+Chile,CHL,POL3,2012,90
+China,CHN,POL3,2012,99
+Colombia,COL,POL3,2012,91
+Comoros,COM,POL3,2012,85
+Congo,COG,POL3,2012,68
+Cook Islands,COK,POL3,2012,98
+Costa Rica,CRI,POL3,2012,90
+Cote d'Ivoire,CIV,POL3,2012,83
+Croatia,HRV,POL3,2012,96
+Cuba,CUB,POL3,2012,98
+Cyprus,CYP,POL3,2012,98
+Czechia,CZE,POL3,2012,99
+Democratic People's Republic of Korea,PRK,POL3,2012,99
+Democratic Republic of the Congo,COD,POL3,2012,69
+Denmark,DNK,POL3,2012,94
+Djibouti,DJI,POL3,2012,81
+Dominica,DMA,POL3,2012,97
+Dominican Republic,DOM,POL3,2012,85
+Ecuador,ECU,POL3,2012,85
+Egypt,EGY,POL3,2012,93
+El Salvador,SLV,POL3,2012,93
+Equatorial Guinea,GNQ,POL3,2012,58
+Eritrea,ERI,POL3,2012,94
+Estonia,EST,POL3,2012,94
+Eswatini,SWZ,POL3,2012,92
+Ethiopia,ETH,POL3,2012,70
+Fiji,FJI,POL3,2012,99
+Finland,FIN,POL3,2012,99
+France,FRA,POL3,2012,99
+Gabon,GAB,POL3,2012,80
+Gambia,GMB,POL3,2012,98
+Georgia,GEO,POL3,2012,93
+Germany,DEU,POL3,2012,94
+Ghana,GHA,POL3,2012,91
+Greece,GRC,POL3,2012,99
+Grenada,GRD,POL3,2012,98
+Guatemala,GTM,POL3,2012,94
+Guinea,GIN,POL3,2012,56
+Guinea-Bissau,GNB,POL3,2012,87
+Guyana,GUY,POL3,2012,97
+Haiti,HTI,POL3,2012,66
+Honduras,HND,POL3,2012,98
+Hungary,HUN,POL3,2012,99
+Iceland,ISL,POL3,2012,89
+India,IND,POL3,2012,79
+Indonesia,IDN,POL3,2012,87
+Iran (Islamic Republic of),IRN,POL3,2012,99
+Iraq,IRQ,POL3,2012,73
+Ireland,IRL,POL3,2012,95
+Israel,ISR,POL3,2012,94
+Italy,ITA,POL3,2012,96
+Jamaica,JAM,POL3,2012,96
+Japan,JPN,POL3,2012,99
+Jordan,JOR,POL3,2012,98
+Kazakhstan,KAZ,POL3,2012,98
+Kenya,KEN,POL3,2012,94
+Kiribati,KIR,POL3,2012,92
+Kuwait,KWT,POL3,2012,98
+Kyrgyzstan,KGZ,POL3,2012,94
+Lao People's Democratic Republic,LAO,POL3,2012,76
+Latvia,LVA,POL3,2012,91
+Lebanon,LBN,POL3,2012,82
+Lesotho,LSO,POL3,2012,93
+Liberia,LBR,POL3,2012,80
+Libya,LBY,POL3,2012,98
+Lithuania,LTU,POL3,2012,93
+Luxembourg,LUX,POL3,2012,99
+Madagascar,MDG,POL3,2012,71
+Malawi,MWI,POL3,2012,95
+Malaysia,MYS,POL3,2012,97
+Maldives,MDV,POL3,2012,99
+Mali,MLI,POL3,2012,65
+Malta,MLT,POL3,2012,99
+Marshall Islands,MHL,POL3,2012,80
+Mauritania,MRT,POL3,2012,80
+Mauritius,MUS,POL3,2012,98
+Mexico,MEX,POL3,2012,99
+Micronesia (Federated States of),FSM,POL3,2012,81
+Monaco,MCO,POL3,2012,99
+Mongolia,MNG,POL3,2012,99
+Montenegro,MNE,POL3,2012,94
+Morocco,MAR,POL3,2012,99
+Mozambique,MOZ,POL3,2012,79
+Myanmar,MMR,POL3,2012,87
+Namibia,NAM,POL3,2012,84
+Nauru,NRU,POL3,2012,79
+Nepal,NPL,POL3,2012,90
+Netherlands (Kingdom of the),NLD,POL3,2012,97
+New Zealand,NZL,POL3,2012,93
+Nicaragua,NIC,POL3,2012,99
+Niger,NER,POL3,2012,71
+Nigeria,NGA,POL3,2012,42
+Niue,NIU,POL3,2012,99
+North Macedonia,MKD,POL3,2012,97
+Norway,NOR,POL3,2012,95
+Oman,OMN,POL3,2012,99
+Pakistan,PAK,POL3,2012,64
+Palau,PLW,POL3,2012,89
+Panama,PAN,POL3,2012,87
+Papua New Guinea,PNG,POL3,2012,65
+Paraguay,PRY,POL3,2012,89
+Peru,PER,POL3,2012,94
+Philippines,PHL,POL3,2012,88
+Poland,POL,POL3,2012,95
+Portugal,PRT,POL3,2012,98
+Qatar,QAT,POL3,2012,93
+Republic of Korea,KOR,POL3,2012,99
+Republic of Moldova,MDA,POL3,2012,92
+Romania,ROU,POL3,2012,92
+Russian Federation,RUS,POL3,2012,98
+Rwanda,RWA,POL3,2012,98
+Saint Kitts and Nevis,KNA,POL3,2012,98
+Saint Lucia,LCA,POL3,2012,98
+Saint Vincent and the Grenadines,VCT,POL3,2012,96
+Samoa,WSM,POL3,2012,82
+San Marino,SMR,POL3,2012,89
+Sao Tome and Principe,STP,POL3,2012,96
+Saudi Arabia,SAU,POL3,2012,98
+Senegal,SEN,POL3,2012,83
+Serbia,SRB,POL3,2012,93
+Seychelles,SYC,POL3,2012,98
+Sierra Leone,SLE,POL3,2012,91
+Singapore,SGP,POL3,2012,97
+Slovakia,SVK,POL3,2012,99
+Slovenia,SVN,POL3,2012,96
+Solomon Islands,SLB,POL3,2012,88
+Somalia,SOM,POL3,2012,47
+South Africa,ZAF,POL3,2012,69
+South Sudan,SSD,POL3,2012,67
+Spain,ESP,POL3,2012,96
+Sri Lanka,LKA,POL3,2012,99
+State of Palestine,PSE,POL3,2012,98
+Sudan,SDN,POL3,2012,92
+Suriname,SUR,POL3,2012,79
+Sweden,SWE,POL3,2012,98
+Switzerland,CHE,POL3,2012,96
+Syrian Arab Republic,SYR,POL3,2012,57
+Tajikistan,TJK,POL3,2012,96
+Thailand,THA,POL3,2012,99
+Timor-Leste,TLS,POL3,2012,83
+Togo,TGO,POL3,2012,84
+Tonga,TON,POL3,2012,95
+Trinidad and Tobago,TTO,POL3,2012,91
+Tunisia,TUN,POL3,2012,97
+Turkiye,TUR,POL3,2012,97
+Turkmenistan,TKM,POL3,2012,98
+Tuvalu,TUV,POL3,2012,97
+Uganda,UGA,POL3,2012,79
+Ukraine,UKR,POL3,2012,72
+United Arab Emirates,ARE,POL3,2012,96
+United Kingdom,GBR,POL3,2012,95
+United Republic of Tanzania,TZA,POL3,2012,90
+United States,USA,POL3,2012,93
+Uruguay,URY,POL3,2012,95
+Uzbekistan,UZB,POL3,2012,99
+Vanuatu,VUT,POL3,2012,77
+Venezuela (Bolivarian Republic of),VEN,POL3,2012,73
+Viet Nam,VNM,POL3,2012,97
+Yemen,YEM,POL3,2012,68
+Zambia,ZMB,POL3,2012,70
+Zimbabwe,ZWE,POL3,2012,95
+Afghanistan,AFG,POL3,2013,63
+Albania,ALB,POL3,2013,99
+Algeria,DZA,POL3,2013,95
+Andorra,AND,POL3,2013,96
+Angola,AGO,POL3,2013,48
+Antigua and Barbuda,ATG,POL3,2013,98
+Argentina,ARG,POL3,2013,90
+Armenia,ARM,POL3,2013,96
+Australia,AUS,POL3,2013,91
+Austria,AUT,POL3,2013,95
+Azerbaijan,AZE,POL3,2013,96
+Bahamas,BHS,POL3,2013,97
+Bahrain,BHR,POL3,2013,99
+Bangladesh,BGD,POL3,2013,96
+Barbados,BRB,POL3,2013,91
+Belarus,BLR,POL3,2013,98
+Belgium,BEL,POL3,2013,99
+Belize,BLZ,POL3,2013,95
+Benin,BEN,POL3,2013,73
+Bhutan,BTN,POL3,2013,97
+Bolivia (Plurinational State of),BOL,POL3,2013,88
+Bosnia and Herzegovina,BIH,POL3,2013,87
+Botswana,BWA,POL3,2013,96
+Brazil,BRA,POL3,2013,96
+Brunei Darussalam,BRN,POL3,2013,99
+Bulgaria,BGR,POL3,2013,95
+Burkina Faso,BFA,POL3,2013,89
+Burundi,BDI,POL3,2013,96
+Cabo Verde,CPV,POL3,2013,93
+Cambodia,KHM,POL3,2013,71
+Cameroon,CMR,POL3,2013,75
+Canada,CAN,POL3,2013,91
+Central African Republic,CAF,POL3,2013,23
+Chad,TCD,POL3,2013,46
+Chile,CHL,POL3,2013,90
+China,CHN,POL3,2013,99
+Colombia,COL,POL3,2013,91
+Comoros,COM,POL3,2013,82
+Congo,COG,POL3,2013,85
+Cook Islands,COK,POL3,2013,98
+Costa Rica,CRI,POL3,2013,95
+Cote d'Ivoire,CIV,POL3,2013,74
+Croatia,HRV,POL3,2013,96
+Cuba,CUB,POL3,2013,99
+Cyprus,CYP,POL3,2013,98
+Czechia,CZE,POL3,2013,99
+Democratic People's Republic of Korea,PRK,POL3,2013,99
+Democratic Republic of the Congo,COD,POL3,2013,71
+Denmark,DNK,POL3,2013,94
+Djibouti,DJI,POL3,2013,82
+Dominica,DMA,POL3,2013,96
+Dominican Republic,DOM,POL3,2013,82
+Ecuador,ECU,POL3,2013,87
+Egypt,EGY,POL3,2013,97
+El Salvador,SLV,POL3,2013,90
+Equatorial Guinea,GNQ,POL3,2013,57
+Eritrea,ERI,POL3,2013,94
+Estonia,EST,POL3,2013,94
+Eswatini,SWZ,POL3,2013,98
+Ethiopia,ETH,POL3,2013,70
+Fiji,FJI,POL3,2013,99
+Finland,FIN,POL3,2013,98
+France,FRA,POL3,2013,99
+Gabon,GAB,POL3,2013,77
+Gambia,GMB,POL3,2013,96
+Georgia,GEO,POL3,2013,94
+Germany,DEU,POL3,2013,93
+Ghana,GHA,POL3,2013,91
+Greece,GRC,POL3,2013,99
+Grenada,GRD,POL3,2013,98
+Guatemala,GTM,POL3,2013,94
+Guinea,GIN,POL3,2013,49
+Guinea-Bissau,GNB,POL3,2013,86
+Guyana,GUY,POL3,2013,98
+Haiti,HTI,POL3,2013,64
+Honduras,HND,POL3,2013,99
+Hungary,HUN,POL3,2013,99
+Iceland,ISL,POL3,2013,91
+India,IND,POL3,2013,82
+Indonesia,IDN,POL3,2013,92
+Iran (Islamic Republic of),IRN,POL3,2013,98
+Iraq,IRQ,POL3,2013,75
+Ireland,IRL,POL3,2013,96
+Israel,ISR,POL3,2013,96
+Italy,ITA,POL3,2013,96
+Jamaica,JAM,POL3,2013,86
+Japan,JPN,POL3,2013,99
+Jordan,JOR,POL3,2013,98
+Kazakhstan,KAZ,POL3,2013,98
+Kenya,KEN,POL3,2013,93
+Kiribati,KIR,POL3,2013,91
+Kuwait,KWT,POL3,2013,99
+Kyrgyzstan,KGZ,POL3,2013,97
+Lao People's Democratic Republic,LAO,POL3,2013,82
+Latvia,LVA,POL3,2013,94
+Lebanon,LBN,POL3,2013,81
+Lesotho,LSO,POL3,2013,90
+Liberia,LBR,POL3,2013,80
+Libya,LBY,POL3,2013,96
+Lithuania,LTU,POL3,2013,93
+Luxembourg,LUX,POL3,2013,99
+Madagascar,MDG,POL3,2013,72
+Malawi,MWI,POL3,2013,89
+Malaysia,MYS,POL3,2013,97
+Maldives,MDV,POL3,2013,99
+Mali,MLI,POL3,2013,57
+Malta,MLT,POL3,2013,99
+Marshall Islands,MHL,POL3,2013,79
+Mauritania,MRT,POL3,2013,80
+Mauritius,MUS,POL3,2013,98
+Mexico,MEX,POL3,2013,83
+Micronesia (Federated States of),FSM,POL3,2013,81
+Monaco,MCO,POL3,2013,99
+Mongolia,MNG,POL3,2013,98
+Montenegro,MNE,POL3,2013,94
+Morocco,MAR,POL3,2013,99
+Mozambique,MOZ,POL3,2013,81
+Myanmar,MMR,POL3,2013,76
+Namibia,NAM,POL3,2013,89
+Nauru,NRU,POL3,2013,87
+Nepal,NPL,POL3,2013,92
+Netherlands (Kingdom of the),NLD,POL3,2013,97
+New Zealand,NZL,POL3,2013,92
+Nicaragua,NIC,POL3,2013,99
+Niger,NER,POL3,2013,62
+Nigeria,NGA,POL3,2013,40
+Niue,NIU,POL3,2013,99
+North Macedonia,MKD,POL3,2013,98
+Norway,NOR,POL3,2013,94
+Oman,OMN,POL3,2013,99
+Pakistan,PAK,POL3,2013,65
+Palau,PLW,POL3,2013,99
+Panama,PAN,POL3,2013,81
+Papua New Guinea,PNG,POL3,2013,62
+Paraguay,PRY,POL3,2013,89
+Peru,PER,POL3,2013,71
+Philippines,PHL,POL3,2013,85
+Poland,POL,POL3,2013,95
+Portugal,PRT,POL3,2013,98
+Qatar,QAT,POL3,2013,99
+Republic of Korea,KOR,POL3,2013,99
+Republic of Moldova,MDA,POL3,2013,92
+Romania,ROU,POL3,2013,88
+Russian Federation,RUS,POL3,2013,98
+Rwanda,RWA,POL3,2013,98
+Saint Kitts and Nevis,KNA,POL3,2013,97
+Saint Lucia,LCA,POL3,2013,99
+Saint Vincent and the Grenadines,VCT,POL3,2013,97
+Samoa,WSM,POL3,2013,81
+San Marino,SMR,POL3,2013,86
+Sao Tome and Principe,STP,POL3,2013,97
+Saudi Arabia,SAU,POL3,2013,98
+Senegal,SEN,POL3,2013,89
+Serbia,SRB,POL3,2013,97
+Seychelles,SYC,POL3,2013,98
+Sierra Leone,SLE,POL3,2013,92
+Singapore,SGP,POL3,2013,97
+Slovakia,SVK,POL3,2013,98
+Slovenia,SVN,POL3,2013,95
+Solomon Islands,SLB,POL3,2013,85
+Somalia,SOM,POL3,2013,47
+South Africa,ZAF,POL3,2013,79
+South Sudan,SSD,POL3,2013,56
+Spain,ESP,POL3,2013,96
+Sri Lanka,LKA,POL3,2013,99
+State of Palestine,PSE,POL3,2013,99
+Sudan,SDN,POL3,2013,93
+Suriname,SUR,POL3,2013,78
+Sweden,SWE,POL3,2013,98
+Switzerland,CHE,POL3,2013,96
+Syrian Arab Republic,SYR,POL3,2013,60
+Tajikistan,TJK,POL3,2013,97
+Thailand,THA,POL3,2013,99
+Timor-Leste,TLS,POL3,2013,82
+Togo,TGO,POL3,2013,84
+Tonga,TON,POL3,2013,99
+Trinidad and Tobago,TTO,POL3,2013,94
+Tunisia,TUN,POL3,2013,98
+Turkiye,TUR,POL3,2013,98
+Turkmenistan,TKM,POL3,2013,98
+Tuvalu,TUV,POL3,2013,90
+Uganda,UGA,POL3,2013,78
+Ukraine,UKR,POL3,2013,72
+United Arab Emirates,ARE,POL3,2013,98
+United Kingdom,GBR,POL3,2013,95
+United Republic of Tanzania,TZA,POL3,2013,91
+United States,USA,POL3,2013,93
+Uruguay,URY,POL3,2013,94
+Uzbekistan,UZB,POL3,2013,99
+Vanuatu,VUT,POL3,2013,78
+Venezuela (Bolivarian Republic of),VEN,POL3,2013,82
+Viet Nam,VNM,POL3,2013,93
+Yemen,YEM,POL3,2013,66
+Zambia,ZMB,POL3,2013,74
+Zimbabwe,ZWE,POL3,2013,95
+Afghanistan,AFG,POL3,2014,62
+Albania,ALB,POL3,2014,98
+Algeria,DZA,POL3,2014,95
+Andorra,AND,POL3,2014,97
+Angola,AGO,POL3,2014,55
+Antigua and Barbuda,ATG,POL3,2014,96
+Argentina,ARG,POL3,2014,92
+Armenia,ARM,POL3,2014,95
+Australia,AUS,POL3,2014,92
+Austria,AUT,POL3,2014,98
+Azerbaijan,AZE,POL3,2014,97
+Bahamas,BHS,POL3,2014,96
+Bahrain,BHR,POL3,2014,99
+Bangladesh,BGD,POL3,2014,97
+Barbados,BRB,POL3,2014,95
+Belarus,BLR,POL3,2014,97
+Belgium,BEL,POL3,2014,99
+Belize,BLZ,POL3,2014,95
+Benin,BEN,POL3,2014,71
+Bhutan,BTN,POL3,2014,98
+Bolivia (Plurinational State of),BOL,POL3,2014,85
+Bosnia and Herzegovina,BIH,POL3,2014,86
+Botswana,BWA,POL3,2014,96
+Brazil,BRA,POL3,2014,96
+Brunei Darussalam,BRN,POL3,2014,99
+Bulgaria,BGR,POL3,2014,88
+Burkina Faso,BFA,POL3,2014,91
+Burundi,BDI,POL3,2014,95
+Cabo Verde,CPV,POL3,2014,95
+Cambodia,KHM,POL3,2014,91
+Cameroon,CMR,POL3,2014,76
+Canada,CAN,POL3,2014,91
+Central African Republic,CAF,POL3,2014,50
+Chad,TCD,POL3,2014,44
+Chile,CHL,POL3,2014,95
+China,CHN,POL3,2014,99
+Colombia,COL,POL3,2014,90
+Comoros,COM,POL3,2014,79
+Congo,COG,POL3,2014,90
+Cook Islands,COK,POL3,2014,99
+Costa Rica,CRI,POL3,2014,91
+Cote d'Ivoire,CIV,POL3,2014,71
+Croatia,HRV,POL3,2014,95
+Cuba,CUB,POL3,2014,99
+Cyprus,CYP,POL3,2014,98
+Czechia,CZE,POL3,2014,99
+Democratic People's Republic of Korea,PRK,POL3,2014,99
+Democratic Republic of the Congo,COD,POL3,2014,72
+Denmark,DNK,POL3,2014,94
+Djibouti,DJI,POL3,2014,78
+Dominica,DMA,POL3,2014,97
+Dominican Republic,DOM,POL3,2014,90
+Ecuador,ECU,POL3,2014,84
+Egypt,EGY,POL3,2014,94
+El Salvador,SLV,POL3,2014,94
+Equatorial Guinea,GNQ,POL3,2014,55
+Eritrea,ERI,POL3,2014,94
+Estonia,EST,POL3,2014,93
+Eswatini,SWZ,POL3,2014,98
+Ethiopia,ETH,POL3,2014,68
+Fiji,FJI,POL3,2014,99
+Finland,FIN,POL3,2014,98
+France,FRA,POL3,2014,98
+Gabon,GAB,POL3,2014,68
+Gambia,GMB,POL3,2014,97
+Georgia,GEO,POL3,2014,91
+Germany,DEU,POL3,2014,93
+Ghana,GHA,POL3,2014,94
+Greece,GRC,POL3,2014,99
+Grenada,GRD,POL3,2014,81
+Guatemala,GTM,POL3,2014,66
+Guinea,GIN,POL3,2014,42
+Guinea-Bissau,GNB,POL3,2014,84
+Guyana,GUY,POL3,2014,97
+Haiti,HTI,POL3,2014,63
+Honduras,HND,POL3,2014,99
+Hungary,HUN,POL3,2014,99
+Iceland,ISL,POL3,2014,90
+India,IND,POL3,2014,84
+Indonesia,IDN,POL3,2014,90
+Iran (Islamic Republic of),IRN,POL3,2014,99
+Iraq,IRQ,POL3,2014,76
+Ireland,IRL,POL3,2014,96
+Israel,ISR,POL3,2014,95
+Italy,ITA,POL3,2014,95
+Jamaica,JAM,POL3,2014,93
+Japan,JPN,POL3,2014,99
+Jordan,JOR,POL3,2014,98
+Kazakhstan,KAZ,POL3,2014,95
+Kenya,KEN,POL3,2014,90
+Kiribati,KIR,POL3,2014,79
+Kuwait,KWT,POL3,2014,94
+Kyrgyzstan,KGZ,POL3,2014,95
+Lao People's Democratic Republic,LAO,POL3,2014,83
+Latvia,LVA,POL3,2014,92
+Lebanon,LBN,POL3,2014,81
+Lesotho,LSO,POL3,2014,88
+Liberia,LBR,POL3,2014,62
+Libya,LBY,POL3,2014,94
+Lithuania,LTU,POL3,2014,93
+Luxembourg,LUX,POL3,2014,99
+Madagascar,MDG,POL3,2014,71
+Malawi,MWI,POL3,2014,87
+Malaysia,MYS,POL3,2014,97
+Maldives,MDV,POL3,2014,99
+Mali,MLI,POL3,2014,62
+Malta,MLT,POL3,2014,99
+Marshall Islands,MHL,POL3,2014,77
+Mauritania,MRT,POL3,2014,81
+Mauritius,MUS,POL3,2014,98
+Mexico,MEX,POL3,2014,87
+Micronesia (Federated States of),FSM,POL3,2014,76
+Monaco,MCO,POL3,2014,99
+Mongolia,MNG,POL3,2014,99
+Montenegro,MNE,POL3,2014,91
+Morocco,MAR,POL3,2014,99
+Mozambique,MOZ,POL3,2014,84
+Myanmar,MMR,POL3,2014,88
+Namibia,NAM,POL3,2014,88
+Nauru,NRU,POL3,2014,95
+Nepal,NPL,POL3,2014,92
+Netherlands (Kingdom of the),NLD,POL3,2014,96
+New Zealand,NZL,POL3,2014,93
+Nicaragua,NIC,POL3,2014,99
+Niger,NER,POL3,2014,79
+Nigeria,NGA,POL3,2014,40
+Niue,NIU,POL3,2014,99
+North Macedonia,MKD,POL3,2014,96
+Norway,NOR,POL3,2014,93
+Oman,OMN,POL3,2014,99
+Pakistan,PAK,POL3,2014,69
+Palau,PLW,POL3,2014,95
+Panama,PAN,POL3,2014,80
+Papua New Guinea,PNG,POL3,2014,43
+Paraguay,PRY,POL3,2014,93
+Peru,PER,POL3,2014,78
+Philippines,PHL,POL3,2014,82
+Poland,POL,POL3,2014,94
+Portugal,PRT,POL3,2014,98
+Qatar,QAT,POL3,2014,99
+Republic of Korea,KOR,POL3,2014,99
+Republic of Moldova,MDA,POL3,2014,92
+Romania,ROU,POL3,2014,94
+Russian Federation,RUS,POL3,2014,97
+Rwanda,RWA,POL3,2014,98
+Saint Kitts and Nevis,KNA,POL3,2014,96
+Saint Lucia,LCA,POL3,2014,99
+Saint Vincent and the Grenadines,VCT,POL3,2014,97
+Samoa,WSM,POL3,2014,76
+San Marino,SMR,POL3,2014,84
+Sao Tome and Principe,STP,POL3,2014,95
+Saudi Arabia,SAU,POL3,2014,98
+Senegal,SEN,POL3,2014,85
+Serbia,SRB,POL3,2014,93
+Seychelles,SYC,POL3,2014,99
+Sierra Leone,SLE,POL3,2014,83
+Singapore,SGP,POL3,2014,96
+Slovakia,SVK,POL3,2014,97
+Slovenia,SVN,POL3,2014,95
+Solomon Islands,SLB,POL3,2014,78
+Somalia,SOM,POL3,2014,47
+South Africa,ZAF,POL3,2014,85
+South Sudan,SSD,POL3,2014,52
+Spain,ESP,POL3,2014,97
+Sri Lanka,LKA,POL3,2014,99
+State of Palestine,PSE,POL3,2014,99
+Sudan,SDN,POL3,2014,94
+Suriname,SUR,POL3,2014,76
+Sweden,SWE,POL3,2014,97
+Switzerland,CHE,POL3,2014,96
+Syrian Arab Republic,SYR,POL3,2014,62
+Tajikistan,TJK,POL3,2014,94
+Thailand,THA,POL3,2014,99
+Timor-Leste,TLS,POL3,2014,76
+Togo,TGO,POL3,2014,82
+Tonga,TON,POL3,2014,98
+Trinidad and Tobago,TTO,POL3,2014,94
+Tunisia,TUN,POL3,2014,98
+Turkiye,TUR,POL3,2014,96
+Turkmenistan,TKM,POL3,2014,98
+Tuvalu,TUV,POL3,2014,89
+Uganda,UGA,POL3,2014,78
+Ukraine,UKR,POL3,2014,45
+United Arab Emirates,ARE,POL3,2014,99
+United Kingdom,GBR,POL3,2014,95
+United Republic of Tanzania,TZA,POL3,2014,97
+United States,USA,POL3,2014,93
+Uruguay,URY,POL3,2014,95
+Uzbekistan,UZB,POL3,2014,99
+Vanuatu,VUT,POL3,2014,80
+Venezuela (Bolivarian Republic of),VEN,POL3,2014,79
+Viet Nam,VNM,POL3,2014,96
+Yemen,YEM,POL3,2014,64
+Zambia,ZMB,POL3,2014,78
+Zimbabwe,ZWE,POL3,2014,92
+Afghanistan,AFG,POL3,2015,67
+Albania,ALB,POL3,2015,99
+Algeria,DZA,POL3,2015,95
+Andorra,AND,POL3,2015,97
+Angola,AGO,POL3,2015,62
+Antigua and Barbuda,ATG,POL3,2015,86
+Argentina,ARG,POL3,2015,93
+Armenia,ARM,POL3,2015,96
+Australia,AUS,POL3,2015,93
+Austria,AUT,POL3,2015,93
+Azerbaijan,AZE,POL3,2015,98
+Bahamas,BHS,POL3,2015,95
+Bahrain,BHR,POL3,2015,98
+Bangladesh,BGD,POL3,2015,98
+Barbados,BRB,POL3,2015,97
+Belarus,BLR,POL3,2015,99
+Belgium,BEL,POL3,2015,99
+Belize,BLZ,POL3,2015,94
+Benin,BEN,POL3,2015,72
+Bhutan,BTN,POL3,2015,98
+Bolivia (Plurinational State of),BOL,POL3,2015,88
+Bosnia and Herzegovina,BIH,POL3,2015,74
+Botswana,BWA,POL3,2015,96
+Brazil,BRA,POL3,2015,98
+Brunei Darussalam,BRN,POL3,2015,99
+Bulgaria,BGR,POL3,2015,91
+Burkina Faso,BFA,POL3,2015,91
+Burundi,BDI,POL3,2015,94
+Cabo Verde,CPV,POL3,2015,93
+Cambodia,KHM,POL3,2015,90
+Cameroon,CMR,POL3,2015,75
+Canada,CAN,POL3,2015,91
+Central African Republic,CAF,POL3,2015,51
+Chad,TCD,POL3,2015,52
+Chile,CHL,POL3,2015,96
+China,CHN,POL3,2015,99
+Colombia,COL,POL3,2015,91
+Comoros,COM,POL3,2015,81
+Congo,COG,POL3,2015,80
+Cook Islands,COK,POL3,2015,99
+Costa Rica,CRI,POL3,2015,92
+Cote d'Ivoire,CIV,POL3,2015,77
+Croatia,HRV,POL3,2015,94
+Cuba,CUB,POL3,2015,99
+Cyprus,CYP,POL3,2015,96
+Czechia,CZE,POL3,2015,97
+Democratic People's Republic of Korea,PRK,POL3,2015,99
+Democratic Republic of the Congo,COD,POL3,2015,69
+Denmark,DNK,POL3,2015,93
+Djibouti,DJI,POL3,2015,84
+Dominica,DMA,POL3,2015,98
+Dominican Republic,DOM,POL3,2015,87
+Ecuador,ECU,POL3,2015,84
+Egypt,EGY,POL3,2015,93
+El Salvador,SLV,POL3,2015,94
+Equatorial Guinea,GNQ,POL3,2015,37
+Eritrea,ERI,POL3,2015,95
+Estonia,EST,POL3,2015,93
+Eswatini,SWZ,POL3,2015,84
+Ethiopia,ETH,POL3,2015,74
+Fiji,FJI,POL3,2015,99
+Finland,FIN,POL3,2015,97
+France,FRA,POL3,2015,97
+Gabon,GAB,POL3,2015,79
+Gambia,GMB,POL3,2015,96
+Georgia,GEO,POL3,2015,91
+Germany,DEU,POL3,2015,92
+Ghana,GHA,POL3,2015,88
+Greece,GRC,POL3,2015,99
+Grenada,GRD,POL3,2015,99
+Guatemala,GTM,POL3,2015,80
+Guinea,GIN,POL3,2015,47
+Guinea-Bissau,GNB,POL3,2015,83
+Guyana,GUY,POL3,2015,92
+Haiti,HTI,POL3,2015,65
+Honduras,HND,POL3,2015,98
+Hungary,HUN,POL3,2015,99
+Iceland,ISL,POL3,2015,92
+India,IND,POL3,2015,86
+Indonesia,IDN,POL3,2015,85
+Iran (Islamic Republic of),IRN,POL3,2015,98
+Iraq,IRQ,POL3,2015,72
+Ireland,IRL,POL3,2015,95
+Israel,ISR,POL3,2015,95
+Italy,ITA,POL3,2015,93
+Jamaica,JAM,POL3,2015,91
+Japan,JPN,POL3,2015,99
+Jordan,JOR,POL3,2015,99
+Kazakhstan,KAZ,POL3,2015,98
+Kenya,KEN,POL3,2015,79
+Kiribati,KIR,POL3,2015,80
+Kuwait,KWT,POL3,2015,99
+Kyrgyzstan,KGZ,POL3,2015,97
+Lao People's Democratic Republic,LAO,POL3,2015,83
+Latvia,LVA,POL3,2015,94
+Lebanon,LBN,POL3,2015,79
+Lesotho,LSO,POL3,2015,85
+Liberia,LBR,POL3,2015,65
+Libya,LBY,POL3,2015,97
+Lithuania,LTU,POL3,2015,93
+Luxembourg,LUX,POL3,2015,99
+Madagascar,MDG,POL3,2015,68
+Malawi,MWI,POL3,2015,88
+Malaysia,MYS,POL3,2015,99
+Maldives,MDV,POL3,2015,99
+Mali,MLI,POL3,2015,66
+Malta,MLT,POL3,2015,97
+Marshall Islands,MHL,POL3,2015,85
+Mauritania,MRT,POL3,2015,67
+Mauritius,MUS,POL3,2015,98
+Mexico,MEX,POL3,2015,87
+Micronesia (Federated States of),FSM,POL3,2015,71
+Monaco,MCO,POL3,2015,99
+Mongolia,MNG,POL3,2015,99
+Montenegro,MNE,POL3,2015,89
+Morocco,MAR,POL3,2015,99
+Mozambique,MOZ,POL3,2015,84
+Myanmar,MMR,POL3,2015,89
+Namibia,NAM,POL3,2015,92
+Nauru,NRU,POL3,2015,91
+Nepal,NPL,POL3,2015,90
+Netherlands (Kingdom of the),NLD,POL3,2015,95
+New Zealand,NZL,POL3,2015,92
+Nicaragua,NIC,POL3,2015,99
+Niger,NER,POL3,2015,83
+Nigeria,NGA,POL3,2015,42
+Niue,NIU,POL3,2015,99
+North Macedonia,MKD,POL3,2015,92
+Norway,NOR,POL3,2015,95
+Oman,OMN,POL3,2015,99
+Pakistan,PAK,POL3,2015,72
+Palau,PLW,POL3,2015,89
+Panama,PAN,POL3,2015,72
+Papua New Guinea,PNG,POL3,2015,51
+Paraguay,PRY,POL3,2015,93
+Peru,PER,POL3,2015,88
+Philippines,PHL,POL3,2015,79
+Poland,POL,POL3,2015,92
+Portugal,PRT,POL3,2015,98
+Qatar,QAT,POL3,2015,99
+Republic of Korea,KOR,POL3,2015,98
+Republic of Moldova,MDA,POL3,2015,88
+Romania,ROU,POL3,2015,89
+Russian Federation,RUS,POL3,2015,97
+Rwanda,RWA,POL3,2015,99
+Saint Kitts and Nevis,KNA,POL3,2015,91
+Saint Lucia,LCA,POL3,2015,99
+Saint Vincent and the Grenadines,VCT,POL3,2015,99
+Samoa,WSM,POL3,2015,78
+San Marino,SMR,POL3,2015,85
+Sao Tome and Principe,STP,POL3,2015,96
+Saudi Arabia,SAU,POL3,2015,97
+Senegal,SEN,POL3,2015,85
+Serbia,SRB,POL3,2015,95
+Seychelles,SYC,POL3,2015,97
+Sierra Leone,SLE,POL3,2015,86
+Singapore,SGP,POL3,2015,96
+Slovakia,SVK,POL3,2015,96
+Slovenia,SVN,POL3,2015,95
+Solomon Islands,SLB,POL3,2015,85
+Somalia,SOM,POL3,2015,47
+South Africa,ZAF,POL3,2015,85
+South Sudan,SSD,POL3,2015,52
+Spain,ESP,POL3,2015,97
+Sri Lanka,LKA,POL3,2015,99
+State of Palestine,PSE,POL3,2015,99
+Sudan,SDN,POL3,2015,93
+Suriname,SUR,POL3,2015,78
+Sweden,SWE,POL3,2015,98
+Switzerland,CHE,POL3,2015,96
+Syrian Arab Republic,SYR,POL3,2015,60
+Tajikistan,TJK,POL3,2015,96
+Thailand,THA,POL3,2015,99
+Timor-Leste,TLS,POL3,2015,75
+Togo,TGO,POL3,2015,82
+Tonga,TON,POL3,2015,96
+Trinidad and Tobago,TTO,POL3,2015,88
+Tunisia,TUN,POL3,2015,98
+Turkiye,TUR,POL3,2015,97
+Turkmenistan,TKM,POL3,2015,99
+Tuvalu,TUV,POL3,2015,96
+Uganda,UGA,POL3,2015,85
+Ukraine,UKR,POL3,2015,51
+United Arab Emirates,ARE,POL3,2015,99
+United Kingdom,GBR,POL3,2015,95
+United Republic of Tanzania,TZA,POL3,2015,93
+United States,USA,POL3,2015,93
+Uruguay,URY,POL3,2015,95
+Uzbekistan,UZB,POL3,2015,99
+Vanuatu,VUT,POL3,2015,80
+Venezuela (Bolivarian Republic of),VEN,POL3,2015,87
+Viet Nam,VNM,POL3,2015,97
+Yemen,YEM,POL3,2015,60
+Zambia,ZMB,POL3,2015,90
+Zimbabwe,ZWE,POL3,2015,88
+Afghanistan,AFG,POL3,2016,71
+Albania,ALB,POL3,2016,98
+Algeria,DZA,POL3,2016,91
+Andorra,AND,POL3,2016,98
+Angola,AGO,POL3,2016,58
+Antigua and Barbuda,ATG,POL3,2016,87
+Argentina,ARG,POL3,2016,87
+Armenia,ARM,POL3,2016,96
+Australia,AUS,POL3,2016,94
+Austria,AUT,POL3,2016,87
+Azerbaijan,AZE,POL3,2016,98
+Bahamas,BHS,POL3,2016,94
+Bahrain,BHR,POL3,2016,99
+Bangladesh,BGD,POL3,2016,98
+Barbados,BRB,POL3,2016,97
+Belarus,BLR,POL3,2016,98
+Belgium,BEL,POL3,2016,98
+Belize,BLZ,POL3,2016,96
+Benin,BEN,POL3,2016,75
+Bhutan,BTN,POL3,2016,97
+Bolivia (Plurinational State of),BOL,POL3,2016,87
+Bosnia and Herzegovina,BIH,POL3,2016,79
+Botswana,BWA,POL3,2016,96
+Brazil,BRA,POL3,2016,72
+Brunei Darussalam,BRN,POL3,2016,99
+Bulgaria,BGR,POL3,2016,92
+Burkina Faso,BFA,POL3,2016,91
+Burundi,BDI,POL3,2016,94
+Cabo Verde,CPV,POL3,2016,95
+Cambodia,KHM,POL3,2016,88
+Cameroon,CMR,POL3,2016,77
+Canada,CAN,POL3,2016,91
+Central African Republic,CAF,POL3,2016,52
+Chad,TCD,POL3,2016,44
+Chile,CHL,POL3,2016,95
+China,CHN,POL3,2016,99
+Colombia,COL,POL3,2016,91
+Comoros,COM,POL3,2016,75
+Congo,COG,POL3,2016,71
+Cook Islands,COK,POL3,2016,99
+Costa Rica,CRI,POL3,2016,97
+Cote d'Ivoire,CIV,POL3,2016,81
+Croatia,HRV,POL3,2016,93
+Cuba,CUB,POL3,2016,98
+Cyprus,CYP,POL3,2016,96
+Czechia,CZE,POL3,2016,96
+Democratic People's Republic of Korea,PRK,POL3,2016,99
+Democratic Republic of the Congo,COD,POL3,2016,66
+Denmark,DNK,POL3,2016,94
+Djibouti,DJI,POL3,2016,68
+Dominica,DMA,POL3,2016,99
+Dominican Republic,DOM,POL3,2016,82
+Ecuador,ECU,POL3,2016,79
+Egypt,EGY,POL3,2016,95
+El Salvador,SLV,POL3,2016,98
+Equatorial Guinea,GNQ,POL3,2016,55
+Eritrea,ERI,POL3,2016,95
+Estonia,EST,POL3,2016,93
+Eswatini,SWZ,POL3,2016,90
+Ethiopia,ETH,POL3,2016,68
+Fiji,FJI,POL3,2016,89
+Finland,FIN,POL3,2016,92
+France,FRA,POL3,2016,96
+Gabon,GAB,POL3,2016,74
+Gambia,GMB,POL3,2016,95
+Georgia,GEO,POL3,2016,92
+Germany,DEU,POL3,2016,91
+Ghana,GHA,POL3,2016,95
+Greece,GRC,POL3,2016,99
+Grenada,GRD,POL3,2016,98
+Guatemala,GTM,POL3,2016,84
+Guinea,GIN,POL3,2016,48
+Guinea-Bissau,GNB,POL3,2016,81
+Guyana,GUY,POL3,2016,94
+Haiti,HTI,POL3,2016,65
+Honduras,HND,POL3,2016,95
+Hungary,HUN,POL3,2016,99
+Iceland,ISL,POL3,2016,91
+India,IND,POL3,2016,86
+Indonesia,IDN,POL3,2016,85
+Iran (Islamic Republic of),IRN,POL3,2016,99
+Iraq,IRQ,POL3,2016,76
+Ireland,IRL,POL3,2016,95
+Israel,ISR,POL3,2016,94
+Italy,ITA,POL3,2016,93
+Jamaica,JAM,POL3,2016,99
+Japan,JPN,POL3,2016,99
+Jordan,JOR,POL3,2016,98
+Kazakhstan,KAZ,POL3,2016,82
+Kenya,KEN,POL3,2016,84
+Kiribati,KIR,POL3,2016,82
+Kuwait,KWT,POL3,2016,99
+Kyrgyzstan,KGZ,POL3,2016,97
+Lao People's Democratic Republic,LAO,POL3,2016,83
+Latvia,LVA,POL3,2016,98
+Lebanon,LBN,POL3,2016,78
+Lesotho,LSO,POL3,2016,87
+Liberia,LBR,POL3,2016,73
+Libya,LBY,POL3,2016,97
+Lithuania,LTU,POL3,2016,94
+Luxembourg,LUX,POL3,2016,99
+Madagascar,MDG,POL3,2016,72
+Malawi,MWI,POL3,2016,83
+Malaysia,MYS,POL3,2016,98
+Maldives,MDV,POL3,2016,99
+Mali,MLI,POL3,2016,72
+Malta,MLT,POL3,2016,97
+Marshall Islands,MHL,POL3,2016,69
+Mauritania,MRT,POL3,2016,69
+Mauritius,MUS,POL3,2016,96
+Mexico,MEX,POL3,2016,93
+Micronesia (Federated States of),FSM,POL3,2016,68
+Monaco,MCO,POL3,2016,99
+Mongolia,MNG,POL3,2016,99
+Montenegro,MNE,POL3,2016,89
+Morocco,MAR,POL3,2016,99
+Mozambique,MOZ,POL3,2016,84
+Myanmar,MMR,POL3,2016,89
+Namibia,NAM,POL3,2016,84
+Nauru,NRU,POL3,2016,97
+Nepal,NPL,POL3,2016,85
+Netherlands (Kingdom of the),NLD,POL3,2016,95
+New Zealand,NZL,POL3,2016,92
+Nicaragua,NIC,POL3,2016,99
+Niger,NER,POL3,2016,82
+Nigeria,NGA,POL3,2016,53
+Niue,NIU,POL3,2016,99
+North Macedonia,MKD,POL3,2016,95
+Norway,NOR,POL3,2016,96
+Oman,OMN,POL3,2016,99
+Pakistan,PAK,POL3,2016,75
+Palau,PLW,POL3,2016,98
+Panama,PAN,POL3,2016,86
+Papua New Guinea,PNG,POL3,2016,48
+Paraguay,PRY,POL3,2016,93
+Peru,PER,POL3,2016,88
+Philippines,PHL,POL3,2016,81
+Poland,POL,POL3,2016,92
+Portugal,PRT,POL3,2016,98
+Qatar,QAT,POL3,2016,98
+Republic of Korea,KOR,POL3,2016,98
+Republic of Moldova,MDA,POL3,2016,91
+Romania,ROU,POL3,2016,89
+Russian Federation,RUS,POL3,2016,97
+Rwanda,RWA,POL3,2016,99
+Saint Kitts and Nevis,KNA,POL3,2016,99
+Saint Lucia,LCA,POL3,2016,95
+Saint Vincent and the Grenadines,VCT,POL3,2016,99
+Samoa,WSM,POL3,2016,73
+San Marino,SMR,POL3,2016,86
+Sao Tome and Principe,STP,POL3,2016,96
+Saudi Arabia,SAU,POL3,2016,97
+Senegal,SEN,POL3,2016,92
+Serbia,SRB,POL3,2016,93
+Seychelles,SYC,POL3,2016,96
+Sierra Leone,SLE,POL3,2016,84
+Singapore,SGP,POL3,2016,96
+Slovakia,SVK,POL3,2016,96
+Slovenia,SVN,POL3,2016,94
+Solomon Islands,SLB,POL3,2016,89
+Somalia,SOM,POL3,2016,47
+South Africa,ZAF,POL3,2016,85
+South Sudan,SSD,POL3,2016,45
+Spain,ESP,POL3,2016,97
+Sri Lanka,LKA,POL3,2016,99
+State of Palestine,PSE,POL3,2016,99
+Sudan,SDN,POL3,2016,93
+Suriname,SUR,POL3,2016,77
+Sweden,SWE,POL3,2016,98
+Switzerland,CHE,POL3,2016,96
+Syrian Arab Republic,SYR,POL3,2016,58
+Tajikistan,TJK,POL3,2016,97
+Thailand,THA,POL3,2016,99
+Timor-Leste,TLS,POL3,2016,79
+Togo,TGO,POL3,2016,81
+Tonga,TON,POL3,2016,96
+Trinidad and Tobago,TTO,POL3,2016,84
+Tunisia,TUN,POL3,2016,98
+Turkiye,TUR,POL3,2016,98
+Turkmenistan,TKM,POL3,2016,98
+Tuvalu,TUV,POL3,2016,94
+Uganda,UGA,POL3,2016,88
+Ukraine,UKR,POL3,2016,56
+United Arab Emirates,ARE,POL3,2016,99
+United Kingdom,GBR,POL3,2016,94
+United Republic of Tanzania,TZA,POL3,2016,89
+United States,USA,POL3,2016,94
+Uruguay,URY,POL3,2016,95
+Uzbekistan,UZB,POL3,2016,99
+Vanuatu,VUT,POL3,2016,81
+Venezuela (Bolivarian Republic of),VEN,POL3,2016,82
+Viet Nam,VNM,POL3,2016,95
+Yemen,YEM,POL3,2016,61
+Zambia,ZMB,POL3,2016,91
+Zimbabwe,ZWE,POL3,2016,90
+Afghanistan,AFG,POL3,2017,70
+Albania,ALB,POL3,2017,99
+Algeria,DZA,POL3,2017,91
+Andorra,AND,POL3,2017,99
+Angola,AGO,POL3,2017,52
+Antigua and Barbuda,ATG,POL3,2017,94
+Argentina,ARG,POL3,2017,84
+Armenia,ARM,POL3,2017,96
+Australia,AUS,POL3,2017,95
+Austria,AUT,POL3,2017,90
+Azerbaijan,AZE,POL3,2017,97
+Bahamas,BHS,POL3,2017,94
+Bahrain,BHR,POL3,2017,98
+Bangladesh,BGD,POL3,2017,98
+Barbados,BRB,POL3,2017,91
+Belarus,BLR,POL3,2017,98
+Belgium,BEL,POL3,2017,98
+Belize,BLZ,POL3,2017,88
+Benin,BEN,POL3,2017,73
+Bhutan,BTN,POL3,2017,97
+Bolivia (Plurinational State of),BOL,POL3,2017,83
+Bosnia and Herzegovina,BIH,POL3,2017,75
+Botswana,BWA,POL3,2017,96
+Brazil,BRA,POL3,2017,84
+Brunei Darussalam,BRN,POL3,2017,99
+Bulgaria,BGR,POL3,2017,92
+Burkina Faso,BFA,POL3,2017,91
+Burundi,BDI,POL3,2017,91
+Cabo Verde,CPV,POL3,2017,96
+Cambodia,KHM,POL3,2017,88
+Cameroon,CMR,POL3,2017,73
+Canada,CAN,POL3,2017,91
+Central African Republic,CAF,POL3,2017,46
+Chad,TCD,POL3,2017,44
+Chile,CHL,POL3,2017,93
+China,CHN,POL3,2017,99
+Colombia,COL,POL3,2017,92
+Comoros,COM,POL3,2017,79
+Congo,COG,POL3,2017,69
+Cook Islands,COK,POL3,2017,99
+Costa Rica,CRI,POL3,2017,96
+Cote d'Ivoire,CIV,POL3,2017,82
+Croatia,HRV,POL3,2017,92
+Cuba,CUB,POL3,2017,98
+Cyprus,CYP,POL3,2017,97
+Czechia,CZE,POL3,2017,94
+Democratic People's Republic of Korea,PRK,POL3,2017,99
+Democratic Republic of the Congo,COD,POL3,2017,71
+Denmark,DNK,POL3,2017,98
+Djibouti,DJI,POL3,2017,76
+Dominica,DMA,POL3,2017,91
+Dominican Republic,DOM,POL3,2017,80
+Ecuador,ECU,POL3,2017,83
+Egypt,EGY,POL3,2017,94
+El Salvador,SLV,POL3,2017,83
+Equatorial Guinea,GNQ,POL3,2017,58
+Eritrea,ERI,POL3,2017,95
+Estonia,EST,POL3,2017,93
+Eswatini,SWZ,POL3,2017,90
+Ethiopia,ETH,POL3,2017,66
+Fiji,FJI,POL3,2017,91
+Finland,FIN,POL3,2017,89
+France,FRA,POL3,2017,96
+Gabon,GAB,POL3,2017,74
+Gambia,GMB,POL3,2017,92
+Georgia,GEO,POL3,2017,91
+Germany,DEU,POL3,2017,91
+Ghana,GHA,POL3,2017,94
+Greece,GRC,POL3,2017,99
+Grenada,GRD,POL3,2017,91
+Guatemala,GTM,POL3,2017,90
+Guinea,GIN,POL3,2017,48
+Guinea-Bissau,GNB,POL3,2017,79
+Guyana,GUY,POL3,2017,94
+Haiti,HTI,POL3,2017,64
+Honduras,HND,POL3,2017,90
+Hungary,HUN,POL3,2017,99
+Iceland,ISL,POL3,2017,89
+India,IND,POL3,2017,89
+Indonesia,IDN,POL3,2017,88
+Iran (Islamic Republic of),IRN,POL3,2017,99
+Iraq,IRQ,POL3,2017,82
+Ireland,IRL,POL3,2017,95
+Israel,ISR,POL3,2017,98
+Italy,ITA,POL3,2017,95
+Jamaica,JAM,POL3,2017,93
+Japan,JPN,POL3,2017,97
+Jordan,JOR,POL3,2017,99
+Kazakhstan,KAZ,POL3,2017,99
+Kenya,KEN,POL3,2017,76
+Kiribati,KIR,POL3,2017,90
+Kuwait,KWT,POL3,2017,99
+Kyrgyzstan,KGZ,POL3,2017,93
+Lao People's Democratic Republic,LAO,POL3,2017,84
+Latvia,LVA,POL3,2017,98
+Lebanon,LBN,POL3,2017,76
+Lesotho,LSO,POL3,2017,87
+Liberia,LBR,POL3,2017,79
+Libya,LBY,POL3,2017,96
+Lithuania,LTU,POL3,2017,94
+Luxembourg,LUX,POL3,2017,99
+Madagascar,MDG,POL3,2017,69
+Malawi,MWI,POL3,2017,87
+Malaysia,MYS,POL3,2017,99
+Maldives,MDV,POL3,2017,99
+Mali,MLI,POL3,2017,72
+Malta,MLT,POL3,2017,98
+Marshall Islands,MHL,POL3,2017,79
+Mauritania,MRT,POL3,2017,70
+Mauritius,MUS,POL3,2017,95
+Mexico,MEX,POL3,2017,85
+Micronesia (Federated States of),FSM,POL3,2017,72
+Monaco,MCO,POL3,2017,99
+Mongolia,MNG,POL3,2017,99
+Montenegro,MNE,POL3,2017,87
+Morocco,MAR,POL3,2017,99
+Mozambique,MOZ,POL3,2017,84
+Myanmar,MMR,POL3,2017,89
+Namibia,NAM,POL3,2017,83
+Nauru,NRU,POL3,2017,87
+Nepal,NPL,POL3,2017,90
+Netherlands (Kingdom of the),NLD,POL3,2017,94
+New Zealand,NZL,POL3,2017,94
+Nicaragua,NIC,POL3,2017,99
+Niger,NER,POL3,2017,85
+Nigeria,NGA,POL3,2017,55
+Niue,NIU,POL3,2017,99
+North Macedonia,MKD,POL3,2017,91
+Norway,NOR,POL3,2017,96
+Oman,OMN,POL3,2017,99
+Pakistan,PAK,POL3,2017,75
+Palau,PLW,POL3,2017,97
+Panama,PAN,POL3,2017,81
+Papua New Guinea,PNG,POL3,2017,35
+Paraguay,PRY,POL3,2017,92
+Peru,PER,POL3,2017,88
+Philippines,PHL,POL3,2017,82
+Poland,POL,POL3,2017,90
+Portugal,PRT,POL3,2017,98
+Qatar,QAT,POL3,2017,97
+Republic of Korea,KOR,POL3,2017,97
+Republic of Moldova,MDA,POL3,2017,90
+Romania,ROU,POL3,2017,82
+Russian Federation,RUS,POL3,2017,96
+Rwanda,RWA,POL3,2017,98
+Saint Kitts and Nevis,KNA,POL3,2017,97
+Saint Lucia,LCA,POL3,2017,80
+Saint Vincent and the Grenadines,VCT,POL3,2017,99
+Samoa,WSM,POL3,2017,66
+San Marino,SMR,POL3,2017,89
+Sao Tome and Principe,STP,POL3,2017,95
+Saudi Arabia,SAU,POL3,2017,97
+Senegal,SEN,POL3,2017,91
+Serbia,SRB,POL3,2017,95
+Seychelles,SYC,POL3,2017,97
+Sierra Leone,SLE,POL3,2017,90
+Singapore,SGP,POL3,2017,96
+Slovakia,SVK,POL3,2017,96
+Slovenia,SVN,POL3,2017,94
+Solomon Islands,SLB,POL3,2017,80
+Somalia,SOM,POL3,2017,47
+South Africa,ZAF,POL3,2017,84
+South Sudan,SSD,POL3,2017,60
+Spain,ESP,POL3,2017,95
+Sri Lanka,LKA,POL3,2017,99
+State of Palestine,PSE,POL3,2017,99
+Sudan,SDN,POL3,2017,95
+Suriname,SUR,POL3,2017,51
+Sweden,SWE,POL3,2017,97
+Switzerland,CHE,POL3,2017,96
+Syrian Arab Republic,SYR,POL3,2017,63
+Tajikistan,TJK,POL3,2017,97
+Thailand,THA,POL3,2017,99
+Timor-Leste,TLS,POL3,2017,83
+Togo,TGO,POL3,2017,76
+Tonga,TON,POL3,2017,99
+Trinidad and Tobago,TTO,POL3,2017,94
+Tunisia,TUN,POL3,2017,98
+Turkiye,TUR,POL3,2017,96
+Turkmenistan,TKM,POL3,2017,99
+Tuvalu,TUV,POL3,2017,96
+Uganda,UGA,POL3,2017,90
+Ukraine,UKR,POL3,2017,48
+United Arab Emirates,ARE,POL3,2017,96
+United Kingdom,GBR,POL3,2017,94
+United Republic of Tanzania,TZA,POL3,2017,89
+United States,USA,POL3,2017,92
+Uruguay,URY,POL3,2017,93
+Uzbekistan,UZB,POL3,2017,99
+Vanuatu,VUT,POL3,2017,83
+Venezuela (Bolivarian Republic of),VEN,POL3,2017,79
+Viet Nam,VNM,POL3,2017,94
+Yemen,YEM,POL3,2017,56
+Zambia,ZMB,POL3,2017,92
+Zimbabwe,ZWE,POL3,2017,89
+Afghanistan,AFG,POL3,2018,73
+Albania,ALB,POL3,2018,99
+Algeria,DZA,POL3,2018,91
+Andorra,AND,POL3,2018,99
+Angola,AGO,POL3,2018,61
+Antigua and Barbuda,ATG,POL3,2018,94
+Argentina,ARG,POL3,2018,84
+Armenia,ARM,POL3,2018,92
+Australia,AUS,POL3,2018,95
+Austria,AUT,POL3,2018,85
+Azerbaijan,AZE,POL3,2018,96
+Bahamas,BHS,POL3,2018,90
+Bahrain,BHR,POL3,2018,99
+Bangladesh,BGD,POL3,2018,98
+Barbados,BRB,POL3,2018,94
+Belarus,BLR,POL3,2018,98
+Belgium,BEL,POL3,2018,98
+Belize,BLZ,POL3,2018,96
+Benin,BEN,POL3,2018,71
+Bhutan,BTN,POL3,2018,97
+Bolivia (Plurinational State of),BOL,POL3,2018,83
+Bosnia and Herzegovina,BIH,POL3,2018,73
+Botswana,BWA,POL3,2018,96
+Brazil,BRA,POL3,2018,85
+Brunei Darussalam,BRN,POL3,2018,99
+Bulgaria,BGR,POL3,2018,92
+Burkina Faso,BFA,POL3,2018,91
+Burundi,BDI,POL3,2018,90
+Cabo Verde,CPV,POL3,2018,98
+Cambodia,KHM,POL3,2018,86
+Cameroon,CMR,POL3,2018,68
+Canada,CAN,POL3,2018,91
+Central African Republic,CAF,POL3,2018,46
+Chad,TCD,POL3,2018,45
+Chile,CHL,POL3,2018,95
+China,CHN,POL3,2018,99
+Colombia,COL,POL3,2018,92
+Comoros,COM,POL3,2018,77
+Congo,COG,POL3,2018,75
+Cook Islands,COK,POL3,2018,99
+Costa Rica,CRI,POL3,2018,94
+Cote d'Ivoire,CIV,POL3,2018,83
+Croatia,HRV,POL3,2018,94
+Cuba,CUB,POL3,2018,99
+Cyprus,CYP,POL3,2018,97
+Czechia,CZE,POL3,2018,96
+Democratic People's Republic of Korea,PRK,POL3,2018,99
+Democratic Republic of the Congo,COD,POL3,2018,72
+Denmark,DNK,POL3,2018,97
+Djibouti,DJI,POL3,2018,84
+Dominica,DMA,POL3,2018,94
+Dominican Republic,DOM,POL3,2018,86
+Ecuador,ECU,POL3,2018,85
+Egypt,EGY,POL3,2018,95
+El Salvador,SLV,POL3,2018,89
+Equatorial Guinea,GNQ,POL3,2018,60
+Eritrea,ERI,POL3,2018,95
+Estonia,EST,POL3,2018,92
+Eswatini,SWZ,POL3,2018,90
+Ethiopia,ETH,POL3,2018,68
+Fiji,FJI,POL3,2018,94
+Finland,FIN,POL3,2018,91
+France,FRA,POL3,2018,96
+Gabon,GAB,POL3,2018,64
+Gambia,GMB,POL3,2018,93
+Georgia,GEO,POL3,2018,93
+Germany,DEU,POL3,2018,91
+Ghana,GHA,POL3,2018,98
+Greece,GRC,POL3,2018,99
+Grenada,GRD,POL3,2018,96
+Guatemala,GTM,POL3,2018,85
+Guinea,GIN,POL3,2018,48
+Guinea-Bissau,GNB,POL3,2018,82
+Guyana,GUY,POL3,2018,94
+Haiti,HTI,POL3,2018,64
+Honduras,HND,POL3,2018,91
+Hungary,HUN,POL3,2018,99
+Iceland,ISL,POL3,2018,91
+India,IND,POL3,2018,90
+Indonesia,IDN,POL3,2018,87
+Iran (Islamic Republic of),IRN,POL3,2018,99
+Iraq,IRQ,POL3,2018,74
+Ireland,IRL,POL3,2018,94
+Israel,ISR,POL3,2018,98
+Italy,ITA,POL3,2018,95
+Jamaica,JAM,POL3,2018,98
+Japan,JPN,POL3,2018,98
+Jordan,JOR,POL3,2018,92
+Kazakhstan,KAZ,POL3,2018,98
+Kenya,KEN,POL3,2018,89
+Kiribati,KIR,POL3,2018,93
+Kuwait,KWT,POL3,2018,98
+Kyrgyzstan,KGZ,POL3,2018,92
+Lao People's Democratic Republic,LAO,POL3,2018,85
+Latvia,LVA,POL3,2018,96
+Lebanon,LBN,POL3,2018,75
+Lesotho,LSO,POL3,2018,87
+Liberia,LBR,POL3,2018,79
+Libya,LBY,POL3,2018,73
+Lithuania,LTU,POL3,2018,92
+Luxembourg,LUX,POL3,2018,99
+Madagascar,MDG,POL3,2018,71
+Malawi,MWI,POL3,2018,91
+Malaysia,MYS,POL3,2018,99
+Maldives,MDV,POL3,2018,99
+Mali,MLI,POL3,2018,71
+Malta,MLT,POL3,2018,97
+Marshall Islands,MHL,POL3,2018,80
+Mauritania,MRT,POL3,2018,72
+Mauritius,MUS,POL3,2018,98
+Mexico,MEX,POL3,2018,88
+Micronesia (Federated States of),FSM,POL3,2018,75
+Monaco,MCO,POL3,2018,99
+Mongolia,MNG,POL3,2018,99
+Montenegro,MNE,POL3,2018,86
+Morocco,MAR,POL3,2018,99
+Mozambique,MOZ,POL3,2018,84
+Myanmar,MMR,POL3,2018,91
+Namibia,NAM,POL3,2018,84
+Nauru,NRU,POL3,2018,90
+Nepal,NPL,POL3,2018,91
+Netherlands (Kingdom of the),NLD,POL3,2018,93
+New Zealand,NZL,POL3,2018,93
+Nicaragua,NIC,POL3,2018,99
+Niger,NER,POL3,2018,79
+Nigeria,NGA,POL3,2018,61
+Niue,NIU,POL3,2018,99
+North Macedonia,MKD,POL3,2018,92
+Norway,NOR,POL3,2018,96
+Oman,OMN,POL3,2018,99
+Pakistan,PAK,POL3,2018,75
+Palau,PLW,POL3,2018,98
+Panama,PAN,POL3,2018,88
+Papua New Guinea,PNG,POL3,2018,42
+Paraguay,PRY,POL3,2018,88
+Peru,PER,POL3,2018,87
+Philippines,PHL,POL3,2018,84
+Poland,POL,POL3,2018,87
+Portugal,PRT,POL3,2018,99
+Qatar,QAT,POL3,2018,98
+Republic of Korea,KOR,POL3,2018,98
+Republic of Moldova,MDA,POL3,2018,94
+Romania,ROU,POL3,2018,86
+Russian Federation,RUS,POL3,2018,96
+Rwanda,RWA,POL3,2018,97
+Saint Kitts and Nevis,KNA,POL3,2018,98
+Saint Lucia,LCA,POL3,2018,95
+Saint Vincent and the Grenadines,VCT,POL3,2018,99
+Samoa,WSM,POL3,2018,44
+San Marino,SMR,POL3,2018,91
+Sao Tome and Principe,STP,POL3,2018,95
+Saudi Arabia,SAU,POL3,2018,98
+Senegal,SEN,POL3,2018,92
+Serbia,SRB,POL3,2018,96
+Seychelles,SYC,POL3,2018,99
+Sierra Leone,SLE,POL3,2018,93
+Singapore,SGP,POL3,2018,97
+Slovakia,SVK,POL3,2018,96
+Slovenia,SVN,POL3,2018,93
+Solomon Islands,SLB,POL3,2018,85
+Somalia,SOM,POL3,2018,47
+South Africa,ZAF,POL3,2018,82
+South Sudan,SSD,POL3,2018,60
+Spain,ESP,POL3,2018,96
+Sri Lanka,LKA,POL3,2018,99
+State of Palestine,PSE,POL3,2018,99
+Sudan,SDN,POL3,2018,93
+Suriname,SUR,POL3,2018,81
+Sweden,SWE,POL3,2018,97
+Switzerland,CHE,POL3,2018,96
+Syrian Arab Republic,SYR,POL3,2018,63
+Tajikistan,TJK,POL3,2018,96
+Thailand,THA,POL3,2018,97
+Timor-Leste,TLS,POL3,2018,83
+Togo,TGO,POL3,2018,58
+Tonga,TON,POL3,2018,99
+Trinidad and Tobago,TTO,POL3,2018,99
+Tunisia,TUN,POL3,2018,97
+Turkiye,TUR,POL3,2018,98
+Turkmenistan,TKM,POL3,2018,99
+Tuvalu,TUV,POL3,2018,89
+Uganda,UGA,POL3,2018,88
+Ukraine,UKR,POL3,2018,71
+United Arab Emirates,ARE,POL3,2018,99
+United Kingdom,GBR,POL3,2018,94
+United Republic of Tanzania,TZA,POL3,2018,82
+United States,USA,POL3,2018,93
+Uruguay,URY,POL3,2018,91
+Uzbekistan,UZB,POL3,2018,98
+Vanuatu,VUT,POL3,2018,85
+Venezuela (Bolivarian Republic of),VEN,POL3,2018,53
+Viet Nam,VNM,POL3,2018,90
+Yemen,YEM,POL3,2018,52
+Zambia,ZMB,POL3,2018,90
+Zimbabwe,ZWE,POL3,2018,89
+Afghanistan,AFG,POL3,2019,71
+Albania,ALB,POL3,2019,99
+Algeria,DZA,POL3,2019,88
+Andorra,AND,POL3,2019,99
+Angola,AGO,POL3,2019,56
+Antigua and Barbuda,ATG,POL3,2019,95
+Argentina,ARG,POL3,2019,83
+Armenia,ARM,POL3,2019,94
+Australia,AUS,POL3,2019,95
+Austria,AUT,POL3,2019,85
+Azerbaijan,AZE,POL3,2019,96
+Bahamas,BHS,POL3,2019,89
+Bahrain,BHR,POL3,2019,99
+Bangladesh,BGD,POL3,2019,98
+Barbados,BRB,POL3,2019,91
+Belarus,BLR,POL3,2019,98
+Belgium,BEL,POL3,2019,98
+Belize,BLZ,POL3,2019,98
+Benin,BEN,POL3,2019,69
+Bhutan,BTN,POL3,2019,97
+Bolivia (Plurinational State of),BOL,POL3,2019,75
+Bosnia and Herzegovina,BIH,POL3,2019,74
+Botswana,BWA,POL3,2019,96
+Brazil,BRA,POL3,2019,85
+Brunei Darussalam,BRN,POL3,2019,99
+Bulgaria,BGR,POL3,2019,93
+Burkina Faso,BFA,POL3,2019,91
+Burundi,BDI,POL3,2019,93
+Cabo Verde,CPV,POL3,2019,97
+Cambodia,KHM,POL3,2019,89
+Cameroon,CMR,POL3,2019,68
+Canada,CAN,POL3,2019,92
+Central African Republic,CAF,POL3,2019,46
+Chad,TCD,POL3,2019,46
+Chile,CHL,POL3,2019,96
+China,CHN,POL3,2019,99
+Colombia,COL,POL3,2019,94
+Comoros,COM,POL3,2019,71
+Congo,COG,POL3,2019,78
+Cook Islands,COK,POL3,2019,98
+Costa Rica,CRI,POL3,2019,96
+Cote d'Ivoire,CIV,POL3,2019,79
+Croatia,HRV,POL3,2019,94
+Cuba,CUB,POL3,2019,99
+Cyprus,CYP,POL3,2019,95
+Czechia,CZE,POL3,2019,97
+Democratic People's Republic of Korea,PRK,POL3,2019,98
+Democratic Republic of the Congo,COD,POL3,2019,74
+Denmark,DNK,POL3,2019,97
+Djibouti,DJI,POL3,2019,85
+Dominica,DMA,POL3,2019,99
+Dominican Republic,DOM,POL3,2019,92
+Ecuador,ECU,POL3,2019,85
+Egypt,EGY,POL3,2019,95
+El Salvador,SLV,POL3,2019,97
+Equatorial Guinea,GNQ,POL3,2019,63
+Eritrea,ERI,POL3,2019,95
+Estonia,EST,POL3,2019,91
+Eswatini,SWZ,POL3,2019,89
+Ethiopia,ETH,POL3,2019,69
+Fiji,FJI,POL3,2019,97
+Finland,FIN,POL3,2019,91
+France,FRA,POL3,2019,96
+Gabon,GAB,POL3,2019,70
+Gambia,GMB,POL3,2019,88
+Georgia,GEO,POL3,2019,94
+Germany,DEU,POL3,2019,91
+Ghana,GHA,POL3,2019,97
+Greece,GRC,POL3,2019,99
+Grenada,GRD,POL3,2019,94
+Guatemala,GTM,POL3,2019,88
+Guinea,GIN,POL3,2019,48
+Guinea-Bissau,GNB,POL3,2019,60
+Guyana,GUY,POL3,2019,97
+Haiti,HTI,POL3,2019,51
+Honduras,HND,POL3,2019,88
+Hungary,HUN,POL3,2019,99
+Iceland,ISL,POL3,2019,93
+India,IND,POL3,2019,90
+Indonesia,IDN,POL3,2019,85
+Iran (Islamic Republic of),IRN,POL3,2019,99
+Iraq,IRQ,POL3,2019,85
+Ireland,IRL,POL3,2019,94
+Israel,ISR,POL3,2019,98
+Italy,ITA,POL3,2019,96
+Jamaica,JAM,POL3,2019,96
+Japan,JPN,POL3,2019,98
+Jordan,JOR,POL3,2019,87
+Kazakhstan,KAZ,POL3,2019,97
+Kenya,KEN,POL3,2019,88
+Kiribati,KIR,POL3,2019,94
+Kuwait,KWT,POL3,2019,97
+Kyrgyzstan,KGZ,POL3,2019,96
+Lao People's Democratic Republic,LAO,POL3,2019,80
+Latvia,LVA,POL3,2019,99
+Lebanon,LBN,POL3,2019,73
+Lesotho,LSO,POL3,2019,87
+Liberia,LBR,POL3,2019,69
+Libya,LBY,POL3,2019,73
+Lithuania,LTU,POL3,2019,92
+Luxembourg,LUX,POL3,2019,99
+Madagascar,MDG,POL3,2019,69
+Malawi,MWI,POL3,2019,94
+Malaysia,MYS,POL3,2019,98
+Maldives,MDV,POL3,2019,99
+Mali,MLI,POL3,2019,70
+Malta,MLT,POL3,2019,98
+Marshall Islands,MHL,POL3,2019,78
+Mauritania,MRT,POL3,2019,75
+Mauritius,MUS,POL3,2019,97
+Mexico,MEX,POL3,2019,82
+Micronesia (Federated States of),FSM,POL3,2019,78
+Monaco,MCO,POL3,2019,99
+Mongolia,MNG,POL3,2019,98
+Montenegro,MNE,POL3,2019,85
+Morocco,MAR,POL3,2019,99
+Mozambique,MOZ,POL3,2019,84
+Myanmar,MMR,POL3,2019,90
+Namibia,NAM,POL3,2019,84
+Nauru,NRU,POL3,2019,96
+Nepal,NPL,POL3,2019,92
+Netherlands (Kingdom of the),NLD,POL3,2019,94
+New Zealand,NZL,POL3,2019,92
+Nicaragua,NIC,POL3,2019,99
+Niger,NER,POL3,2019,81
+Nigeria,NGA,POL3,2019,66
+Niue,NIU,POL3,2019,99
+North Macedonia,MKD,POL3,2019,92
+Norway,NOR,POL3,2019,97
+Oman,OMN,POL3,2019,99
+Pakistan,PAK,POL3,2019,84
+Palau,PLW,POL3,2019,97
+Panama,PAN,POL3,2019,88
+Papua New Guinea,PNG,POL3,2019,42
+Paraguay,PRY,POL3,2019,84
+Peru,PER,POL3,2019,87
+Philippines,PHL,POL3,2019,85
+Poland,POL,POL3,2019,87
+Portugal,PRT,POL3,2019,99
+Qatar,QAT,POL3,2019,99
+Republic of Korea,KOR,POL3,2019,98
+Republic of Moldova,MDA,POL3,2019,94
+Romania,ROU,POL3,2019,88
+Russian Federation,RUS,POL3,2019,96
+Rwanda,RWA,POL3,2019,98
+Saint Kitts and Nevis,KNA,POL3,2019,97
+Saint Lucia,LCA,POL3,2019,91
+Saint Vincent and the Grenadines,VCT,POL3,2019,99
+Samoa,WSM,POL3,2019,68
+San Marino,SMR,POL3,2019,88
+Sao Tome and Principe,STP,POL3,2019,95
+Saudi Arabia,SAU,POL3,2019,97
+Senegal,SEN,POL3,2019,97
+Serbia,SRB,POL3,2019,97
+Seychelles,SYC,POL3,2019,99
+Sierra Leone,SLE,POL3,2019,95
+Singapore,SGP,POL3,2019,97
+Slovakia,SVK,POL3,2019,97
+Slovenia,SVN,POL3,2019,95
+Solomon Islands,SLB,POL3,2019,93
+Somalia,SOM,POL3,2019,47
+South Africa,ZAF,POL3,2019,85
+South Sudan,SSD,POL3,2019,61
+Spain,ESP,POL3,2019,95
+Sri Lanka,LKA,POL3,2019,99
+State of Palestine,PSE,POL3,2019,99
+Sudan,SDN,POL3,2019,93
+Suriname,SUR,POL3,2019,76
+Sweden,SWE,POL3,2019,98
+Switzerland,CHE,POL3,2019,96
+Syrian Arab Republic,SYR,POL3,2019,70
+Tajikistan,TJK,POL3,2019,97
+Thailand,THA,POL3,2019,97
+Timor-Leste,TLS,POL3,2019,83
+Togo,TGO,POL3,2019,78
+Tonga,TON,POL3,2019,99
+Trinidad and Tobago,TTO,POL3,2019,93
+Tunisia,TUN,POL3,2019,98
+Turkiye,TUR,POL3,2019,99
+Turkmenistan,TKM,POL3,2019,99
+Tuvalu,TUV,POL3,2019,92
+Uganda,UGA,POL3,2019,92
+Ukraine,UKR,POL3,2019,78
+United Arab Emirates,ARE,POL3,2019,95
+United Kingdom,GBR,POL3,2019,93
+United Republic of Tanzania,TZA,POL3,2019,87
+United States,USA,POL3,2019,93
+Uruguay,URY,POL3,2019,93
+Uzbekistan,UZB,POL3,2019,98
+Vanuatu,VUT,POL3,2019,90
+Venezuela (Bolivarian Republic of),VEN,POL3,2019,62
+Viet Nam,VNM,POL3,2019,89
+Yemen,YEM,POL3,2019,59
+Zambia,ZMB,POL3,2019,89
+Zimbabwe,ZWE,POL3,2019,90
+Afghanistan,AFG,POL3,2020,69
+Albania,ALB,POL3,2020,98
+Algeria,DZA,POL3,2020,84
+Andorra,AND,POL3,2020,99
+Angola,AGO,POL3,2020,51
+Antigua and Barbuda,ATG,POL3,2020,95
+Argentina,ARG,POL3,2020,74
+Armenia,ARM,POL3,2020,86
+Australia,AUS,POL3,2020,95
+Austria,AUT,POL3,2020,85
+Azerbaijan,AZE,POL3,2020,85
+Bahamas,BHS,POL3,2020,83
+Bahrain,BHR,POL3,2020,98
+Bangladesh,BGD,POL3,2020,98
+Barbados,BRB,POL3,2020,85
+Belarus,BLR,POL3,2020,97
+Belgium,BEL,POL3,2020,98
+Belize,BLZ,POL3,2020,79
+Benin,BEN,POL3,2020,67
+Bhutan,BTN,POL3,2020,96
+Bolivia (Plurinational State of),BOL,POL3,2020,68
+Bosnia and Herzegovina,BIH,POL3,2020,74
+Botswana,BWA,POL3,2020,96
+Brazil,BRA,POL3,2020,74
+Brunei Darussalam,BRN,POL3,2020,99
+Bulgaria,BGR,POL3,2020,91
+Burkina Faso,BFA,POL3,2020,91
+Burundi,BDI,POL3,2020,93
+Cabo Verde,CPV,POL3,2020,94
+Cambodia,KHM,POL3,2020,88
+Cameroon,CMR,POL3,2020,68
+Canada,CAN,POL3,2020,92
+Central African Republic,CAF,POL3,2020,46
+Chad,TCD,POL3,2020,51
+Chile,CHL,POL3,2020,93
+China,CHN,POL3,2020,99
+Colombia,COL,POL3,2020,88
+Comoros,COM,POL3,2020,64
+Congo,COG,POL3,2020,73
+Cook Islands,COK,POL3,2020,89
+Costa Rica,CRI,POL3,2020,97
+Cote d'Ivoire,CIV,POL3,2020,65
+Croatia,HRV,POL3,2020,94
+Cuba,CUB,POL3,2020,98
+Cyprus,CYP,POL3,2020,95
+Czechia,CZE,POL3,2020,96
+Democratic People's Republic of Korea,PRK,POL3,2020,70
+Democratic Republic of the Congo,COD,POL3,2020,72
+Denmark,DNK,POL3,2020,97
+Djibouti,DJI,POL3,2020,70
+Dominica,DMA,POL3,2020,96
+Dominican Republic,DOM,POL3,2020,80
+Ecuador,ECU,POL3,2020,72
+Egypt,EGY,POL3,2020,95
+El Salvador,SLV,POL3,2020,85
+Equatorial Guinea,GNQ,POL3,2020,65
+Eritrea,ERI,POL3,2020,95
+Estonia,EST,POL3,2020,91
+Eswatini,SWZ,POL3,2020,82
+Ethiopia,ETH,POL3,2020,72
+Fiji,FJI,POL3,2020,99
+Finland,FIN,POL3,2020,90
+France,FRA,POL3,2020,96
+Gabon,GAB,POL3,2020,62
+Gambia,GMB,POL3,2020,89
+Georgia,GEO,POL3,2020,88
+Germany,DEU,POL3,2020,91
+Ghana,GHA,POL3,2020,92
+Greece,GRC,POL3,2020,99
+Grenada,GRD,POL3,2020,72
+Guatemala,GTM,POL3,2020,89
+Guinea,GIN,POL3,2020,48
+Guinea-Bissau,GNB,POL3,2020,63
+Guyana,GUY,POL3,2020,91
+Haiti,HTI,POL3,2020,51
+Honduras,HND,POL3,2020,80
+Hungary,HUN,POL3,2020,99
+Iceland,ISL,POL3,2020,93
+India,IND,POL3,2020,85
+Indonesia,IDN,POL3,2020,76
+Iran (Islamic Republic of),IRN,POL3,2020,99
+Iraq,IRQ,POL3,2020,78
+Ireland,IRL,POL3,2020,94
+Israel,ISR,POL3,2020,98
+Italy,ITA,POL3,2020,94
+Jamaica,JAM,POL3,2020,95
+Japan,JPN,POL3,2020,96
+Jordan,JOR,POL3,2020,76
+Kazakhstan,KAZ,POL3,2020,88
+Kenya,KEN,POL3,2020,92
+Kiribati,KIR,POL3,2020,91
+Kuwait,KWT,POL3,2020,95
+Kyrgyzstan,KGZ,POL3,2020,87
+Lao People's Democratic Republic,LAO,POL3,2020,78
+Latvia,LVA,POL3,2020,99
+Lebanon,LBN,POL3,2020,67
+Lesotho,LSO,POL3,2020,87
+Liberia,LBR,POL3,2020,67
+Libya,LBY,POL3,2020,73
+Lithuania,LTU,POL3,2020,91
+Luxembourg,LUX,POL3,2020,99
+Madagascar,MDG,POL3,2020,67
+Malawi,MWI,POL3,2020,93
+Malaysia,MYS,POL3,2020,98
+Maldives,MDV,POL3,2020,99
+Mali,MLI,POL3,2020,65
+Malta,MLT,POL3,2020,98
+Marshall Islands,MHL,POL3,2020,82
+Mauritania,MRT,POL3,2020,81
+Mauritius,MUS,POL3,2020,94
+Mexico,MEX,POL3,2020,72
+Micronesia (Federated States of),FSM,POL3,2020,82
+Monaco,MCO,POL3,2020,99
+Mongolia,MNG,POL3,2020,97
+Montenegro,MNE,POL3,2020,84
+Morocco,MAR,POL3,2020,99
+Mozambique,MOZ,POL3,2020,75
+Myanmar,MMR,POL3,2020,86
+Namibia,NAM,POL3,2020,92
+Nauru,NRU,POL3,2020,95
+Nepal,NPL,POL3,2020,84
+Netherlands (Kingdom of the),NLD,POL3,2020,94
+New Zealand,NZL,POL3,2020,92
+Nicaragua,NIC,POL3,2020,93
+Niger,NER,POL3,2020,81
+Nigeria,NGA,POL3,2020,62
+Niue,NIU,POL3,2020,99
+North Macedonia,MKD,POL3,2020,84
+Norway,NOR,POL3,2020,97
+Oman,OMN,POL3,2020,99
+Pakistan,PAK,POL3,2020,83
+Palau,PLW,POL3,2020,96
+Panama,PAN,POL3,2020,74
+Papua New Guinea,PNG,POL3,2020,43
+Paraguay,PRY,POL3,2020,78
+Peru,PER,POL3,2020,72
+Philippines,PHL,POL3,2020,82
+Poland,POL,POL3,2020,86
+Portugal,PRT,POL3,2020,99
+Qatar,QAT,POL3,2020,89
+Republic of Korea,KOR,POL3,2020,98
+Republic of Moldova,MDA,POL3,2020,87
+Romania,ROU,POL3,2020,87
+Russian Federation,RUS,POL3,2020,97
+Rwanda,RWA,POL3,2020,91
+Saint Kitts and Nevis,KNA,POL3,2020,99
+Saint Lucia,LCA,POL3,2020,88
+Saint Vincent and the Grenadines,VCT,POL3,2020,99
+Samoa,WSM,POL3,2020,89
+San Marino,SMR,POL3,2020,89
+Sao Tome and Principe,STP,POL3,2020,94
+Saudi Arabia,SAU,POL3,2020,95
+Senegal,SEN,POL3,2020,94
+Serbia,SRB,POL3,2020,92
+Seychelles,SYC,POL3,2020,97
+Sierra Leone,SLE,POL3,2020,90
+Singapore,SGP,POL3,2020,98
+Slovakia,SVK,POL3,2020,97
+Slovenia,SVN,POL3,2020,95
+Solomon Islands,SLB,POL3,2020,92
+Somalia,SOM,POL3,2020,47
+South Africa,ZAF,POL3,2020,84
+South Sudan,SSD,POL3,2020,65
+Spain,ESP,POL3,2020,94
+Sri Lanka,LKA,POL3,2020,96
+State of Palestine,PSE,POL3,2020,98
+Sudan,SDN,POL3,2020,90
+Suriname,SUR,POL3,2020,51
+Sweden,SWE,POL3,2020,97
+Switzerland,CHE,POL3,2020,96
+Syrian Arab Republic,SYR,POL3,2020,63
+Tajikistan,TJK,POL3,2020,97
+Thailand,THA,POL3,2020,97
+Timor-Leste,TLS,POL3,2020,83
+Togo,TGO,POL3,2020,80
+Tonga,TON,POL3,2020,99
+Trinidad and Tobago,TTO,POL3,2020,93
+Tunisia,TUN,POL3,2020,97
+Turkiye,TUR,POL3,2020,98
+Turkmenistan,TKM,POL3,2020,98
+Tuvalu,TUV,POL3,2020,90
+Uganda,UGA,POL3,2020,88
+Ukraine,UKR,POL3,2020,84
+United Arab Emirates,ARE,POL3,2020,80
+United Kingdom,GBR,POL3,2020,93
+United Republic of Tanzania,TZA,POL3,2020,61
+United States,USA,POL3,2020,92
+Uruguay,URY,POL3,2020,91
+Uzbekistan,UZB,POL3,2020,97
+Vanuatu,VUT,POL3,2020,76
+Venezuela (Bolivarian Republic of),VEN,POL3,2020,62
+Viet Nam,VNM,POL3,2020,80
+Yemen,YEM,POL3,2020,57
+Zambia,ZMB,POL3,2020,83
+Zimbabwe,ZWE,POL3,2020,86
+Afghanistan,AFG,POL3,2021,64
+Albania,ALB,POL3,2021,98
+Algeria,DZA,POL3,2021,81
+Andorra,AND,POL3,2021,98
+Angola,AGO,POL3,2021,43
+Antigua and Barbuda,ATG,POL3,2021,92
+Argentina,ARG,POL3,2021,79
+Armenia,ARM,POL3,2021,93
+Australia,AUS,POL3,2021,95
+Austria,AUT,POL3,2021,86
+Azerbaijan,AZE,POL3,2021,93
+Bahamas,BHS,POL3,2021,86
+Bahrain,BHR,POL3,2021,99
+Bangladesh,BGD,POL3,2021,98
+Barbados,BRB,POL3,2021,84
+Belarus,BLR,POL3,2021,97
+Belgium,BEL,POL3,2021,98
+Belize,BLZ,POL3,2021,83
+Benin,BEN,POL3,2021,66
+Bhutan,BTN,POL3,2021,98
+Bolivia (Plurinational State of),BOL,POL3,2021,70
+Bosnia and Herzegovina,BIH,POL3,2021,75
+Botswana,BWA,POL3,2021,96
+Brazil,BRA,POL3,2021,68
+Brunei Darussalam,BRN,POL3,2021,99
+Bulgaria,BGR,POL3,2021,89
+Burkina Faso,BFA,POL3,2021,91
+Burundi,BDI,POL3,2021,94
+Cabo Verde,CPV,POL3,2021,94
+Cambodia,KHM,POL3,2021,87
+Cameroon,CMR,POL3,2021,71
+Canada,CAN,POL3,2021,92
+Central African Republic,CAF,POL3,2021,46
+Chad,TCD,POL3,2021,57
+Chile,CHL,POL3,2021,95
+China,CHN,POL3,2021,99
+Colombia,COL,POL3,2021,86
+Comoros,COM,POL3,2021,72
+Congo,COG,POL3,2021,75
+Cook Islands,COK,POL3,2021,81
+Costa Rica,CRI,POL3,2021,92
+Cote d'Ivoire,CIV,POL3,2021,71
+Croatia,HRV,POL3,2021,92
+Cuba,CUB,POL3,2021,98
+Cyprus,CYP,POL3,2021,95
+Czechia,CZE,POL3,2021,94
+Democratic People's Republic of Korea,PRK,POL3,2021,0
+Democratic Republic of the Congo,COD,POL3,2021,65
+Denmark,DNK,POL3,2021,97
+Djibouti,DJI,POL3,2021,59
+Dominica,DMA,POL3,2021,92
+Dominican Republic,DOM,POL3,2021,83
+Ecuador,ECU,POL3,2021,62
+Egypt,EGY,POL3,2021,96
+El Salvador,SLV,POL3,2021,96
+Equatorial Guinea,GNQ,POL3,2021,68
+Eritrea,ERI,POL3,2021,95
+Estonia,EST,POL3,2021,89
+Eswatini,SWZ,POL3,2021,61
+Ethiopia,ETH,POL3,2021,66
+Fiji,FJI,POL3,2021,99
+Finland,FIN,POL3,2021,89
+France,FRA,POL3,2021,96
+Gabon,GAB,POL3,2021,69
+Gambia,GMB,POL3,2021,89
+Georgia,GEO,POL3,2021,85
+Germany,DEU,POL3,2021,91
+Ghana,GHA,POL3,2021,98
+Greece,GRC,POL3,2021,99
+Grenada,GRD,POL3,2021,77
+Guatemala,GTM,POL3,2021,79
+Guinea,GIN,POL3,2021,48
+Guinea-Bissau,GNB,POL3,2021,23
+Guyana,GUY,POL3,2021,97
+Haiti,HTI,POL3,2021,51
+Honduras,HND,POL3,2021,77
+Hungary,HUN,POL3,2021,99
+Iceland,ISL,POL3,2021,92
+India,IND,POL3,2021,85
+Indonesia,IDN,POL3,2021,68
+Iran (Islamic Republic of),IRN,POL3,2021,98
+Iraq,IRQ,POL3,2021,78
+Ireland,IRL,POL3,2021,94
+Israel,ISR,POL3,2021,98
+Italy,ITA,POL3,2021,94
+Jamaica,JAM,POL3,2021,90
+Japan,JPN,POL3,2021,99
+Jordan,JOR,POL3,2021,84
+Kazakhstan,KAZ,POL3,2021,95
+Kenya,KEN,POL3,2021,95
+Kiribati,KIR,POL3,2021,86
+Kuwait,KWT,POL3,2021,94
+Kyrgyzstan,KGZ,POL3,2021,90
+Lao People's Democratic Republic,LAO,POL3,2021,74
+Latvia,LVA,POL3,2021,94
+Lebanon,LBN,POL3,2021,64
+Lesotho,LSO,POL3,2021,87
+Liberia,LBR,POL3,2021,64
+Libya,LBY,POL3,2021,73
+Lithuania,LTU,POL3,2021,90
+Luxembourg,LUX,POL3,2021,99
+Madagascar,MDG,POL3,2021,55
+Malawi,MWI,POL3,2021,89
+Malaysia,MYS,POL3,2021,95
+Maldives,MDV,POL3,2021,97
+Mali,MLI,POL3,2021,69
+Malta,MLT,POL3,2021,99
+Marshall Islands,MHL,POL3,2021,85
+Mauritania,MRT,POL3,2021,76
+Mauritius,MUS,POL3,2021,93
+Mexico,MEX,POL3,2021,78
+Micronesia (Federated States of),FSM,POL3,2021,72
+Monaco,MCO,POL3,2021,99
+Mongolia,MNG,POL3,2021,96
+Montenegro,MNE,POL3,2021,83
+Morocco,MAR,POL3,2021,99
+Mozambique,MOZ,POL3,2021,64
+Myanmar,MMR,POL3,2021,43
+Namibia,NAM,POL3,2021,73
+Nauru,NRU,POL3,2021,98
+Nepal,NPL,POL3,2021,91
+Netherlands (Kingdom of the),NLD,POL3,2021,95
+New Zealand,NZL,POL3,2021,90
+Nicaragua,NIC,POL3,2021,88
+Niger,NER,POL3,2021,82
+Nigeria,NGA,POL3,2021,62
+Niue,NIU,POL3,2021,99
+North Macedonia,MKD,POL3,2021,81
+Norway,NOR,POL3,2021,97
+Oman,OMN,POL3,2021,99
+Pakistan,PAK,POL3,2021,83
+Palau,PLW,POL3,2021,95
+Panama,PAN,POL3,2021,87
+Papua New Guinea,PNG,POL3,2021,34
+Paraguay,PRY,POL3,2021,66
+Peru,PER,POL3,2021,79
+Philippines,PHL,POL3,2021,66
+Poland,POL,POL3,2021,84
+Portugal,PRT,POL3,2021,99
+Qatar,QAT,POL3,2021,98
+Republic of Korea,KOR,POL3,2021,98
+Republic of Moldova,MDA,POL3,2021,88
+Romania,ROU,POL3,2021,86
+Russian Federation,RUS,POL3,2021,97
+Rwanda,RWA,POL3,2021,88
+Saint Kitts and Nevis,KNA,POL3,2021,96
+Saint Lucia,LCA,POL3,2021,75
+Saint Vincent and the Grenadines,VCT,POL3,2021,92
+Samoa,WSM,POL3,2021,80
+San Marino,SMR,POL3,2021,90
+Sao Tome and Principe,STP,POL3,2021,93
+Saudi Arabia,SAU,POL3,2021,97
+Senegal,SEN,POL3,2021,89
+Serbia,SRB,POL3,2021,91
+Seychelles,SYC,POL3,2021,94
+Sierra Leone,SLE,POL3,2021,90
+Singapore,SGP,POL3,2021,98
+Slovakia,SVK,POL3,2021,97
+Slovenia,SVN,POL3,2021,86
+Solomon Islands,SLB,POL3,2021,84
+Somalia,SOM,POL3,2021,47
+South Africa,ZAF,POL3,2021,86
+South Sudan,SSD,POL3,2021,69
+Spain,ESP,POL3,2021,92
+Sri Lanka,LKA,POL3,2021,96
+State of Palestine,PSE,POL3,2021,95
+Sudan,SDN,POL3,2021,85
+Suriname,SUR,POL3,2021,72
+Sweden,SWE,POL3,2021,98
+Switzerland,CHE,POL3,2021,96
+Syrian Arab Republic,SYR,POL3,2021,62
+Tajikistan,TJK,POL3,2021,97
+Thailand,THA,POL3,2021,93
+Timor-Leste,TLS,POL3,2021,83
+Togo,TGO,POL3,2021,81
+Tonga,TON,POL3,2021,99
+Trinidad and Tobago,TTO,POL3,2021,94
+Tunisia,TUN,POL3,2021,97
+Turkiye,TUR,POL3,2021,95
+Turkmenistan,TKM,POL3,2021,97
+Tuvalu,TUV,POL3,2021,87
+Uganda,UGA,POL3,2021,91
+Ukraine,UKR,POL3,2021,78
+United Arab Emirates,ARE,POL3,2021,96
+United Kingdom,GBR,POL3,2021,93
+United Republic of Tanzania,TZA,POL3,2021,66
+United States,USA,POL3,2021,93
+Uruguay,URY,POL3,2021,90
+Uzbekistan,UZB,POL3,2021,99
+Vanuatu,VUT,POL3,2021,62
+Venezuela (Bolivarian Republic of),VEN,POL3,2021,50
+Viet Nam,VNM,POL3,2021,81
+Yemen,YEM,POL3,2021,56
+Zambia,ZMB,POL3,2021,87
+Zimbabwe,ZWE,POL3,2021,88
+Afghanistan,AFG,POL3,2022,69
+Albania,ALB,POL3,2022,98
+Algeria,DZA,POL3,2022,77
+Andorra,AND,POL3,2022,97
+Angola,AGO,POL3,2022,41
+Antigua and Barbuda,ATG,POL3,2022,99
+Argentina,ARG,POL3,2022,84
+Armenia,ARM,POL3,2022,93
+Australia,AUS,POL3,2022,94
+Austria,AUT,POL3,2022,84
+Azerbaijan,AZE,POL3,2022,88
+Bahamas,BHS,POL3,2022,87
+Bahrain,BHR,POL3,2022,97
+Bangladesh,BGD,POL3,2022,98
+Barbados,BRB,POL3,2022,86
+Belarus,BLR,POL3,2022,98
+Belgium,BEL,POL3,2022,98
+Belize,BLZ,POL3,2022,84
+Benin,BEN,POL3,2022,65
+Bhutan,BTN,POL3,2022,98
+Bolivia (Plurinational State of),BOL,POL3,2022,69
+Bosnia and Herzegovina,BIH,POL3,2022,75
+Botswana,BWA,POL3,2022,86
+Brazil,BRA,POL3,2022,75
+Brunei Darussalam,BRN,POL3,2022,99
+Bulgaria,BGR,POL3,2022,91
+Burkina Faso,BFA,POL3,2022,92
+Burundi,BDI,POL3,2022,91
+Cabo Verde,CPV,POL3,2022,94
+Cambodia,KHM,POL3,2022,83
+Cameroon,CMR,POL3,2022,62
+Canada,CAN,POL3,2022,92
+Central African Republic,CAF,POL3,2022,46
+Chad,TCD,POL3,2022,58
+Chile,CHL,POL3,2022,96
+China,CHN,POL3,2022,99
+Colombia,COL,POL3,2022,86
+Comoros,COM,POL3,2022,72
+Congo,COG,POL3,2022,52
+Cook Islands,COK,POL3,2022,81
+Costa Rica,CRI,POL3,2022,95
+Cote d'Ivoire,CIV,POL3,2022,71
+Croatia,HRV,POL3,2022,92
+Cuba,CUB,POL3,2022,98
+Cyprus,CYP,POL3,2022,95
+Czechia,CZE,POL3,2022,94
+Democratic People's Republic of Korea,PRK,POL3,2022,0
+Democratic Republic of the Congo,COD,POL3,2022,66
+Denmark,DNK,POL3,2022,98
+Djibouti,DJI,POL3,2022,59
+Dominica,DMA,POL3,2022,82
+Dominican Republic,DOM,POL3,2022,88
+Ecuador,ECU,POL3,2022,59
+Egypt,EGY,POL3,2022,97
+El Salvador,SLV,POL3,2022,93
+Equatorial Guinea,GNQ,POL3,2022,70
+Eritrea,ERI,POL3,2022,95
+Estonia,EST,POL3,2022,89
+Eswatini,SWZ,POL3,2022,97
+Ethiopia,ETH,POL3,2022,62
+Fiji,FJI,POL3,2022,99
+Finland,FIN,POL3,2022,91
+France,FRA,POL3,2022,96
+Gabon,GAB,POL3,2022,59
+Gambia,GMB,POL3,2022,69
+Georgia,GEO,POL3,2022,85
+Germany,DEU,POL3,2022,91
+Ghana,GHA,POL3,2022,90
+Greece,GRC,POL3,2022,99
+Grenada,GRD,POL3,2022,73
+Guatemala,GTM,POL3,2022,78
+Guinea,GIN,POL3,2022,48
+Guinea-Bissau,GNB,POL3,2022,51
+Guyana,GUY,POL3,2022,97
+Haiti,HTI,POL3,2022,51
+Honduras,HND,POL3,2022,78
+Hungary,HUN,POL3,2022,99
+Iceland,ISL,POL3,2022,92
+India,IND,POL3,2022,93
+Indonesia,IDN,POL3,2022,91
+Iran (Islamic Republic of),IRN,POL3,2022,99
+Iraq,IRQ,POL3,2022,92
+Ireland,IRL,POL3,2022,93
+Israel,ISR,POL3,2022,98
+Italy,ITA,POL3,2022,95
+Jamaica,JAM,POL3,2022,94
+Japan,JPN,POL3,2022,99
+Jordan,JOR,POL3,2022,92
+Kazakhstan,KAZ,POL3,2022,99
+Kenya,KEN,POL3,2022,91
+Kiribati,KIR,POL3,2022,90
+Kuwait,KWT,POL3,2022,95
+Kyrgyzstan,KGZ,POL3,2022,92
+Lao People's Democratic Republic,LAO,POL3,2022,69
+Latvia,LVA,POL3,2022,95
+Lebanon,LBN,POL3,2022,64
+Lesotho,LSO,POL3,2022,65
+Liberia,LBR,POL3,2022,52
+Libya,LBY,POL3,2022,73
+Lithuania,LTU,POL3,2022,90
+Luxembourg,LUX,POL3,2022,99
+Madagascar,MDG,POL3,2022,55
+Malawi,MWI,POL3,2022,87
+Malaysia,MYS,POL3,2022,97
+Maldives,MDV,POL3,2022,99
+Mali,MLI,POL3,2022,68
+Malta,MLT,POL3,2022,98
+Marshall Islands,MHL,POL3,2022,86
+Mauritania,MRT,POL3,2022,81
+Mauritius,MUS,POL3,2022,95
+Mexico,MEX,POL3,2022,83
+Micronesia (Federated States of),FSM,POL3,2022,68
+Monaco,MCO,POL3,2022,99
+Mongolia,MNG,POL3,2022,95
+Montenegro,MNE,POL3,2022,80
+Morocco,MAR,POL3,2022,99
+Mozambique,MOZ,POL3,2022,74
+Myanmar,MMR,POL3,2022,75
+Namibia,NAM,POL3,2022,86
+Nauru,NRU,POL3,2022,97
+Nepal,NPL,POL3,2022,87
+Netherlands (Kingdom of the),NLD,POL3,2022,93
+New Zealand,NZL,POL3,2022,89
+Nicaragua,NIC,POL3,2022,93
+Niger,NER,POL3,2022,84
+Nigeria,NGA,POL3,2022,62
+Niue,NIU,POL3,2022,99
+North Macedonia,MKD,POL3,2022,84
+Norway,NOR,POL3,2022,97
+Oman,OMN,POL3,2022,97
+Pakistan,PAK,POL3,2022,85
+Palau,PLW,POL3,2022,94
+Panama,PAN,POL3,2022,82
+Papua New Guinea,PNG,POL3,2022,38
+Paraguay,PRY,POL3,2022,58
+Peru,PER,POL3,2022,82
+Philippines,PHL,POL3,2022,83
+Poland,POL,POL3,2022,85
+Portugal,PRT,POL3,2022,99
+Qatar,QAT,POL3,2022,99
+Republic of Korea,KOR,POL3,2022,97
+Republic of Moldova,MDA,POL3,2022,88
+Romania,ROU,POL3,2022,85
+Russian Federation,RUS,POL3,2022,97
+Rwanda,RWA,POL3,2022,97
+Saint Kitts and Nevis,KNA,POL3,2022,96
+Saint Lucia,LCA,POL3,2022,80
+Saint Vincent and the Grenadines,VCT,POL3,2022,99
+Samoa,WSM,POL3,2022,76
+San Marino,SMR,POL3,2022,92
+Sao Tome and Principe,STP,POL3,2022,89
+Saudi Arabia,SAU,POL3,2022,98
+Senegal,SEN,POL3,2022,92
+Serbia,SRB,POL3,2022,92
+Seychelles,SYC,POL3,2022,97
+Sierra Leone,SLE,POL3,2022,91
+Singapore,SGP,POL3,2022,97
+Slovakia,SVK,POL3,2022,97
+Slovenia,SVN,POL3,2022,89
+Solomon Islands,SLB,POL3,2022,89
+Somalia,SOM,POL3,2022,47
+South Africa,ZAF,POL3,2022,85
+South Sudan,SSD,POL3,2022,72
+Spain,ESP,POL3,2022,93
+Sri Lanka,LKA,POL3,2022,98
+State of Palestine,PSE,POL3,2022,99
+Sudan,SDN,POL3,2022,69
+Suriname,SUR,POL3,2022,78
+Sweden,SWE,POL3,2022,94
+Switzerland,CHE,POL3,2022,96
+Syrian Arab Republic,SYR,POL3,2022,58
+Tajikistan,TJK,POL3,2022,97
+Thailand,THA,POL3,2022,93
+Timor-Leste,TLS,POL3,2022,83
+Togo,TGO,POL3,2022,75
+Tonga,TON,POL3,2022,99
+Trinidad and Tobago,TTO,POL3,2022,94
+Tunisia,TUN,POL3,2022,97
+Turkiye,TUR,POL3,2022,99
+Turkmenistan,TKM,POL3,2022,98
+Tuvalu,TUV,POL3,2022,90
+Uganda,UGA,POL3,2022,90
+Ukraine,UKR,POL3,2022,69
+United Arab Emirates,ARE,POL3,2022,95
+United Kingdom,GBR,POL3,2022,92
+United Republic of Tanzania,TZA,POL3,2022,84
+United States,USA,POL3,2022,93
+Uruguay,URY,POL3,2022,94
+Uzbekistan,UZB,POL3,2022,99
+Vanuatu,VUT,POL3,2022,68
+Venezuela (Bolivarian Republic of),VEN,POL3,2022,47
+Viet Nam,VNM,POL3,2022,70
+Yemen,YEM,POL3,2022,58
+Zambia,ZMB,POL3,2022,84
+Zimbabwe,ZWE,POL3,2022,90
+Afghanistan,AFG,POL3,2023,68
+Albania,ALB,POL3,2023,97
+Algeria,DZA,POL3,2023,88
+Andorra,AND,POL3,2023,98
+Angola,AGO,POL3,2023,60
+Antigua and Barbuda,ATG,POL3,2023,98
+Argentina,ARG,POL3,2023,71
+Armenia,ARM,POL3,2023,94
+Australia,AUS,POL3,2023,94
+Austria,AUT,POL3,2023,84
+Azerbaijan,AZE,POL3,2023,91
+Bahamas,BHS,POL3,2023,87
+Bahrain,BHR,POL3,2023,99
+Bangladesh,BGD,POL3,2023,98
+Barbados,BRB,POL3,2023,85
+Belarus,BLR,POL3,2023,98
+Belgium,BEL,POL3,2023,98
+Belize,BLZ,POL3,2023,85
+Benin,BEN,POL3,2023,65
+Bhutan,BTN,POL3,2023,98
+Bolivia (Plurinational State of),BOL,POL3,2023,67
+Bosnia and Herzegovina,BIH,POL3,2023,75
+Botswana,BWA,POL3,2023,96
+Brazil,BRA,POL3,2023,85
+Brunei Darussalam,BRN,POL3,2023,99
+Bulgaria,BGR,POL3,2023,92
+Burkina Faso,BFA,POL3,2023,93
+Burundi,BDI,POL3,2023,89
+Cabo Verde,CPV,POL3,2023,94
+Cambodia,KHM,POL3,2023,84
+Cameroon,CMR,POL3,2023,74
+Canada,CAN,POL3,2023,92
+Central African Republic,CAF,POL3,2023,46
+Chad,TCD,POL3,2023,67
+Chile,CHL,POL3,2023,96
+China,CHN,POL3,2023,97
+Colombia,COL,POL3,2023,90
+Comoros,COM,POL3,2023,62
+Congo,COG,POL3,2023,52
+Cook Islands,COK,POL3,2023,69
+Costa Rica,CRI,POL3,2023,99
+Cote d'Ivoire,CIV,POL3,2023,77
+Croatia,HRV,POL3,2023,93
+Cuba,CUB,POL3,2023,99
+Cyprus,CYP,POL3,2023,95
+Czechia,CZE,POL3,2023,94
+Democratic People's Republic of Korea,PRK,POL3,2023,0
+Democratic Republic of the Congo,COD,POL3,2023,61
+Denmark,DNK,POL3,2023,97
+Djibouti,DJI,POL3,2023,72
+Dominica,DMA,POL3,2023,57
+Dominican Republic,DOM,POL3,2023,89
+Ecuador,ECU,POL3,2023,59
+Egypt,EGY,POL3,2023,96
+El Salvador,SLV,POL3,2023,96
+Equatorial Guinea,GNQ,POL3,2023,73
+Eritrea,ERI,POL3,2023,95
+Estonia,EST,POL3,2023,89
+Eswatini,SWZ,POL3,2023,76
+Ethiopia,ETH,POL3,2023,72
+Fiji,FJI,POL3,2023,99
+Finland,FIN,POL3,2023,91
+France,FRA,POL3,2023,96
+Gabon,GAB,POL3,2023,69
+Gambia,GMB,POL3,2023,86
+Georgia,GEO,POL3,2023,88
+Germany,DEU,POL3,2023,91
+Ghana,GHA,POL3,2023,91
+Greece,GRC,POL3,2023,99
+Grenada,GRD,POL3,2023,86
+Guatemala,GTM,POL3,2023,84
+Guinea,GIN,POL3,2023,48
+Guinea-Bissau,GNB,POL3,2023,75
+Guyana,GUY,POL3,2023,99
+Haiti,HTI,POL3,2023,51
+Honduras,HND,POL3,2023,71
+Hungary,HUN,POL3,2023,99
+Iceland,ISL,POL3,2023,92
+India,IND,POL3,2023,91
+Indonesia,IDN,POL3,2023,82
+Iran (Islamic Republic of),IRN,POL3,2023,99
+Iraq,IRQ,POL3,2023,91
+Ireland,IRL,POL3,2023,93
+Israel,ISR,POL3,2023,98
+Italy,ITA,POL3,2023,95
+Jamaica,JAM,POL3,2023,98
+Japan,JPN,POL3,2023,98
+Jordan,JOR,POL3,2023,95
+Kazakhstan,KAZ,POL3,2023,99
+Kenya,KEN,POL3,2023,92
+Kiribati,KIR,POL3,2023,87
+Kuwait,KWT,POL3,2023,99
+Kyrgyzstan,KGZ,POL3,2023,92
+Lao People's Democratic Republic,LAO,POL3,2023,83
+Latvia,LVA,POL3,2023,98
+Lebanon,LBN,POL3,2023,55
+Lesotho,LSO,POL3,2023,87
+Liberia,LBR,POL3,2023,72
+Libya,LBY,POL3,2023,73
+Lithuania,LTU,POL3,2023,90
+Luxembourg,LUX,POL3,2023,99
+Madagascar,MDG,POL3,2023,63
+Malawi,MWI,POL3,2023,91
+Malaysia,MYS,POL3,2023,97
+Maldives,MDV,POL3,2023,99
+Mali,MLI,POL3,2023,68
+Malta,MLT,POL3,2023,98
+Marshall Islands,MHL,POL3,2023,84
+Mauritania,MRT,POL3,2023,90
+Mauritius,MUS,POL3,2023,97
+Mexico,MEX,POL3,2023,85
+Micronesia (Federated States of),FSM,POL3,2023,79
+Monaco,MCO,POL3,2023,99
+Mongolia,MNG,POL3,2023,97
+Montenegro,MNE,POL3,2023,81
+Morocco,MAR,POL3,2023,99
+Mozambique,MOZ,POL3,2023,78
+Myanmar,MMR,POL3,2023,80
+Namibia,NAM,POL3,2023,77
+Nauru,NRU,POL3,2023,97
+Nepal,NPL,POL3,2023,93
+Netherlands (Kingdom of the),NLD,POL3,2023,92
+New Zealand,NZL,POL3,2023,88
+Nicaragua,NIC,POL3,2023,90
+Niger,NER,POL3,2023,85
+Nigeria,NGA,POL3,2023,62
+Niue,NIU,POL3,2023,99
+North Macedonia,MKD,POL3,2023,86
+Norway,NOR,POL3,2023,96
+Oman,OMN,POL3,2023,99
+Pakistan,PAK,POL3,2023,86
+Palau,PLW,POL3,2023,97
+Panama,PAN,POL3,2023,66
+Papua New Guinea,PNG,POL3,2023,46
+Paraguay,PRY,POL3,2023,75
+Peru,PER,POL3,2023,84
+Philippines,PHL,POL3,2023,77
+Poland,POL,POL3,2023,85
+Portugal,PRT,POL3,2023,99
+Qatar,QAT,POL3,2023,98
+Republic of Korea,KOR,POL3,2023,97
+Republic of Moldova,MDA,POL3,2023,88
+Romania,ROU,POL3,2023,78
+Russian Federation,RUS,POL3,2023,97
+Rwanda,RWA,POL3,2023,94
+Saint Kitts and Nevis,KNA,POL3,2023,96
+Saint Lucia,LCA,POL3,2023,97
+Saint Vincent and the Grenadines,VCT,POL3,2023,99
+Samoa,WSM,POL3,2023,84
+San Marino,SMR,POL3,2023,91
+Sao Tome and Principe,STP,POL3,2023,85
+Saudi Arabia,SAU,POL3,2023,96
+Senegal,SEN,POL3,2023,76
+Serbia,SRB,POL3,2023,93
+Seychelles,SYC,POL3,2023,97
+Sierra Leone,SLE,POL3,2023,91
+Singapore,SGP,POL3,2023,98
+Slovakia,SVK,POL3,2023,96
+Slovenia,SVN,POL3,2023,89
+Solomon Islands,SLB,POL3,2023,81
+Somalia,SOM,POL3,2023,47
+South Africa,ZAF,POL3,2023,79
+South Sudan,SSD,POL3,2023,72
+Spain,ESP,POL3,2023,93
+Sri Lanka,LKA,POL3,2023,99
+State of Palestine,PSE,POL3,2023,89
+Sudan,SDN,POL3,2023,53
+Suriname,SUR,POL3,2023,72
+Sweden,SWE,POL3,2023,94
+Switzerland,CHE,POL3,2023,95
+Syrian Arab Republic,SYR,POL3,2023,66
+Tajikistan,TJK,POL3,2023,97
+Thailand,THA,POL3,2023,93
+Timor-Leste,TLS,POL3,2023,83
+Togo,TGO,POL3,2023,81
+Tonga,TON,POL3,2023,99
+Trinidad and Tobago,TTO,POL3,2023,94
+Tunisia,TUN,POL3,2023,97
+Turkiye,TUR,POL3,2023,99
+Turkmenistan,TKM,POL3,2023,98
+Tuvalu,TUV,POL3,2023,94
+Uganda,UGA,POL3,2023,89
+Ukraine,UKR,POL3,2023,85
+United Arab Emirates,ARE,POL3,2023,96
+United Kingdom,GBR,POL3,2023,92
+United Republic of Tanzania,TZA,POL3,2023,84
+United States,USA,POL3,2023,93
+Uruguay,URY,POL3,2023,95
+Uzbekistan,UZB,POL3,2023,99
+Vanuatu,VUT,POL3,2023,71
+Venezuela (Bolivarian Republic of),VEN,POL3,2023,61
+Viet Nam,VNM,POL3,2023,60
+Yemen,YEM,POL3,2023,46
+Zambia,ZMB,POL3,2023,81
+Zimbabwe,ZWE,POL3,2023,90

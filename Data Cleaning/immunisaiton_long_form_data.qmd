@@ -1,0 +1,76 @@
+---
+title: "anand_polio_vaccination"
+format: html
+---
+
+```{python}
+import pandas as pd
+```
+
+```{python}
+# Specify the file path
+file_path = "C:/Users/Lenovo/Documents/GitHub/student30538/DAP-II-Final-project-Polio-trends-/wuenic2023rev_web-update.csv"  # Replace with your file's path
+```
+
+```{python}
+# Load the CSV file
+immunisation_data= pd.read_csv(file_path)
+```
+
+```{python}
+# Display the first few rows of the data
+print(immunisation_data.head())
+```
+
+```{python}
+# Step 1: Rename columns 'country' to 'country_name' and 'iso3' to 'country_code'
+immunisation_data.rename(columns={"country": "country_name", "iso3": "country_code"}, inplace=True)
+```
+
+```{python}
+# Step 2: Remove the column 'unicef_region'
+immunisation_data.drop(columns=["unicef_region"], inplace=True)
+```
+
+```{python}
+# Step 3: Rearrange the columns to make 'country_name' the first column
+columns_order = ["country_name"] + [col for col in immunisation_data.columns if col != "country_name"]
+immunisation_data1 = immunisation_data[columns_order]
+```
+
+```{python}
+# Display the updated DataFrame
+print(immunisation_data1)
+```
+##################################
+
+
+```{python}
+# Reshape the DataFrame to long format
+immunisation_data_long = pd.melt(
+    immunisation_data1,
+    id_vars=["country_name", "country_code", "vaccine"],  # Fixed columns
+    value_vars=[str(year) for year in range(2000, 2024)],  # Years to unpivot
+    var_name="year",            # Name for the year column
+    value_name="immunisation_percentage"  # Name for the immunization percentage column
+)
+```
+
+
+```{python}
+# Convert the 'year' column to integer for easier manipulation
+immunisation_data_long["year"] = immunisation_data_long["year"].astype(int)
+```
+
+```{python}
+# Reorganize columns for clarity
+immunisation_data_long = immunisation_data_long[
+    ["country_name", "country_code", "vaccine", "year", "immunisation_percentage"]
+]
+
+```
+
+```{python}
+# Display the resulting long-format DataFrame
+print(immunisation_data_long)
+```
