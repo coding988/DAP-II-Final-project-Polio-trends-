@@ -1,0 +1,37 @@
+---
+title: "Data Cleaning"
+format: html
+---
+
+
+
+#### Defecation data
+
+### Loading the Dattaframe
+```{python}
+#Loading the Dataframe
+import pandas as pd
+df = pd.read_csv("/Users/afreenwala/Documents/GitHub/DAP-II-Final-project-Polio-trends-/1) Data Wrangling/3) Defecation /raw_data_defecation.csv")
+print(df.head()) 
+```
+
+### Cleaning File
+```{python}
+# Reshape the DataFrame from wide to long format, for years 2000 to 2020
+df_long = pd.melt(
+    df,
+    id_vars=['Country Name', 'Country Code'],  # Columns to keep as is
+    value_vars=[str(year) for year in range(2000, 2021)],        # Year columns to unpivot (2000 to 2020)
+    var_name='Year',                                             # Name of the new "Year" column
+    value_name='Defecation Rate'                                 # Name of the new data column
+)
+
+# Display the resulting DataFrame
+print(df_long.head())
+
+# Save the reshaped data to CSV
+df_long.to_csv("/Users/afreenwala/Documents/GitHub/DAP-II-Final-project-Polio-trends-/1) Data Wrangling/3) Defecation /clean_def_data.csv", index=False)
+```
+
+
+
